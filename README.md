@@ -21,10 +21,15 @@ Creando así, una amplica biblioteca formativa online en español. Mediante enla
 
 ### Cómo contribuir
 
-Por favor, lea [CONTRIBUCIÓN - :construction::construction::construction: - ](/contribucion.md).
+Por favor, lea en [contribución](/contribucion.md).
 
 
 ### Cómo compartir (- :construction::construction::construction: -)
+
++ [Compartir en Twitter](http://twitter.com/home?status=https://github.com/DpdC/biblioteca%20espanol%20gratis)
++ [Compartir en Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/DpdC/biblioteca-espanol-gratis&p[images][0]=&p[title]=DpdC&p[summary]=)
++ [Compartir en Google Plus](https://plus.google.com/share?url=https://github.com/DpdC/biblioteca-espanol-gratis)
++ [Compartir en LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/DpdC/biblioteca-espanol-gratis&title=DpdC&summary=&source=)
 
 
 ### Cursos de programación en línea gratis
@@ -34,7 +39,7 @@ Por favor, lea [CONTRIBUCIÓN - :construction::construction::construction: - ](/
 
 ### Cursos de otras temáticas en línea gratis
 
-+ [Cursos Online, Open Courses, MOOC´s de Educación](/cursos-otras-tematicas-gratis.md)
++ [Cursos Online, Open Courses, MOOC´s de Agricultura, Animación, Educación, Fotografía, Medio Ambiente, Negocios, etc..](/cursos-otras-tematicas-gratis.md)
 
 
 ### Recursos de programación interactiva (- :construction::construction::construction: -)
@@ -54,3 +59,10 @@ Por favor, lea [CONTRIBUCIÓN - :construction::construction::construction: - ](/
 
 ### Juegos de Programación (- :construction::construction::construction: -)
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-playgrounds.md)
+
+
+---
+
+### Licencia
+
+Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://www.pabloalvarezcorredera.com), los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) en especial, y sus autores iniciales: [Victor Felder & la Free Ebook Foundation](/LICENCIA.txt) sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
