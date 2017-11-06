@@ -351,4 +351,4 @@
 
 ### Licencia
 
-Este repositorio esta bajo la autoría de [DpdC](http://www.pabloalvarezcorredera.com) y sobre [Licencia Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.es_ES) bajo la base de [Free Programming Books Es](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md)
+Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://www.pabloalvarezcorredera.com), los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md), y [Victor Felder & la Free Ebook Foundation](/LICENCIA.txt) sobre [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).

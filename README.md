@@ -1,12 +1,12 @@
 # Biblioteca de recursos de aprendizaje de programación
 
-[Biblioteca Programación (+ 125 libros)](/libros-programacion-gratis.md)
-[Biblioteca Programación - Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol)
+* [Biblioteca Programación (+ 125 libros)](/libros-programacion-gratis.md)
+* [Biblioteca Programación - Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol)
 
 
 ## Introducción
 
-Esta lista es una idea surgida hace más de medio año; tras conocer el proyecto original de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el cual fue iniciado por Victor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org).
+Esta lista es una idea surgida en Mayo de 2017; tras conocer el proyecto original de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el cual fue iniciado por Victor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org).
 
 El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo; existia muy poca cantidad de contenido en español.
 
