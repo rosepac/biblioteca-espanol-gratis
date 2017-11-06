@@ -1,6 +1,6 @@
 # Lista de recursos de aprendizaje gratuitos en español
 
-[Ver el listado de programación](/libros-programacion-gratis.md)
+[Ver listado de Programación](/libros-programacion-gratis.md)
 
 ## Introducción
 Esta lista es un clon de la lista original [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books) inicialmente creada por Victor Felder, y actualmente mantenida por la  [Free Ebook Foundation](https://ebookfoundation.org). 
@@ -21,14 +21,17 @@ Por favor, lea [CONTRIBUCIÓN - EN PRÓXIMA CONSTRUCCIÓN - ](/contribucion.md).
 ### Cómo compartir [ - EN PRÓXIMA CONSTRUCCIÓN - ]
 
 
-### Cursos en línea gratis [ - EN PRÓXIMA CONSTRUCCIÓN - ]
+### Cursos en línea gratis
++ [Cursos Online, Open Courses, MOOC´s de Programación en español y organizados por Temáticas](/cursos-programacion-gratis.md)
++ Recopilatorios de Cursos Online en español
+  * []
 
 
 ### Recursos de programación interactiva [ - EN PRÓXIMA CONSTRUCCIÓN / VERSIÓN EN INGLÉS POR AHORA - ]
 + [Tutoriales Gratuitos de Programación Interactiva - En Inglés Temporalmente -](/free-programming-interactive-tutorials-en.md)
 
 
-### Frameworks y recursos de JavaScript [ - EN PRÓXIMA CONSTRUCCIÓN / VERSIÓN EN INGLÉS POR AHORA - ]
+### Recursos de framework´s  de JavaScript
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/javascript-frameworks-resources.md)
 
 

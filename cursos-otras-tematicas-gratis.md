@@ -100,6 +100,7 @@
 
 * [Inglés](https://ocw.unican.es/course/view.php?id=130) *Univ. de Cantabria* (2011)
 * [Inglés - I](https://ocw.unican.es/course/view.php?id=130) *Univ. Politécnica de Valencia* (2009)
+* [Inglés con vocabulario de Ingienería de Software](https://www.english4it.com/) (HTML)
 
 
 ### Medio Ambiente
@@ -139,4 +140,4 @@
 
 ### Licencia
 
-Este repositorio esta bajo la autoría de [DpdC](http://www.pabloalvarezcorredera.com) y la Licencia Creative Commons [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Este repositorio esta bajo la autoría de [DpdC](http://www.pabloalvarezcorredera.com) y sobre [Licencia Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.es_ES)

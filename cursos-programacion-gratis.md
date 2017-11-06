@@ -251,4 +251,4 @@
 
 ### Licencia
 
-Este repositorio esta bajo la autoría de [DpdC](http://www.pabloalvarezcorredera.com) y la Licencia Creative Commons [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Este repositorio esta bajo la autoría de [DpdC](http://www.pabloalvarezcorredera.com) y sobre [Licencia Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
