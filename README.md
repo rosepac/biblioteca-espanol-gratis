@@ -1,43 +1,50 @@
-# Lista de recursos de aprendizaje gratuitos en español
+# Biblioteca de recursos de aprendizaje de programación gratuitos en español
 
-[Ver listado de Programación](/libros-programacion-gratis.md)
+[Biblioteca Programación](/libros-programacion-gratis.md)
+
 
 ## Introducción
-Esta lista es un clon de la lista original [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books) inicialmente creada por Victor Felder, y actualmente mantenida por la  [Free Ebook Foundation](https://ebookfoundation.org). 
 
-El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), con más de 96.000 estrellas, más de 4.000 'commits' y +24.000 'forks'.
-with over 80,000 stars, over 4000 commits, over 800 contributors, and over 20,000 forks.
+Esta lista es una idea surgida hace ya más de medio año; tras conocer el proyecto original de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el cual fue iniciado por Victor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org).
 
-Este repositorio se concentra en seguir la linea iniciada por los autores anteriores, enfocando el proyecto hacía el idioma *español*.
+El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo; existia muy poca cantidad de contenido en español.
 
-Buscando facilitar recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de la informática e incluso hacía otras personas que deseen aprender sobre otras temáticas, en general. 
+Por ende, esta escisión se centra en enfocar el proyecto hacía el idioma *_español_*.
+
+Facilitando recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de la informática e incluso hacía otras personas que deseen aprender sobre otras temáticas, en general. 
  
-Mi ilusión sería lograr una inmensa biblioteca formativa online en español, de enlaces directos a los que llegar sin rodeos; [Pablo Álvarez Corredera](http://www.pabloalvarezcorredera.com)
+Creando así, una amplica biblioteca formativa online en español; mediante enlaces directos a los que llegar sin rodeos.
+
+*[Pablo Álvarez Corredera](http://www.pabloalvarezcorredera.com), Saludos.*
+
 
 ### Cómo contribuir
 
-Por favor, lea [CONTRIBUCIÓN - EN PRÓXIMA CONSTRUCCIÓN - ](/contribucion.md).
+Por favor, lea [CONTRIBUCIÓN - :construction::construction::construction: - ](/contribucion.md).
 
-### Cómo compartir [ - EN PRÓXIMA CONSTRUCCIÓN - ]
+
+### Cómo compartir [ - :construction::construction::construction: - ]
 
 
 ### Cursos en línea gratis
+
 + [Cursos Online, Open Courses, MOOC´s de Programación en español y organizados por Temáticas](/cursos-programacion-gratis.md)
-+ Recopilatorios de Cursos Online en español
-  * []
 
 
-### Recursos de programación interactiva [ - EN PRÓXIMA CONSTRUCCIÓN / VERSIÓN EN INGLÉS POR AHORA - ]
+### Recursos de programación interactiva [ - :construction::construction::construction: - ]
+
 + [Tutoriales Gratuitos de Programación Interactiva - En Inglés Temporalmente -](/free-programming-interactive-tutorials-en.md)
 
 
 ### Recursos de framework´s  de JavaScript
+
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/javascript-frameworks-resources.md)
 
 
-### Podcast - Screencast [ - EN PRÓXIMA CONSTRUCCIÓN / VERSIÓN EN INGLÉS POR AHORA - ]
+### Podcast - Screencast [ - :construction::construction::construction: - ]
+
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-cs.md)
 
 
-### Juegos de Programación [ - EN PRÓXIMA CONSTRUCCIÓN / VERSIÓN EN INGLÉS POR AHORA - ]
+### Juegos de Programación [ - :construction::construction::construction: - ]
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-playgrounds.md)
