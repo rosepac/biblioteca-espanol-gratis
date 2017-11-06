@@ -31,10 +31,12 @@ ___
 
 ## **Índice Global**
 
+### Generales
+
 + [Biblioteca Programación (+ 125 libros)](/libros-programacion-gratis.md#Índice)
 + [Biblioteca Programación - Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--#Índice)
-+ [Cursos de Programación](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
-+ [Cursos de Otras Temáticas](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
++ [Cursos de Programación (+ 150 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
++ [Cursos de Otras Temáticas (+ 50 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 
 
 ### Biblioteca Programación
@@ -93,9 +95,9 @@ ___
 
 + [Agricultura](/cursos-otras-tematicas-gratis.md#agricultura)
 + [Animación & 3D](/cursos-otras-tematicas-gratis.md#animacion--3D)
-+ [Arte(/cursos-otras-tematicas-gratis.md#arte)
++ [Arte](/cursos-otras-tematicas-gratis.md#arte)
 + [Comunicaciones & Sonido](/cursos-otras-tematicas-gratis.md#comunicaciones--sonido)
-+ [Educación(/cursos-otras-tematicas-gratis.md#educacion)
++ [Educación](/cursos-otras-tematicas-gratis.md#educacion)
 + [Educación Especial](/cursos-otras-tematicas-gratis.md#educacion-especial)
 + [Ejercicio & Deporte](/cursos-otras-tematicas-gratis.md#ejercicio--deporte)
 + [Envejecimiento](/cursos-otras-tematicas-gratis.md#envejecimiento)
@@ -107,7 +109,6 @@ ___
 + [Referencias Bibliográficas](/cursos-otras-tematicas-gratis.md#referencias-bibliograficas)
 + [Salud & Nutrición](/cursos-otras-tematicas-gratis.md#salud--nutricion)
 + [Software Educativo](/cursos-otras-tematicas-gratis.md#software-educativo)
-
 
 
 ### Recursos de programación interactiva (- :construction::construction::construction: -)
