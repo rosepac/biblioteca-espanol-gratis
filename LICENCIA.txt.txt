@@ -1,8 +1,0 @@
-Este trabajo está bajo la licencia 'Creative Commons Attribution 4.0 Internacional':
-https://creativecommons.org/licenses/by/4.0/deed.es_ES y como tal debe mantenerse.
-Esta licencia viene heredada del proyecto: https://github.com/EbookFoundation/free-programming-books por tratarse una modificación de la sección en español existente en el mismo.
-
-El proyecto inicial esta atribuido a Victor Felder & la Free Ebook Foundation y no esta demás; dar las gracias a todos sus contribuidores: https://github.com/EbookFoundation/free-programming-books/graphs/contributors ya que no son precisamente pocos. 
-
-Yo, soy Pablo Álvarez Corredera; y os dejo saludos y mil gracias, si os ofrecéisis a participar.  :)
-
