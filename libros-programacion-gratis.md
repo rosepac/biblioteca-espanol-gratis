@@ -1,4 +1,4 @@
-### Index
+### Índice
 
 * [0 - Meta-Listas](#0---meta-listas)
 * [1 - Agnósticos](#1---agn%C3%B3sticos)

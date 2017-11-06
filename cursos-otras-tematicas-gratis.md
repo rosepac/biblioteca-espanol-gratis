@@ -1,20 +1,20 @@
 ### Índice
 
 * [Agricultura](#agricultura)
-* [Animación & 3D](#animación-y-3D)
+* [Animación & 3D](#animación---3D)
 * [Arte](#arte)
-* [Comunicaciones & Sonido](#comunicaciones-y-sonido)
+* [Comunicaciones & Sonido](#comunicaciones---sonido)
 * [Educación](#educación)
 * [Educación Especial](#educación-especial)
-* [Ejercicio & Deporte](#ejercicio-y-deporte)
+* [Ejercicio & Deporte](#ejercicio---deporte)
 * [Envejecimiento](#envejecimiento)
 * [Fotografía](#fotografía)
 * [Frutícultura](#frutícultura)
-*[Idiomas](#idiomas)
+* [Idiomas](#idiomas)
 * [Medio Ambiente](#medio-ambiente)
 * [Negocio](#negocio)
 * [Referencias Bibliográficas](#referencias-bibliográficas)
-* [Salud y nutrición](#salud-y-nutrición)
+* [Salud y nutrición](#salud--nutrición)
 * [Software Educativo](#software-educativo)
 
 
@@ -125,7 +125,7 @@
 * [Gestión de referencias bibliográficas con Zotero y otras aplicaciones de software libre](http://ocw.um.es/transversales/gestion-de-referencias-bibliograficas-con-zotero-y) *Open Course Univ. Murcia* (2009)
 
 
-### Salud y nutrición
+### Salud & nutrición
 
 * [Flashdiet: Salud y nutrición. Aprende a comer sano](https://www.upvx.es/courses/TecnologiaDeAlimentos/flashdiet2/2016-02/about) *Open Course Univ. Valencia*
 
