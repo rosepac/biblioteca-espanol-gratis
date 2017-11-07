@@ -37,8 +37,8 @@ ___
 ## **Global**
 
 + [Biblioteca Programación (+ 125 libros)](/libros-programacion-gratis.md#Índice)
-+ [Biblioteca Programación - Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--#Índice)
-+ [Cursos de Programación (+ 150 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
++ [Biblioteca Programación - Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--#gitbook---biblioteca-de-libros-en-español--)
++ [Cursos de Programación (+ 150 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
 + [Cursos de Otras Temáticas (+ 50 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 
 
