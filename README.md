@@ -1,6 +1,9 @@
 # Biblioteca de recursos de aprendizaje de programación
 [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/MundoFramework/)
+[![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg?style=plastic)](https://github.com/DpdC/biblioteca-espanol-gratis)
+[![GitHub issue author](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg?style=plastic)](https://github.com/DpdC/biblioteca-espanol-gratis)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/DpdC/biblioteca-espanol-gratis)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=flat-square)](https://twitter.com/MundoFramework)
 
 
 ## **Introducción**
