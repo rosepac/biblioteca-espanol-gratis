@@ -1,8 +1,8 @@
 # Biblioteca de recursos de aprendizaje de programación
 [![GitHub issue author](https://img.shields.io/badge/autor-pabloalvarez-orange.svg?style=plastic)](https://www.mundoframework.com)
-[![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg?style=plastic)](https://github.com/DpdC/biblioteca-espanol-gratis)
 [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=flat-square)](https://twitter.com/MundoFramework)
+[![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg?style=plastic)](https://github.com/DpdC/biblioteca-espanol-gratis)
 
 
 ## **Introducción**
@@ -25,30 +25,29 @@ Creando así, una amplica biblioteca formativa online en español. Mediante enla
 Por favor, lea en [contribución](/contribucion.md).
 
 
-### Cómo compartir
+### Compartir
 
-+ [Compartir en Twitter](http://twitter.com/home?status=https://github.com/DpdC/biblioteca-espanol-gratis&0ABiblioteca%20de%20Programación)
-+ [Compartir en Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/DpdC/biblioteca-espanol-gratis&p[images][0]=&p[title]=DpdC&p[summary]=)
-+ [Compartir en Google Plus](https://plus.google.com/share?url=https://github.com/DpdC/biblioteca-espanol-gratis)
-+ [Compartir en LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/DpdC/biblioteca-espanol-gratis&title=DpdC&summary=&source=)
++ [Mediante Twitter](http://twitter.com/home?status=https://github.com/DpdC/biblioteca-espanol-gratis&0ABiblioteca%20de%20Programación)
++ [Mediante Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/DpdC/biblioteca-espanol-gratis&p[images][0]=&p[title]=DpdC&p[summary]=)
++ [Mediante Google Plus](https://plus.google.com/share?url=https://github.com/DpdC/biblioteca-espanol-gratis)
++ [Mediante LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/DpdC/biblioteca-espanol-gratis&title=DpdC&summary=&source=)
 
 ___
 
-## **Índice Global**
-
-### Generales
+## **Global**
 
 + [Biblioteca Programación (+ 125 libros)](/libros-programacion-gratis.md#Índice)
 + [Biblioteca Programación - Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--#Índice)
 + [Cursos de Programación (+ 150 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 + [Cursos de Otras Temáticas (+ 50 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 
+
 ## **Índice Global por Contenidos**
 
 ### Biblioteca Programación
 
 + [Android](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#android)
-+ [C](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#C)
++ [C](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#c)
 + [C++](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#C++)
 + [Coffescript](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#coffescript)
 + [Emacs](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#emacs)
@@ -62,7 +61,7 @@ ___
 + [JavaScript](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#javascript)
 + [Latex](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#latex)
 + [Linux](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#linux)
-+ [.NET](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#net)
++ [.NET](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md##net-c--visual-studio)
 + [NoSql](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#nosql)
 + [Perl](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#perl)
 + [PHP](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#php)

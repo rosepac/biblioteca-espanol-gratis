@@ -13,7 +13,7 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)
-* [Coffeescript](#coffeescript)
+* [Coffescript](#coffescript)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
@@ -140,7 +140,7 @@
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
 
 
-### Coffeescript
+### Coffescript
 
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (LeanPub)
 
