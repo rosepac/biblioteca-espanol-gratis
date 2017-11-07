@@ -1,6 +1,6 @@
 # Biblioteca de recursos de aprendizaje de programación
 [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](pio,pio)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](@DpdC)
 
 
 ## **Introducción**
