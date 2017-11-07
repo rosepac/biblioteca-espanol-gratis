@@ -1,8 +1,10 @@
 ## Acuerdo de licencia del contribuyente
 Al contribuir, aceptas la [LICENCIA](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) del repositorio.
 
+
 ## Código de conducta del contribuidor
 Al contribuir, acepta el [Código de Conducta](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) de este repositorio.
+
 
 ## Brevemente
 1. "Un enlace, un libro: un enlace, un curso"; gratis, no siempre es *libre*. Por favor, contribuir únicamente con contenido libre. Asegúrate de que sea gratis.
@@ -19,6 +21,7 @@ Al contribuir, acepta el [Código de Conducta](https://github.com/EbookFoundatio
 4. Asegúrate de seguir las [guías](#guias) y respetar el [formato de Markdown](#formato) de los documentos.
 
 5. :construict: Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
+
 
 ### Guías :construction::construction::construction::construction: 
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
@@ -43,6 +46,7 @@ Al contribuir, acepta el [Código de Conducta](https://github.com/EbookFoundatio
 - if the book is older, include the publication date with the title. 
 - include the author name or names where appropriate. You can shorten author lists with "et al."
 - if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
+
 
 ### Formato
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!

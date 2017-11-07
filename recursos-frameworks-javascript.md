@@ -18,57 +18,57 @@
 * [Conociendo Backbone](https://www.youtube.com/watch?v=IwO0z4JmPvU) - 75 min.
 * [Crear aplicación con backbone](https://www.youtube.com/watch?v=pQE5OGGo6KE&list=PLQCgNGUqLK4ms3oHeg-GmcHgf1KyeentC) - 60 min.
 * [Curso de Backbone.js](https://www.youtube.com/watch?v=pQE5OGGo6KE&list=PLQCgNGUqLK4ms3oHeg-GmcHgf1KyeentC) - 6 vídeos
-* [Framework](http://backbonejs.org/)
+* [Framework](http://backbonejs.org)
 
 
 ## Cycle.js
 
-* [Framework](https://cycle.js.org/)
+* [Framework](https://cycle.js.org)
 
 
 ## D3.js
 
-* [Framework](https://d3js.org/)
+* [Framework](https://d3js.org)
 
 
 ## Dojo
 
-* [Framework](https://dojo.io/)
+* [Framework](https://dojo.io)
 
 
 ## Electron.js
 
-* [Framework](https://electron.atom.io/)
+* [Framework](https://electron.atom.io)
 
 
 ## Elm
 
-* [Framework](http://elm-lang.org/)
+* [Framework](http://elm-lang.org)
 
 
 ## Ember.js
 
-* [Framework](https://www.emberjs.com/)
+* [Framework](https://www.emberjs.com)
 
 
 ## Hyperapp
 
-* [Framework](https://hyperapp.js.org/)
+* [Framework](https://hyperapp.js.org)
 
 
 ## jQuery
 
-* [Framework](http://jqueryui.com/)
+* [Framework](http://jqueryui.com)
 
 
 ## Meteor
 
-* [Framework](https://www.meteor.com/)
+* [Framework](https://www.meteor.com)
 
 
 ## Node.js
 
-* [Framework](https://nodejs.org/es/)
+* [Framework](https://nodejs.org/es)
 
 
 ## Om
@@ -78,22 +78,22 @@
 
 ## Polymer
 
-* [Framework](https://www.polymer-project.org/)
+* [Framework](https://www.polymer-project.org)
 
 
 ## React
 
-* [Framework](https://reactjs.org/)
+* [Framework](https://reactjs.org)
 
 
 ## React Native
 
-* [Framework](http://www.reactnative.com/)
+* [Framework](http://www.reactnative.com)
 
 
 ## Redux
 
-* [Framework](https://redux.js.org/)
+* [Framework](https://redux.js.org)
 
 
 ---
