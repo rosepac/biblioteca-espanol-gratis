@@ -1,4 +1,7 @@
 # Biblioteca de recursos de aprendizaje de programación
+[![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](pio,pio)
+
 
 ## **Introducción**
 
@@ -38,6 +41,7 @@ ___
 + [Cursos de Programación (+ 150 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 + [Cursos de Otras Temáticas (+ 50 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 
+## **Índice Global por Contenidos**
 
 ### Biblioteca Programación
 
@@ -70,7 +74,6 @@ ___
 
 ### Cursos de programación en línea gratis
 
-+ [Cursos Online, Open Courses, MOOC´s de Programación en español y organizados por Temáticas](/cursos-programacion-gratis.md)
 + [Android](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#android)
 + [Arduino](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#arduino)
 + [Bases de Datos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#bases-de-datos)
