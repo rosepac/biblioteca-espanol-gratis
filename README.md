@@ -115,22 +115,22 @@ ___
 + [Software Educativo](/cursos-otras-tematicas-gratis.md#software-educativo)
 
 
-### Recursos de programación interactiva (- :construction::construction::construction: -)
+### Recursos de programación interactiva (:construction: :construction: :construction: :construction: :construction:)
 
 + [Tutoriales Gratuitos de Programación Interactiva - En Inglés Temporalmente -](/free-programming-interactive-tutorials-en.md)
 
 
-### Recursos de framework´s  de JavaScript (- :construction::construction::construction: -)
+### Recursos de framework´s  de JavaScript (:construction: :construction: :construction: :construction: :construction:)
 
 + [En Español :construction:](/recursos-frameworks-javascript.md)
 
 
-### Podcast - Screencast (- :construction::construction::construction: -)
+### Podcast - Screencast (:construction: :construction: :construction: :construction: :construction:)
 
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-cs.md)
 
 
-### Juegos de Programación (- :construction::construction::construction: -)
+### Juegos de Programación (:construction: :construction: :construction: :construction: :construction:)
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-playgrounds.md)
 
 
