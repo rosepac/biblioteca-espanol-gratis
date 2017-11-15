@@ -147,6 +147,7 @@
 * [Starting to write English with no mistakes: Level B1](https://iedra.uned.es/courses/course-v1:UNED+SEnglish_002+2017/about)
 * [Traducción literaria en inglés: desde el Old English al Spanglish](https://iedra.uned.es/courses/course-v1:UNED+radLitIng_004+2017_T4/about?utm_campaign=camp_20171107_nuevos_cursos)
 
+
 ### Medio Ambiente
 
 * [Desarrollo sostenible en Cantabria (2012)](https://ocw.unican.es/course/view.php?id=138)
@@ -171,15 +172,15 @@
 ### Referencias Bibliográficas e Información
 
 * [Gestión de referencias bibliográficas con Zotero y otras aplicaciones de software libre (2009)](http://ocw.um.es/transversales/gestion-de-referencias-bibliograficas-con-zotero-y)
+* [Información y Alfabetización informacional. Almacenamiento y recuperación de información, datos y contenido digital. (Nivel Avanzado)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_A_Na_02+2017_02/about)
 * [Información y Alfabetización informacional. Almacenamiento y recuperación de información, datos y contenido digital. (Nivel Básico)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_A_Nb_02+2017_02/about)
 * [Información y Alfabetización informacional. Almacenamiento y recuperación de información, datos y contenido digital. (Nivel Medio)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_A_Ni_02+2017_02/about)
-* [Información y Alfabetización informacional. Almacenamiento y recuperación de información, datos y contenido digital. (Nivel Avanzado)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_A_Na_02+2017_02/about)
+* [Información y Alfabetización informacional. Evaluación de información, datos y contenido digital. (Nivel Avanzado)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_E_Na_02+2017_02/about?utm_campaign=camp_20171107_nuevos_cursos)
 * [Información y Alfabetización informacional. Evaluación de información, datos y contenido digital. (Nivel Básico)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_E_Nb_02+2017_02/about?utm_campaign=camp_20171107_nuevos_cursos)
 * [Información y Alfabetización informacional. Evaluación de información, datos y contenido digital. (Nivel Medio)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_E_Ni_02+2017_02/about?utm_campaign=camp_20171107_nuevos_cursos)
-* [Información y Alfabetización informacional. Evaluación de información, datos y contenido digital. (Nivel Avanzado)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_E_Na_02+2017_02/about?utm_campaign=camp_20171107_nuevos_cursos)
+* [Información y Alfabetización informacional. Navegación, búsqueda y filtrado de información, datos y contenido digital (Nivel Avanzado)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_I_Na_02+2017_02/about)
 * [Información y Alfabetización informacional. Navegación, búsqueda y filtrado de información, datos y contenido digital (Nivel Básico) ](https://iedra.uned.es/courses/course-v1:UNED+FDCD_I_Nb_02+2017_02/about)
 * [Información y Alfabetización informacional. Navegación, búsqueda y filtrado de información, datos y contenido digital (Nivel Intermedio)](https://iedra.uned.es/courses/course-v1:UNED+FDCD_I_Ni_02+2017_02/about)
-* [Información y Alfabetización informacional. Navegación, búsqueda y filtrado de información, datos y contenido digital (Nivel Avanzado)]https://iedra.uned.es/courses/course-v1:UNED+FDCD_I_Na_02+2017_02/about
 
 
 ### Salud & nutrición
