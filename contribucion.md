@@ -43,20 +43,19 @@ Aquí se pueden visualizar, ejemplos: [Espaciados Adecuados](https://github.com/
 * No incluyas archivos alojados en google drive, dropbox, mega, scribd, issuu u otras plataformas de carga de archivos similares
 * Preferiblemente 'commits' (un 'commit' por adición/ eliminación/ modificación) antes de grandes 'commits'. No es necesario aplastar tus compromisos antes de enviar un PR (Nunca aplicaremos esta regla ya que es solo una cuestión de conveniencia para los mantenedores)
 * Preferiblemente utiliza el enlace "actual" al de una versión: [http://example.com/dir/book/current/](http://example.com/dir/book/current/) es mejor que [http://example.com/dir/book/v1.0.0/index.html](http://example.com/dir/book/v1.0.0/index.html)
-* Siempre es preferible el enlace más corto: `http://example.com/dir/` es mejor que `http://example.com/dir/index.html`
-    * Sin enlaces de acortadores de URL.
-* Siempre es preferible enlaces `https` sobre uno `http` siempre y cuando estén en el mismo dominio y sirvan el mismo contenido.
-* Si un enlace tiene un certificado caducado / certificado autofirmado / o problema SSL de cualquier tipo:
-  1. *Reemplazarlo* con su `http` si es posible (porque aceptar excepciones puede ser complicado en dispositivos móviles).
-  2. *Déjalo* si la versión `http` no esta accesible, pero la`https` sí; a través de una excepció nde seguridad del navegador.
-  3.  De otra manera*eliminalo*.
+* Si el libro es más antiguo, incluya la fecha de publicación con el título. 
+* Si el libro no esta terminado y todavía se está trabajando en él, agrega la notificación"en proceso" como se describe [aquí.](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md#in_process)
 * Si existe un enlace de forma múltiple, agrega un enlace por separado con una nota sobre cada formato.
 * Si existe un recurso en diferentes lugares de Internet
-    * usa el enlace con la fuente más autorizada
-    * si se vinculan a diferentes ediciones y usted juzga que estas ediciones son lo suficientemente diferentes como para que valga la pena mantenerlas, agregue un enlace por separado con una nota sobre cada edición (ver [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir a la discusión sobre el formato.)
-* Si el libro es más antiguo, incluya la fecha de publicación con el título. 
-* Si el libro no esta terminado, 
-if the book is not finished, y todavía se está trabajando en él, agrega la notificación"en proceso" como se describe [aquí.](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md#in_process)
+    * Si se vinculan a diferentes ediciones y usted juzga que estas ediciones son lo suficientemente diferentes como para que valga la pena mantenerlas, agregue un enlace por separado con una nota sobre cada edición (ver [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir a la discusión sobre el formato).
+	* Usa el enlace con la fuente más autorizada.
+* Si un enlace tiene un certificado caducado / certificado autofirmado / o problema SSL de cualquier tipo:
+  1.  De otra manera*eliminalo*.
+  2. *Déjalo* si la versión `http` no esta accesible, pero la`https` sí; a través de una excepció nde seguridad del navegador.
+  3. *Reemplazarlo* con su `http` si es posible (porque aceptar excepciones puede ser complicado en dispositivos móviles).
+* Siempre es preferible el enlace más corto: `http://example.com/dir/` es mejor que `http://example.com/dir/index.html`
+* Siempre es preferible enlaces `https` sobre uno `http` siempre y cuando estén en el mismo dominio y sirvan el mismo contenido.
+* Sin enlaces de acortadores de URL.
 * Usa el enlace con la fuente más autorizada. Lo que signfica que el sitio web del autor es mejor que el sitio web del editor, y esté; mejor que el sitio web de un tercero.
     * no uses servicios de alojamiento (esto incluye (pero no está limitado a) Dropbox y enlaces de Google Drive)
 
