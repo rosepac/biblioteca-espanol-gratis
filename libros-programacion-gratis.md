@@ -9,6 +9,7 @@
   * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
   * [Misceláneos](#miscel%C3%A1neos)
   * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
+  * [Servicios en red](#servicios--red)
   * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
 * [C](#c)
@@ -113,6 +114,12 @@
 #### Paradigmas de Programación
 
 * [Programación Funcional (1996)](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
+
+
+#### Servicios en red
+
+* [Aulas en red. Aplicaciones y servicios. Linux](http://www.ite.educacion.es/formacion/materiales/85/cd/linux/indice.htm)
+* [Aulas en red. Aplicaciones y servicios. Windows](http://www.ite.educacion.es/formacion/materiales/85/cd/windows/indice.htm)
 
 
 #### Sistemas Operativos
