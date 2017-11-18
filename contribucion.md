@@ -29,7 +29,6 @@ Al contribuir, acepta el [Código de Conducta](https://github.com/EbookFoundatio
 * Todas las listas comienzan con un índice. La idea es enumerar y vincular todas las secciones y subsecciones en el. Mantenlo en orden alfabético.
 * Todas las listas son archivos `.md`. Se recomienda, aprender la sintaxis de [Markdown] (https://guides.github.com/features/mastering-markdown/). ¡Es sencillo!
 La idea es tener`2` líneas vacías entre el último enlace y la nueva sección,  `1` línea vacía entre el encabezado y el primer enlace de su sección, `0` líneas vacías entre dos enlace y`1` línea vacía al final de cada archivo `.md`.
-
 Aquí se pueden visualizar, ejemplos: [Espaciados Adecuados](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md#formatting)
 
 
