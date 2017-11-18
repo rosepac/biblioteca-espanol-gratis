@@ -28,7 +28,6 @@ Al contribuir, acepta el [Código de Conducta](https://github.com/EbookFoundatio
 * Las secciones usan encabezados de nivel 3 (`###`), y las subsecciones de nivel 4 (`####`).
 * Todas las listas comienzan con un índice. La idea es enumerar y vincular todas las secciones y subsecciones en el. Mantenlo en orden alfabético.
 * Todas las listas son archivos `.md`. Se recomienda, aprender la sintaxis de [Markdown] (https://guides.github.com/features/mastering-markdown/). ¡Es sencillo!
-
 La idea es tener`2` líneas vacías entre el último enlace y la nueva sección,  `1` línea vacía entre el encabezado y el primer enlace de su sección, `0` líneas vacías entre dos enlace y`1` línea vacía al final de cada archivo `.md`.
 
 Aquí se pueden visualizar, ejemplos: [Espaciados Adecuados](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md#formatting)
@@ -47,7 +46,7 @@ Aquí se pueden visualizar, ejemplos: [Espaciados Adecuados](https://github.com/
 * Si el libro no esta terminado y todavía se está trabajando en él, agrega la notificación"en proceso" como se describe [aquí.](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md#in_process)
 * Si existe un enlace de forma múltiple, agrega un enlace por separado con una nota sobre cada formato.
 * Si existe un recurso en diferentes lugares de Internet
-    * Si se vinculan a diferentes ediciones y usted juzga que estas ediciones son lo suficientemente diferentes como para que valga la pena mantenerlas, agregue un enlace por separado con una nota sobre cada edición (ver [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir a la discusión sobre el formato).
+    * Si se vinculan a diferentes ediciones y usted juzga que estas ediciones son lo suficientemente diferentes como para que valga la pena mantenerlas, agregue un enlace por separado con una nota sobre cada edición, ver [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir a la discusión sobre el formato.
 	* Usa el enlace con la fuente más autorizada.
 * Si un enlace tiene un certificado caducado / certificado autofirmado / o problema SSL de cualquier tipo:
   1.  De otra manera*eliminalo*.
