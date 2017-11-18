@@ -46,7 +46,6 @@ Aquí se pueden visualizar, ejemplos: [Espaciados Adecuados](https://github.com/
 * Si existe un enlace de forma múltiple, agrega un enlace por separado con una nota sobre cada formato.
 * Si existe un recurso en diferentes lugares de Internet
     * Si se vinculan a diferentes ediciones y usted juzga que estas ediciones son lo suficientemente diferentes como para que valga la pena mantenerlas, agregue un enlace por separado con una nota sobre cada edición, ver [Issue 2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir a la discusión sobre el formato.
-	* Usa el enlace con la fuente más autorizada.
 * Si un enlace tiene un certificado caducado, certificado autofirmado, o problema SSL de cualquier tipo:
   1.  De otra manera*eliminalo*.
   2. *Déjalo* si la versión `http` no esta accesible, pero la`https` sí; a través de una excepció nde seguridad del navegador.
