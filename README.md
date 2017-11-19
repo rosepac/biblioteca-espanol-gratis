@@ -88,12 +88,12 @@ ___
 + [Ofimática](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#ofim&#x00E1;tica)
 + [Redes](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#redes)
 + [Redes de Telefonía](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#redes-de-telefon&#x00ED;a)
-+ [Robótica](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#robotica)
++ [Robótica](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#rob&#x00F3;tica)
 + [Seguridad](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#seguridad)
 + [Servidores](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#servidores)
 + [Sistemas de Gestión de Contenidos - CMS](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
 + [Videojuegos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#videojuegos)
-+ [Web & Webmaster](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#web-webmaster)
++ [Web & Webmaster](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#web--webmaster)
 
 
 ### Cursos de otras temáticas en línea gratis

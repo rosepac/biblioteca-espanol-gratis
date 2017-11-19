@@ -12,12 +12,12 @@
 * [Programación Web & Móvil](#programaci&#x00F3;n-web--m&#x00F3;vil)
 * [Redes](#redes)
 * [Redes de telefonía](#redes-de-telefon&#x00ED;a)
-* [Robótica](#robotica)
+* [Robótica](#rob&#x00F3;tica)
 * [Seguridad](#seguridad)
 * [Servidores](#servidores)
 * [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Videojuegos](#videojuegos)
-* [Web & Webmaster](#web-&-master)
+* [Web & Webmaster](#web--master)
 
 
 ### Android
