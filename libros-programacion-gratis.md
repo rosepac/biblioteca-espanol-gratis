@@ -152,6 +152,11 @@
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (LeanPub)
 
 
+### Emacs
+
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
+
+
 ### Ensamblador
 
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A.Carter (PDF)
@@ -160,11 +165,6 @@
 ### Erlang
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) (WikiLibros)
-
-
-### Emacs
-
-* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
 
 
 ### Git
