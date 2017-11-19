@@ -8,7 +8,7 @@
 * [Flujos de trabajo](#flujos-de-trabajo)
 * [Ofimática](#ofimatica)
 * [Procesadores de lenguaje](#procesadores-de-lenguaje)
-* [Programación](#programa)
+* [Programación](#programaci&#x00F3;n)
 * [Programación Web & Móvil](#programa-web)
 * [Redes](#redes)
 * [Redes de telefonía](#redes-de-telefonia)
