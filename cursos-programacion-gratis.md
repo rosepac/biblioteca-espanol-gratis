@@ -17,7 +17,7 @@
 * [Servidores](#servidores)
 * [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Videojuegos](#videojuegos)
-* [Web & Webmaster](#web--master)
+* [Web & Webmaster](#web--webmaster)
 
 
 ### Android
@@ -29,7 +29,7 @@
 
 ### Arduino
 
-* [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones) *Univ. Autónoma de México* 
+* [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
 
 
 ### Bases de Datos
