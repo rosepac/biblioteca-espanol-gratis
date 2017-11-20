@@ -15,7 +15,7 @@
 * [Robótica](#rob&#x00F3;tica)
 * [Seguridad](#seguridad)
 * [Servidores](#servidores)
-* [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
+* [Sistemas de Gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
 * [Videojuegos](#videojuegos)
 * [Web & Webmaster](#web--webmaster)
 

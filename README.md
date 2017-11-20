@@ -99,7 +99,7 @@ ___
 ### Cursos de otras temáticas en línea gratis
 
 + [Agricultura](/cursos-otras-tematicas-gratis.md#agricultura)
-+ [Animación & 3D](/cursos-otras-tematicas-gratis.md#animacion--3D)
++ [Animación & 3D](/cursos-otras-tematicas-gratis.md#animaci&#x00F3;n--3D)
 + [Arte](/cursos-otras-tematicas-gratis.md#arte)
 + [Comunicaciones & Sonido](/cursos-otras-tematicas-gratis.md#comunicaciones--sonido)
 + [Educación](/cursos-otras-tematicas-gratis.md#educaci&#x00F3;n)
@@ -111,7 +111,7 @@ ___
 + [Idiomas](/cursos-otras-tematicas-gratis.md#idiomas)
 + [Medio Ambiente](/cursos-otras-tematicas-gratis.md#medio-ambiente)
 + [Negocio](/cursos-otras-tematicas-gratis.md#negocio)
-+ [Referencias Bibliográficas](/cursos-otras-tematicas-gratis.md#referencias-bibliogr&#x00E1;ficas)
++ [Referencias Bibliográficas](/cursos-otras-tematicas-gratis.md#referencias-bibliogr&#x00E1;ficas--informaci&#x00F3;n)
 + [Salud & Nutrición](/cursos-otras-tematicas-gratis.md#salud--nutrici&#x00F3;n)
 + [Software Educativo](/cursos-otras-tematicas-gratis.md#software-educativo)
 
