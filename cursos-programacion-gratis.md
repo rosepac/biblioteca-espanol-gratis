@@ -56,11 +56,11 @@
 
 ### Ciencias de la Computación
   
-* [Arquitéctura e ingeniería de computadores](https://ocw.unican.es/course/view.php?id=162)
-* [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137)
 * [Análisis de Sistemas](http://www.fceia.unr.edu.ar/asist)
 * [Aplicaciones de la Teoría de Grafos a la Vida Real (I)](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-1-1)
 * [Aplicaciones de la Teoría de Grafos a la vida real II](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2-1)
+* [Arquitéctura e ingeniería de computadores](https://ocw.unican.es/course/view.php?id=162)
+* [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2)
 * [Básico de Iniciación SAP](https://www.udemy.com/iniciacion-al-sistema-sap)
 * [Curso de R básico](https://ocw.uca.es/course/view.php?id=62)
@@ -212,8 +212,8 @@
 * [Angular 5 y TypeScript; Introducción (2.017)](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso)
 * [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing)
 * [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar/)
-* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4)
 * [Aprende a crear páginas web con HTML5 y CSS3](https://www.udemy.com/aprende-a-crear-paginas-web-con-html5-y-css3)
+* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4)
 * [Aprende a crear una página web desde 0](https://www.udemy.com/aprende-a-crear-una-pagina-web-desde-0)
 * [Aprende a programar aplicaciones móviles](https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles-4-edicion-)
 * [Aprende a publicar tus páginas web](https://www.udemy.com/aprende-a-publicar-tus-paginas-web)
@@ -269,15 +269,15 @@
 * [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4)
 * [Publicación y Análisis de mapas en la Web con ArcGIS Online](https://www.udemy.com/arcgis-online)
 * [SASS para principantes: paso a paso, desde cero](https://www.udemy.com/curso-de-sass-para-principiantes-paso-a-paso-y-desde-cero)
-* [Symphony 3: en producción. Subir y publicar proyectos web](https://www.udemy.com/symfony-3-en-produccion-subir-y-publicar-proyectos-web)
 * [Swift, las bases del lenguaje de Apple para hacer apps](https://www.udemy.com/swift-2-de-padawan-a-maestro-jedi)
+* [Symphony 3: en producción. Subir y publicar proyectos web](https://www.udemy.com/symfony-3-en-produccion-subir-y-publicar-proyectos-web)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)
 * [Windows Phone. Introducción al desarrollo de aplicaciones móviles](https://miriadax.net/web/introduccion-al-desarrollo-de-aplicaciones-moviles-con-windows-phone-2-edicion-)
-* [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html)
 * [Wordpress: cómo hacer un sitio web administrable](* [Wordpress: curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress)
 * [Wordpress: curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress)
 * [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder)
 * [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido)
+* [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html)
 
 
 ### Redes
