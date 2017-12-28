@@ -99,7 +99,7 @@
 * [Corre linux corre: conociendo Ubuntu](http://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf) (PDF)
 * [La comunidad de Software Libre después de 20 años: Con un gran éxito incompleto, ¿y ahora qué?](https://smaldone.com.ar/documentos/docs/software_libre_20.pdf) (PDF)
 * [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view) (PDF)
-* [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf) (Richard M. Stallman)
+* [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf) (PDF) (Richard M. Stallman)
 
 
 #### Metodologías de desarrollo de software
@@ -154,7 +154,7 @@
 * [Aprenda C++ avanzado como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
 * [Aprenda C++ básico como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
-* [Fundamentos de Programación con el Lenguaje de Programación C++ (2017)](http://www.lcc.uma.es/~vicente/docencia/cppdoc/programacion_cxx.pdf)
+* [Fundamentos de Programación con el Lenguaje de Programación C++ (2017)](http://www.lcc.uma.es/~vicente/docencia/cppdoc/programacion_cxx.pdf) (PDF)
 
 
 ### Coffescript
