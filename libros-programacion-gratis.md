@@ -6,6 +6,7 @@
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
   * [Cursos Masivos en Línea](#cursos-masivos-en-L%C3%ADnea)
+  * [Ecosistema de Código Abierto](#ecosistema-de-c%C3%B3digo-abierto)
   * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
   * [Misceláneos](#miscel%C3%A1neos)
   * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
@@ -93,6 +94,14 @@
 * [MIT Opencourseware en Español](http://mit.ocw.universia.net)
 
 
+#### Ecosistema de Código Abierto
+
+* [Corre linux corre: conociendo Ubuntu](http://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf) (PDF)
+* [La comunidad de Software Libre después de 20 años: Con un gran éxito incompleto, ¿y ahora qué?](https://smaldone.com.ar/documentos/docs/software_libre_20.pdf) (PDF)
+* [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view) (PDF)
+* [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf) (Richard M. Stallman)
+
+
 #### Metodologías de desarrollo de software
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
@@ -145,6 +154,7 @@
 * [Aprenda C++ avanzado como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
 * [Aprenda C++ básico como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
+* [Fundamentos de Programación con el Lenguaje de Programación C++ (2017)](http://www.lcc.uma.es/~vicente/docencia/cppdoc/programacion_cxx.pdf)
 
 
 ### Coffescript
@@ -199,16 +209,17 @@
 
 ### Java
 
+* [Aprenda Java como si estuviera en primero](https://fiwiki.org/images/9/9c/Aprenda_Java_como_si_estuviera_en_primero.pdf) (PDF)
 * [Aprendiendo Java y POO (2008)](http://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf) (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java) - F.M. Pérez Montes (PDF)
-* [Java](https://www.arkaitzgarro.com/java/) (HTML)
+* [Java](https://www.arkaitzgarro.com/java) (HTML)
 * [Notas de Introducción al Lenguaje de Programación Java (2004)](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
 * [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) (PDF) [(ePub, Mobi, HTML)](https://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/)
 * [Prácticas d Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) (PDF)
 * [Preparando JavaSun 6 - OCPJP6](https://github.com/PabloReyes/ocpjp-resumen-espanol#ocpjp6-resumen-español) - Pablo Reyes Almagro (Github) [(PDF)](https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf)
-* [Programación en Java](http://elvex.ugr.es/decsai/java/) (HTML)
+* [Programación en Java](http://elvex.ugr.es/decsai/java) (HTML)
 * [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) (PDF)
 * [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
 
