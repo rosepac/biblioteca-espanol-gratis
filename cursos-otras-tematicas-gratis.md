@@ -247,8 +247,8 @@
 
 ### Humanidades
 
-* [Introducción a los derechos humanos](https://www.udemy.com/introduccion-a-los-derechos-humanos)
 * [Defensores y defensoras de los derechos humanos](https://www.edx.org/course/defensores-y-defensoras-de-los-derechos-amnesty-internationalx-rights3xes)
+* [Introducción a los derechos humanos](https://www.udemy.com/introduccion-a-los-derechos-humanos)
 
 
 ### Idiomas
