@@ -560,9 +560,9 @@
 * [Raspberry Pi 3](https://edutin.com/curso-de-rapsberry-pi-3-basico-3547) (Edutin)
 * [Redes de Neuronas Artificiales (2017)](http://ocw.uc3m.es/ingenieria-informatica/redes-de-neuronas) (OCW)
 * [Redes Neuronales Artificiales y sus Aplicaciones (2012)](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/Course_listing.html) (OCW)
+* [Robótica (2016)](https://ocw.ehu.eus/course/view.php?id=393) (OCW) [(2017)](https://ocw.ehu.eus/course/view.php?id=442)
 * [Robótica para construir un seguidor de línea](https://edutin.com/curso-de-Robotica-basico-190) (Edutin)
 * [Robótica para construir un seguidor de luz](https://edutin.com/curso-de-Robotica-Seguidor-de-Luz-189) (Edutin)
-* [Robótica (2016)](https://ocw.ehu.eus/course/view.php?id=393) (OCW) [(2017)](https://ocw.ehu.eus/course/view.php?id=442)
 * [Robótica. Iniciación](http://artecdigital.com.ar/curso-de-robotica-online-gratis) (Youtube)
 * [Robots autónomos (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/robots-autonomos-2006.html) (OCW)
 * [Taller de Prototipos]
@@ -699,10 +699,10 @@
 * [Joomla 3 "Mi primer proyecto con Joomla"](https://www.udemy.com/curso-de-joomla-3-5-mi-primero-proyecto-con-joomla) (Udemy)
 * [Joomla 3.0](https://edutin.com/curso-de-Joomla-2073) (Edutin)
 * [Moodle 3.0](https://edutin.com/curso-de-moodle-303-3237) (Edutin)
-* [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder) (Udemy)
-* [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
 * [Wordpress: crea un sitio web administrable sin programación](https://www.udemy.com/wordpress-crea-un-sitio-web-administrable-sin-programacion) (Udemy)
 * [Wordpress: curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
+* [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder) (Udemy)
+* [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
 
 
 ### Técnico de Software & Hardware
