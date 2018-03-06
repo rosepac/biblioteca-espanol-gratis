@@ -699,8 +699,8 @@
 * [Joomla 3 "Mi primer proyecto con Joomla"](https://www.udemy.com/curso-de-joomla-3-5-mi-primero-proyecto-con-joomla) (Udemy)
 * [Joomla 3.0](https://edutin.com/curso-de-Joomla-2073) (Edutin)
 * [Moodle 3.0](https://edutin.com/curso-de-moodle-303-3237) (Edutin)
-* [Wordpress: crea un sitio web administrable sin programación](https://www.udemy.com/wordpress-crea-un-sitio-web-administrable-sin-programacion) (Udemy)
-* [Wordpress: curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
+* [Wordpress. Crea un sitio web administrable sin programación](https://www.udemy.com/wordpress-crea-un-sitio-web-administrable-sin-programacion) (Udemy)
+* [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
 * [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder) (Udemy)
 * [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
 
