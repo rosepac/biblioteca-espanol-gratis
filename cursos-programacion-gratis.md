@@ -20,9 +20,8 @@
 * [Sistemas de Gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
-* [Web & Webmaster](#web--webmaster)
+* [Web & Webmaster](#web--webmaster) (Cursos Faltan, Introductorios keepCodind - https://plataforma.keepcoding.io/courses/101499/bundled_courses)
 
-* [Cursos Introductorios keepCodind](https://plataforma.keepcoding.io/courses/101499/bundled_courses)
 
 ### Android
 
@@ -69,8 +68,8 @@
 * [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio) (MiriadaX)
 * [Big Data Marketing](https://miriadax.net/web/big-data-marketing) (MiriadaX)
 * [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-) (MiriadaX)
-* [Componentes básicos de una solución de Big Data](https://mva.microsoft.com/es-es/training-courses/componentes-bsicos-de-una-solucin-de-big-data-17091) (Microsoft Virtual Academy)
 * [Componentes avanzados de una solución de Big Data](https://mva.microsoft.com/es-es/training-courses/componentes-avanzados-de-una-solucin-de-big-data-17790) (Microsoft Virtual Academy)
+* [Componentes básicos de una solución de Big Data](https://mva.microsoft.com/es-es/training-courses/componentes-bsicos-de-una-solucin-de-big-data-17091) (Microsoft Virtual Academy)
 * [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95) (OCW)
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-) (MiriadaX)
 * [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802) (Microsoft Virtual Academy)
