@@ -12,11 +12,11 @@
   * [Misceláneos](#miscel%C3%A1neos)
   * [Montaje & mantenimiento](#montaje--mantenimiento)
   * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
+  * [Revistas](#revistas)
+  * [Robótica](#robotica)
   * [Seguridad](#seguridad)
   * [Servicios en red](#servicios--red)
   * [Sistemas Operativos](#sistemas-operativos)
-  * [Revistas](#revistas)
-  * [Robótica](#robotica)
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)
@@ -139,28 +139,28 @@
 
 #### Ecosistema de Código Abierto
 
-* [La crisis del modelo de derecho de autor y las prácticas para democratizar la cultura](https://vialibre.org.ar/arcopy.pdf) (PDF)
 * [Aspectos económicos y modelos de negocio del software libre](http://www.seaceptanideas.com/wp-content/uploads/2016/07/Aspectos_Economicos_y_Modelos_de_Negocio_del_Software_Libre.pdf) (PDF)
 * [Aspectos legales de explotación del software libre. Parte I](http://softlibre.unizar.es/manuales/legal/908.pdf) (PDF)
 * [Aspectos legales de explotación del software libre. Parte II](http://softlibre.unizar.es/manuales/legal/909.pdf) (PDF)
-* [COPYLEFT: la creación se promueve... compartiéndola](http://www.sindominio.net/~xabier/old/textos/copyleft/copyleft.pdf) (PDF)
 * [Compilación de ensayos sobre software libre (2002)](https://buleria.unileon.es/bitstream/handle/10612/1986/Gregorio.pdf) (PDF)
 * [Copia este libro](http://www.rebelion.org/docs/23824.pdf) (PDF)
+* [Copyleft: la creación se promueve... compartiéndola](http://www.sindominio.net/~xabier/old/textos/copyleft/copyleft.pdf) (PDF)
 * [Guía básica del software de fuentes abiertas](http://softlibre.unizar.es/manuales/softwarelibre/guia_basica_sfa.pdf) (PDF)
 * [Guía práctica sobre software libre. Su selección y aplicación local en América Latina y el Caribe](http://softlibre.unizar.es/manuales/softwarelibre/GSL_UNESCO.pdf) (PDF)
 * [Internet, hackers y software libre](https://fortinux.com/wp-content/uploads/2010/12/editora_fantasma.pdf) (PDF)
 * [Introducción al Software Libre](https://fortinux.com/wp-content/uploads/2010/12/softlibre.pdf) (PDF)
-* [La definición de Software Libre](http://softlibre.unizar.es/manuales/softwarelibre/free-sw.es.pdf) (PDF)
 * [La catedral y el bazar](http://softlibre.unizar.es/manuales/softwarelibre/catedralbazar.pdf) (PDF)
 * [La comunidad de Software Libre después de 20 años: Con un gran éxito incompleto, ¿y ahora qué?](https://smaldone.com.ar/documentos/docs/software_libre_20.pdf) (PDF)
 * [La conquista silenciosa del ciberespacio](https://fortinux.com/wp-content/uploads/2010/12/La_Conquista_Silenciosa_del_Ciberespacio.pdf) (PDF)
+* [La crisis del modelo de derecho de autor y las prácticas para democratizar la cultura](https://vialibre.org.ar/arcopy.pdf) (PDF)
+* [La definición de Software Libre](http://softlibre.unizar.es/manuales/softwarelibre/free-sw.es.pdf) (PDF)
 * [Libro blanco del Software Libre en España III](http://softlibre.unizar.es/manuales/softwarelibre/III_libro_blanco_del_software_libre.pdf) (PDF)
 * [Metabolismo, comunicación y evolución en redes bacterianas y tecnológicas](http://www.sindominio.net/~xabier/old/textos/autobact/autobact.pdf) (PDF)
 * [Migración al software libre. Guía de buenas prácticas](https://fortinux.com/wp-content/uploads/2010/12/migracionalsoftwarelibre.pdf) (PDF)
 * [Posix de tiempo real (1993)](https://www.ctr.unican.es/publications/mgh-1993b.pdf) (PDF)
 * [Sistema Operativo GNU/Linux Básico](http://softlibre.unizar.es/manuales/linux/868.pdf) (PDF)
-* [Software libre: técnicamente viable, económicamente sostenible y socialmente justo](http://www.infonomia.com/img/pdf/llibrejmas.pdf) (PDF)
 * [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf) (PDF) (Richard M. Stallman)
+* [Software libre: técnicamente viable, económicamente sostenible y socialmente justo](http://www.infonomia.com/img/pdf/llibrejmas.pdf) (PDF)
 * [Software libre vs software propietario. Ventajas y desventajas](http://www.rebelion.org/docs/32693.pdf) (PDF)
 * [Tensión en la Red (2014)](https://www.estebanmagnani.com.ar/wp-content/uploads/2014/09/Tension-en-la-red-interior.pdf) (PDF)
 * [Tostadores y Posix (1999)](https://www.ctr.unican.es/publications/mgh-cdl-1997a.pdf) (PDF)
@@ -170,8 +170,8 @@
 #### Metodologías de desarrollo de software
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
-* [Control de versiones: Git y Github](https://www.acens.com/wp-content/images/2015/07/git-github-wp-acens.pdf) (PDF)
 * [Control de versiones con Subversion](https://openlibra.com/es/book/download/control-de-versiones-con-subversion) (PDF)
+* [Control de versiones: Git y Github](https://www.acens.com/wp-content/images/2015/07/git-github-wp-acens.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf) (PDF)
 * [El Control de Versiones en el aprendizaje de la Ingeniería Informática: Un enfoque práctico](http://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2007/ruelco.pdf) (PDF)
 * [Entorno CASE para el desarrollo de sistemas de tiempo real (2003)](https://www.ctr.unican.es/publications/jlm-plm-jmd-2003.pdf) (PDF)
@@ -186,8 +186,8 @@
 #### Misceláneos
 
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/) (HTML)
-* [Docker](https://github.com/brunocascio/docker-espanol#docker) (Github)
 * [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna) (PDF  )
+* [Docker](https://github.com/brunocascio/docker-espanol#docker) (Github)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 * [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf) (PDF)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf) (PDF)
@@ -262,11 +262,12 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Ciencias de la Información (8 revistas)](http://www.redalyc.org/area.oa?id=23&tipo=coleccion&bJats=1)
 * [Computación y Sistemas](http://www.redalyc.org/revista.oa?id=615) (HTML)
 * [Gerencia Tecnológica Informática (2015)](https://dialnet.unirioja.es/servlet/revista?codigo=11969)
+* [Iberoaméricana de las Ciencias Computacionales e Informática](http://www.reci.org.mx/index.php/reci/issue/archive) (HTML)
+* [Información, Tecnología y Conocimiento: "Enlace"](https://dialnet.unirioja.es/servlet/revista?codigo=7671) (HTML)
 * [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214)
 * [Procesamiento del Lenguaje Natural](http://www.redalyc.org/revista.oa?id=5157) (HTML)
 * [Revista Española de Innovación, Calidad e Ingeniería del Software](http://www.redalyc.org/revista.oa?id=922) (HTML)
-* [Iberoaméricana de las Ciencias Computacionales e Informática](http://www.reci.org.mx/index.php/reci/issue/archive) (HTML)
-* [Información, Tecnología y Conocimiento: "Enlace"](https://dialnet.unirioja.es/servlet/revista?codigo=7671) (HTML)
+
 
 #### Robótica
 
@@ -329,11 +330,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 ### Erlang
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) (WikiLibros)
-
-
-### Framework Móvil
-
-
 
 
 ### Git
@@ -439,7 +435,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (PDF)(descarga directa)
 * [Corre linux corre: conociendo Ubuntu](http://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf) (PDF)
-* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) (WikiLibros)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) (HTML) (WikiLibros)
 * [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now)
 * [Enrutamiento avanzado y control de tráfico en Linux](https://www.ctr.unican.es/asignaturas/dec/Doc/lartc_es.pdf) (PDF)
 * [Guía de instalación de Debian GNU/Linux (2007)](http://softlibre.unizar.es/manuales/linux/install.es.pdf) (PDF)
@@ -505,8 +501,8 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Machine Learning, Python](https://jarroba.com/machine-learning-python-ejemplos) (HTML) (en proceso)
 * [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (PDF) (descarga directa)
 * [Plone: Gestor de Contenidos](http://plone-spanish-docs.readthedocs.io/es/3.3.6/) (HTML)
-* [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html) (HTML)
 * [Python. No muerde, yo sí.](https://media.readthedocs.org/pdf/python-no-muerde/latest/python-no-muerde.pdf) (PDF) [(HTML)](http://python-no-muerde.readthedocs.io/es/latest)
+* [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html) (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) (Github)
 * [Python para principiantes](http://librosweb.es/libro/python) (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
@@ -542,11 +538,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) (PDF)
 * [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) (PDF)
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) (PDF)
-
-
-### Ruby
-
-* [Aprender a Programar con Ruby](http://rubysur.org/aprende.a.programar/) (HTML)
 
 
 ### Scala
