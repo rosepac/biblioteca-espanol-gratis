@@ -95,12 +95,12 @@
 
 ### HTML / CSS
 
+* [CodeAcademy HTML & CSS](https://www.codecademy.com/es/tracks/html-css-traduccion-al-espanol-america-latina-clone)
 * [CSS Diner](http://flukeout.github.io)
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
-* [CodeAcademy HTML & CSS](https://www.codecademy.com/es/tracks/html-css-traduccion-al-espanol-america-latina-clone)
 
 
 ### Java
@@ -114,7 +114,7 @@
 ### JavaScript
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
-* [Codecademy JavaScript](https://www.codecademy.com/es/tracks/javascript-traduccion-al-espanol-america-latina-clone)
+* [CodeAcademy JavaScript](https://www.codecademy.com/es/tracks/javascript-traduccion-al-espanol-america-latina-clone)
 * [CodeAcademy jQuery](https://www.codecademy.com/es/tracks/jquery-traduccion-al-espanol-america-latina-clone)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
