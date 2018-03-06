@@ -1,13 +1,10 @@
 ### Índice
 
 * [Agricultura](#agricultura)
-* [Animación & 3D](#animaci&#x00F3;n--3D)
-* [Arquitectura](#arquitectura)
-* [Arte & Cultura](#arte--cultura)
+* [Albañilería](#albañileria)
 * [Astronomía](#astronom&#x00ED;a)
 * [Ciencias. Física & Química](#ciencias--f&#x00ED;sica--qu&#x00ED;mica)
 * [Cocina](#cocina)
-* [Comunicaciones & Sonido](#comunicaciones--sonido)
 * [Derecho](#derecho)
 * [Economía](#econom&#x00ED;a)
 * [Educación](#educaci&#x00F3;n)
@@ -17,7 +14,6 @@
 * [Envejecimiento](#envejecimiento)
 * [Estadística](#estad&#x00ED;stica)
 * [Física](#f&#x00ED;sica)
-* [Fotografía](#fotograf&#x00ED;a)
 * [Fruticultura](#fruticultura)
 * [Historia & Geografía](#historia--geograf&#x00ED;a)
 * [Humanidades](#humanidades)
@@ -26,6 +22,7 @@
 * [Jurídico](#jur&#x00ED;dico)
 * [Marketing](#marketing)
 * [Matemáticas](#matem&#x00E1;ticas)
+* [Mecánica](#mecanica)
 * [Medio Ambiente](#medio-ambiente)
 * [Motivación](#motivaci&#x00F3;n)
 * [Música](#musica)
@@ -33,59 +30,24 @@
 * [Química](#qu&#x00ED;mica)
 * [Referencias Bibliográficas e Información](#referencias-bibliogr&#x00E1;ficas--informaci&#x00F3;n)
 * [Salud y nutrición](#salud--nutrici&#x00F3;n)
+* [Servicios](#servicios)
 * [Servicios Sociales](#servicios-sociales)
 * [Software Educativo](#software-educativo)
 
 
 ### Agricultura
 
+* [Cultivos vegetales orgánicos](https://edutin.com/curso-de-cultivos-vegetales-organicos-3336)
 * [Diseño agronómico del riego localizado](https://miriadax.net/web/diseno-agronomico-del-riego-localizado)
+* [Granjero en alimentación y ordeñamiento de vacas](https://edutin.com/curso-de-granjero-alimentacion-y-orde%C3%B1amiento-en-vacas-3335)
 * [Retos de la Agricultura y la Alimentación en el Siglo XXI](https://www.edx.org/course/retos-de-la-agricultura-y-la-upvalenciax-ra201x-0)
 * [Tecnología de Invernaderos (2011)](http://ocw.bib.upct.es/course/view.php?id=90)
+* [Técnico en cultivos vegetales](https://edutin.com/curso-de-tecnico-en-cultivos-vegetales-3337)
 
 
-### Animación & 3D
+### Albañilería
 
-* [Animación 3D (2015)](https://poliformat.upv.es/portal/tool/7984ac9d-a856-4e3c-a763-d76c1eca6ddc/main)
-* [Archicad Básico. Enfoque BIM. Curso práctico](https://www.udemy.com/archicad-basico-enfoque-bim-curso-practico)
-* [CAD 3D (2009)](https://ocw.unican.es/course/view.php?id=213)
-* [Dibujo de anime Volumen 1. Creación de personajes](https://www.udemy.com/curso-de-dibujo-de-anime-vol-1-creacion-de-personajes)
-* [Diseño asistido por ordenador (2008)](https://ocw.unican.es/course/view.php?id=34)
-* [Diseño de productos en Fusion 360 de la idea al prototipo](https://www.udemy.com/diseno-de-productos-en-fusion-360-de-la-idea-al-prototipo)
-* [Diseño de una motocicleta de ciencia ficción en Blender (1)](https://www.udemy.com/diseno-de-una-motocicleta-de-ciencia-ficcion-con-blender-1)
-* [Enscape: Fotorrealismo en tiempo real](https://www.udemy.com/enscape-fotorealismo-en-tiempo-real)
-* [Expresión Gráfica (2016)](http://ocw.uv.es/ingenieria-y-arquitectura/expresion-grafica/Course_listing)
-* [Herramientas Básicas de Videografía](https://www.udemy.com/herramientas-basicas-de-videogafia)
-* [Historia de la animación (2012)](https://poliformat.upv.es/portal/tool/ee81a5b3-341f-4540-841d-25f28aafd06e?panel=Main)
-* [Master 3D, de 0 a heroe. Zbrush Básico](https://www.udemy.com/zbrush-para-principiantes-manejo-basico-de-la-herramienta)
-* [Síntesis de Imágenes y Animación (2013)](http://ocw.uji.es/curso/80200)
-* [Taller 3D para la mejora de las habilidades espaciales -Anfore 3D- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=83)
-* [Taller de Prototipos (2012)](http://ocw.uji.es/curso/5312)
-* [Técnicas de inteligencia artificial (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-inteligencia-artificial-2010.html)
-* [Técnicas de representación gráfica (2011)](https://ocw.unican.es/course/view.php?id=176)
-* [Técnicas de representación gráfica (2014)](https://ocw.unican.es/course/view.php?id=75)
-* [V-Ray 3.4 para Sketchup](https://www.udemy.com/v-ray-34-para-sketchup)
-* [Video experimental y motion graphics (2013)](https://poliformat.upv.es/portal/tool/9fe42b81-5e28-424d-941a-fe17bf74eb7c)
-* [Visualización e interacción gráfica (2009)](https://ocw.unican.es/course/view.php?id=210)
-* [Vray para Sketchup](https://www.udemy.com/curso-de-vray-para-sketchup)
-
-
-### Arquitéctura 
-
-* [Construcción de Estructuras de Madera de modo tradicional](https://miriadax.net/web/construccion-de-estructuras-de-madera-de-modo-tradicional-2-edicion-/inicio)
-
-
-### Arte & Cultura
-
-* [Aprende a dibujar a mano alzada. Curso cero de dibujo arquitectónico](https://miriadax.net/web/aprende-a-dibujar-a-mano-alzada-curso-cero-de-dibujo-arquitectonico-2-edicion-)
-* [El patrimonio ibérico clasificado por la UNESCO (I)](http://ocw.um.es/artes-1)
-* [La España de El Quijote](https://www.edx.org/course/la-espana-de-el-quijote-uamx-quijote501x-1)
-* [La imagen del Sport en el Arte](https://miriadax.net/web/la-imagen-del-sport-en-el-arte-2-edicion-/inicio)
-* [Los principios de la cultura impresa moderna: ilustración gráfica, cultura visual y vida urbana](https://iedra.uned.es/courses/UNED/104/2016_T2/about)
-* [Modelado de plastilina: flores](https://www.udemy.com/curso-de-modelado-de-plastilina-flores)
-* [Pintura europea: Leonardo, Rembrandt, Goya](https://www.edx.org/course/pintura-europea-leonardo-rembrandt-goya-uc3mx-ceh-1-esx-0)
-* [Pintura Intrarrealista: Juan Antonio Guirado](https://iedra.uned.es/courses/course-v1:UNED+PinInterJAG+2017/about)
-* [Repositorio Sobre Arte](http://ocw.um.es/artes-1)
+* [Albañilería Completo](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
 
 
 ### Astronomía
@@ -118,30 +80,57 @@
 ### Cocina
 
 * [Aprende a preparar galletas de colores decoradas](https://www.udemy.com/galletas-decoradas)
+* [Barista Coffe](https://edutin.com/curso-de-Barista-2335)
+* [Bebidas naturales](https://edutin.com/curso-de-Bebidas-naturales-879)
+* [Chocolatería](https://edutin.com/curso-de-chocolateria-2560)
 * [Cocina Creativa](https://www.udemy.com/cocina-creativa)
+* [Cocina Creativa bis](https://edutin.com/curso-de-cocina-creativa-3578)
+* [Cocina Internacional](https://edutin.com/curso-de-cocina-internacional-basico-3388)
 * [Cocina Tradicional Mexicana](https://miriadax.net/web/cocina-tradicional-mexicana/inicio)
+* [Ensaladas, entrantes y primeros platos](https://edutin.com/curso-de-ensaladas-entrantes-y-primeros-platos-3386)
 * [Introducción a la cocina al vacío de El Celler de Can Roca](https://miriadax.net/web/introduccion-a-la-cocina-al-vacio-de-el-celler-de-can-roca)
+* [Latter Art, paso a paso](https://edutin.com/curso-de-Arte-Latte-2336)
 * [Mini-Menú de cocina sana](https://www.udemy.com/mini-menu-cocina-sana)
 * [Paella: la receta original paso a paso](https://www.udemy.com/paella-de-marisco)
+* [Platos de cuchara](https://edutin.com/curso-de-platos-de-cuchara-3426)
+* [Preparación de bebidas con cerveza](https://edutin.com/curso-de-preparacion-bebidas-con-cerveza-3678)
+* [Preparación de bebidas con licores](https://edutin.com/curso-de-preparacion-de-bebidas-con-licores-3679)
+* [Preparación de platos fuertes, entrantes y antojos](https://edutin.com/curso-de-Platos-fuertes-entradas-y-antojos-1154)
+* [Recetas con pasta](https://edutin.com/curso-de-recetas-de-Pastas-1098)
+* [Recetas con pescado](https://edutin.com/curso-de-recetas-con-pescados-1105)
+* [Recetas con pollo](https://edutin.com/curso-de-recetas-con-pollo-1107)
+* [Recetas creativas, paso a paso](https://edutin.com/curso-de-recetas-creativas-3673)
+* [Recetas creativas con pollo](https://edutin.com/curso-de-recetas-creativas-con-pollo-884)
+* [Recetas con vegetales](https://edutin.com/curso-de-recetas-con-vegetales-883)
+* [Recetas de aderezo](https://edutin.com/curso-de-recetas-de-aderezos-3684)
+* [Recetas de aperitivos para fiestas](https://edutin.com/curso-de-recetas-de-aperitivos-para-fiestas-1110)
+* [Recetas de bizcochos](https://edutin.com/curso-de-recetas-de-bizcochos-2570)
+* [Recetas de carne de res](https://edutin.com/curso-de-recetas-con-carne-de-res-3687)
+* [Recetas de cocina divertidas para niños: parte 1](https://edutin.com/curso-de-recetas-de-cocina-para-ni%C3%B1os-parte-1-3438)
+* [Recetas de cocina divertidas para niños: parte 2](https://edutin.com/curso-de-recetas-de-cocina-para-ni%C3%B1os-parte-2-3436)
+* [Recetas de cocina para alimentación infantil](https://edutin.com/curso-de-recetas-de-cocina-para-alimentaci%C3%B3n-infantil-3707)
+* [Recetas de cocina italiana](https://edutin.com/curso-de-Cocina-Italiana-1085)
+* [Recetas de comida rápida](https://edutin.com/curso-de-Comida-Rapida-1104)
+* [Recetas de ensaladas](https://edutin.com/curso-de-recetas-de-ensaladas-b%C3%A1sico-1086)
+* [Recetas de ensaladas especiales](https://edutin.com/curso-de-recetas-de-ensaladas-especiales-878)
+* [Recetas de pan casero](https://edutin.com/curso-de-recetas-de-pan-casero-1113)
+* [Recetas de platos fuertes](https://edutin.com/curso-de-Platos-Fuertes-1087)
+* [Recetas de postres con chocolate](https://edutin.com/curso-de-postres-con-chocolate-2576)
+* [Recetas de postres light](https://edutin.com/curso-de-recetas-de-postres-light-2562)
+* [Recetas de postres y dulces](https://edutin.com/curso-de-recetas-de-postres-y-dulces-880)
+* [Recetas de sandwiches](https://edutin.com/curso-de-recetas-de-sandwiches-3689)
+* [Recetas de sopas y platos de cucharas caseros](https://edutin.com/curso-de-sopas-y-Platos-de-Cucharas-1116)
+* [Recetas fáciles para niños](https://edutin.com/curso-de-Recetas-para-ni%C3%B1os-804)
+* [Recetas gourmet con pescado](https://edutin.com/curso-de-recetas-gourmet-con-pescado-3698)
+* [Recetas ligeras bajas en calorías](https://edutin.com/curso-de-Recetas-Ligeras-1115)
+* [Recetas navideñas](https://edutin.com/curso-de-recetas-navide%C3%B1as-1109)
+* [Recetas para acompañamientos](https://edutin.com/curso-de-recetas-para-acompa%C3%B1amientos-3683)
+* [Recetas para cupcakes](https://edutin.com/curso-de-recetas-para-cupcakes-2577)
+* [Recetas para navidad y año nuevo](https://edutin.com/curso-de-recetas-para-navidad-y-a%C3%B1o-nuevo-3669)
+* [Recetas para tartas](https://edutin.com/curso-de-recetas-de-tartas-2561)
+* [Recetas para tartas de cumpleaños](https://edutin.com/curso-de-Tartas-de-Cumplea%C3%B1os-1114)
+* [Repostería](https://edutin.com/curso-de-Pasteleria-reposteria-y-decoracion.-1153)
 * [Sorprende a tu familia y amigos con Galletas de Navidad](https://www.udemy.com/galletas-de-navidad-faciles-y-deliciosas)
-
-
-### Comunicaciones & Sonido
-
-* [Adobe Bridge CC: gestionar archivos digitales](https://www.udemy.com/adobe-bridge)
-* [Adobe Photoshop 6. Fundamentos](https://www.udemy.com/photoshop-cs6-fundamentos)
-* [Básico de Photoshop CS6 desde cero](https://www.udemy.com/curso-basico-de-photoshop-cs6-desde-cero-gratis)
-* [Cómo diseñar el título I.D.E.A.L. de tu proyecto de cine](https://www.udemy.com/el-titulo-ideal-para-tu-proyecto-audiovisual)
-* [Edición de vídeo y screencast con Camtasia Studio 8](https://www.udemy.com/edicion-de-video-y-screencast-con-camtasia-studio-8)
-* [El papel del director de cine](https://www.udemy.com/el-papel-del-director-de-cine)
-* [Fotografía Móvil: iníciate y aprende las bases](https://www.udemy.com/fotografia-movil-basica)
-* [Herramientas de Photoshop CC para principiantes](https://www.udemy.com/herramientas-de-photoshop-cc-para-principiantes)
-* [iMovie para iOS, edita tus vídeos donde quieras](https://www.udemy.com/imovie-para-ios)
-* [Introducción al Audio Digital](https://miriadax.net/web/introduccion-al-audio-digital/inicio)
-* [Lánzate al Retoque Fotográfico con Adobe Photoshop CC](https://www.udemy.com/lanzate-al-retoque-fotografico-con-adobe-photoshop-cc)
-* [Primeros pasos con Photoshop CC](https://www.udemy.com/felinu-primeros-pasos-con-photoshop)
-* [Sonido Espacial & 3D](https://www.edx.org/course/sonido-espacial-y-3d-upvalenciax-s3d201x-0)
-
 
 ### Derecho
 
@@ -158,11 +147,15 @@
 * [Aprendiendo a invertir: introducción](https://www.udemy.com/aprende-a-crear-tu-tienda-online)
 * [Cómo comprar propiedades en subasta](https://www.udemy.com/como-comprar-propiedades-en-subasta)
 * [Cómo invertir en Forex, fácil y rápido](https://www.udemy.com/como-invertir-por-internet-en-forex-facil-y-rapido)
+* [Educación Financiera Básica](https://edutin.com/curso-de-introduccion-a-la-educacion-financiera-3332)
 * [Introducción a la inversión bursátil](https://www.edx.org/course/introduccion-la-inversion-bursatil-upvalenciax-bol1201-x-1)
 
 
 ### Educación
 
+* [Administración de plataformas de aprendizaje virtual](https://edutin.com/curso-de-administrador-de-plataformas-de-aprendizaje-virtual-3351)
+* [Administración de proyectos para ambientes virtuales de aprendizaje](https://edutin.com/curso-de-administracion-de-proyectos-para-ambientes-virtuales-de-aprendizaje-3352)
+* [Analista de necesidades del aprendizaje virtual](https://edutin.com/curso-de-analista-de-necesidades-del-aprendizaje-virtual-3354)
 * [Ciencias Sociales y su Didáctica (2015)](http://ocw.um.es/cc.-sociales/ciencias-sociales-y-su-didactica)
 * [Comunicación oral y escrita en Lengua Española (2011)](http://ocw.um.es/cc.-sociales/comunicacion-oral-y-escrita-en-lengua-espanola-1)
 * [Curso de Novela: Planifica, Escribe y Publica tu historia](https://www.udemy.com/escritura-novela)
@@ -173,7 +166,10 @@
 * [Escritura Creativa: Fundamentos de la narración](https://iedra.uned.es/courses/course-v1:UNED+Escr_Creat+2017/about)
 * [Espacios Intermedios. Maneras de hacer cultura en la Posmodernidad II](https://iedra.uned.es/courses/course-v1:UNED+EspInter_II_02+2017_T3/about?utm_campaign=camp_20171107_nuevos_cursos)
 * [Estrategias pedagógicas para el desarrollo del pensamiento crítico](https://www.udemy.com/estrategias-pedagogicas-para-el-desarrollo-del-pensamiento-critico)
+* [Evaluador de aprendizaje digital](https://edutin.com/curso-de-evaluador-de-aprendizaje-digital-3343)
+* [Facilitador de aprendizaje digital](https://edutin.com/curso-de-facilitador-de-aprendizaje-digital-3344)
 * [Herramientas TIC para docentes, profesionales y estudiantes](https://www.udemy.com/herramientas-tic-para-docentes-y-profesionales-de-la-salud)
+* [Implementación de tecnologías en la educación](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
 * [Introducción a la educación holista](https://www.udemy.com/introduccion-a-la-educacion-holista)
 * [Introducción a la enseñanza](https://www.udemy.com/el-maestro-tips-para-mejorar-tu-ensenanza)
 * [La tutoría en la escuela](https://iedra.uned.es/courses/UNED/114/2015T4/about)
@@ -188,12 +184,14 @@
 * [Tecnologías de la Información y la Comunicación (TICS) en Educación Social (2012)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion)
 * [Tecnologías para la Educación](https://www.edx.org/course/tecnologias-para-la-educacion-upvalenciax-te201x-1)
 * [TIC en Educación Social (2016)](http://ocw.um.es/cc.-sociales/tic-en-educacion-social)
+* [Trascendencia del educador durante la primera infancia](https://edutin.com/curso-de-trascendencia-del-educador-durante-la-primera-infancia-3854)
 
 
 ### Educación Especial
 
 * [Atención al alumnado con necesidades educativas especiales (2011)](http://ocw.umh.es/ciencias-de-la-salud/Atencion-al-alumnado-con-necesidades-educativas-especiales-459)
 * [Educación Especial (2008)](http://ocw.um.es/cc.-sociales/educacion-especial)
+* [Ejercicios con respiración](https://edutin.com/curso-de-ejercicios-de-respiracion-1296)
 * [El aula inclusiva hoy en día. Cómo afrontar el Trastorno del Espectro Autista y las Altas Capacidades (2017)](http://ocw.uji.es/curso/1873316)
 * [Introducción al TDAH: Mitos y primeros pasos en familia](https://www.udemy.com/introduccion-al-tdah-mitos-y-primeros-pasos-en-familia)
 * [Materiales Digitales Accesibles](https://iedra.uned.es/courses/UNED-ONCE/MatDigAcc/2017/about?utm_campaign=camp_20171107_nuevos_cursos)
@@ -208,11 +206,16 @@
 * [Deporte y Acción Tutorial (2016)](http://ocw.um.es/cc.-sociales/deporte-y-accion-tutorial-1)
 * [Interacción Persona-Computador. Diseño para Todos y Productos de Apoyo](https://iedra.uned.es/courses/course-v1:UNED-ONCE+InterPerCom02+2017/about)
 * [Introducción a las instalaciones eléctricas](https://miriadax.net/web/introduccion-instalaciones-electricas/inicio)
+* [Salto largo completo](https://edutin.com/curso-de-salto-largo-769)
 
 
 ### Electrónica
 
+* [Automatización (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/automatizacion-2010.html) 
 * [Electricidad: conceptos básicos y aplicaciones](https://miriadax.net/web/electricidad-conceptos-basicos-y-aplicaciones-2-edicion-/inicio)
+* [Electricidad Básica](http://artecdigital.com.ar/curso-de-electricidad-basica-online-gratis) (Youtube)
+* [Electrónica Básica](http://artecdigital.com.ar/curso-de-electronica-basica-gratis) (Youtube)
+* [Fundamentos físicos de la ingieniería](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-fisicos-de-la-ingenieria-i-2010.html)
 * [Ingeniería Electrónica: Análisis y diseño de circuitos I.](https://www.udemy.com/analisis-circuitos)
 
 
@@ -223,16 +226,19 @@
 
 ### Estadística
 
+* [Analista de datos](https://edutin.com/curso-de-analista-de-datos-3349)
 * [Técnicas Cuantitativas y Cualitativas para la Investigación](https://www.edx.org/course/tecnicas-cuantitativas-y-cualitativas-upvalenciax-tcci201-x-0)
 
 
-### Fotografía
+### Física
 
-* [Dibujo con luz. Fotografía (2015)](http://ocw.um.es/artes-1/dibujo-con-luz.-fotografia-1)
+* [Física mecánica intermedio: conceptos y aplicaciones](https://edutin.com/curso-de-fisica-mecanica-intermedio-2316)
 
 
 ### Fruticultura
 
+* [Jardinería a gran escala](https://edutin.com/curso-de-jardineria-a-gran-escala-3217)
+* [Jardinería avanzado](https://edutin.com/curso-de-Jardineria-avanzado-1157)
 * [Tutoriales sobre Podas](https://www.youtube.com/watch?v=epr99uE7onQ&list=PLeUY9qxjCHj420gEQkovfWuRbJOz00QJC)
 
 
@@ -275,6 +281,7 @@
 
 ### Ingienería
 
+* [Albañilería](https://edutin.com/curso-de-alba%C3%B1ileria-completo-3328) (Educatin)
 * [Caer o No caer. El Secreto de las Estructuras.](https://www.edx.org/course/caer-o-no-caer-el-secreto-de-las-uc3mx-mmc-1x-0)
 * [Geoestadística Práctica: usando Sgems y gvSIG](https://www.udemy.com/geoestadistica-practica-usando-sgems-y-gvsig)
 * [Introducción a Ansys Workbench](https://www.udemy.com/introduccion-a-ansys-workbench)
@@ -294,18 +301,26 @@
 
 ### Matemáticas
 
+* [Álgebra orientado a la solución de problemas](https://edutin.com/curso-de-%C3%81lgebra-2313)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2)
 * [Bases Matemáticas: Derivadas](https://www.edx.org/course/bases-matematicas-derivadas-upvalenciax-bmd101x-1)
 * [Bases Matemáticas: Integrales](https://www.edx.org/course/bases-matematicas-integrales-upvalenciax-bmi101x-1)
 * [Bases Matemáticas: Números y terminología](https://www.edx.org/course/bases-matematicas-numeros-y-terminologia-upvalenciax-bmn101x-2)
 * [Matrices y sistemas de ecuaciones (Álgebra lineal)](https://www.udemy.com/matrices-y-sistemas-de-ecuaciones-algebra-lineal)
+* [Métodos numéricos](https://edutin.com/curso-de-metodos-numericos-3858)
 * [Teoría Combinatoria (arreglos y combinaciones)](https://www.udemy.com/teoria-combinatoria-arreglos-y-combinaciones)
+
+
+### Mecánica
+
+* [Mecánica de bicicletas](https://edutin.com/curso-de-mecanica-de-bicicleta-3331)
 
 
 ### Medio Ambiente
 
 * [Desarrollo sostenible en Cantabria (2012)](https://ocw.unican.es/course/view.php?id=138)
 * [Fuentes de información geográfica para SIGs ambientales](https://www.udemy.com/fuentes-de-informacion-geografica-para-sigs-ambientales)
+* [Hidraúlica de canales de ingieniería ambiental](https://edutin.com/curso-de-hidraulica-de-canales-en-ingenieria-ambiental-3856)
 * [Los espacios agrarios y forestales (2014)](https://ocw.unican.es/course/view.php?id=81)
 * [Medio Ambiente y Sostenibilidad (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/medio-ambiente-y-sostenibilidad/Course_listing)
 * [Medio Ambiente. Valor constitucional y protección penal (2011)](https://ocw.unican.es/course/view.php?id=109)
@@ -344,6 +359,7 @@
 * [Cómo diagnosticar mis competencias de innovación](https://www.edx.org/course/como-diagnosticar-mis-competencias-de-upvalenciax-lider201-4x)
 * [Cómo ganar dinero invirtiendo en bolsa](https://www.udemy.com/como-ganar-dinero-invirtiendo-en-bolsa)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
+* [Competencias del Emprendedor](https://edutin.com/curso-de-Competencias-del-Emprendedor-793)
 * [Competitividad e Innovación en la Empresa (2012)](http://ocw.bib.upct.es/course/view.php?id=98)
 * [Dimensiones de la Responsabilidad Social](https://iedra.uned.es/courses/UNED/Dimen_RSC_001/2016_T4/about)
 * [Duplica tus ventas y tu marca personal](https://www.udemy.com/aumenta-las-ventas-de-tu-negocio-por-internet)
@@ -361,6 +377,7 @@
 * [Imagienieria como actitud para emprender](https://www.udemy.com/imaginiera-como-actitud-para-emprender)
 * [Innovación, transferencia y emprendedurismo](https://www.upvx.es/courses/innovacion/innovacion/2015-001/about)
 * [Introducción a la gestión de proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x)
+* [Introducción a la identidad corporativa](https://www.crehana.com/cursos/diseno/introduccion-a-la-identidad-corporativa) (Crehana)
 * [La felicidad, la economía y la práctica empresarial](https://iedra.uned.es/courses/UNED/103/2015_T4/about)
 * [La función recursos humanos en las Entidades No Lucrativas. La gestión por competencias](https://iedra.uned.es/courses/course-v1:UNED+ENL_002+2017/about)
 * [La nueva economía digital en América Latina y el Caribe](https://www.edx.org/course/la-nueva-economia-digital-en-america-idbx-idb33x)
@@ -368,7 +385,13 @@
 * [Mejora tu presencia Online](https://www.udemy.com/mini-curso-de-presencia-online)
 * [Planeación estratégica del talento humano](https://www.udemy.com/planeacion-estrategica-del-talento-humano)
 * [Publica tu web y domina el web hosting para emprendedores](https://www.udemy.com/web-hosting-course)
+* [Relaciones Públicas para abogados y otros profesionales](https://www.udemy.com/curso-de-relaciones-publicas) (Udemy)
 * [Valoración de Futbolistas con el Método AHP](https://www.edx.org/course/valoracion-de-futbolistas-con-el-metodo-upvalenciax-vf201x-1)
+
+
+### Química 
+
+* [Química Analítica](https://edutin.com/curso-de-quimica-analitica-basico-790)
 
 
 ### Referencias Bibliográficas e Información
@@ -388,21 +411,41 @@
 ### Salud & nutrición
 
 * [Alimentación Saludable](https://miriadax.net/web/alimentacion-saludable)
+* [Anatomía de cabeza y cuello](https://edutin.com/curso-de-Anatomia-Cabeza-y-Cuello-2063)
+* [Anatomía de miembro superior](https://edutin.com/curso-de-Anatomia-Miembro-superior-2066)
 * [Aprenda como mejorar su postura para la vida laboral](https://www.udemy.com/ergonomia-para-la-vida-laboral)
 * [Aprende sobre el cuerpo humano](https://www.udemy.com/anatomia-medicina-curso-primeros-auxilios)
 * [BH en el diagnóstico de anemias](https://www.udemy.com/bh-en-el-diagnostico-de-anemias)
+* [Cardiología](https://edutin.com/curso-de-cardiologia-3589)
 * [Elimina pensamientos obsesivos recurrentes](https://www.udemy.com/elimina-pensamientos-obsesivos-recurrentes)
+* [Estiramientos funcionales](https://edutin.com/curso-de-estiramientos-funcionales-1305)
 * [Flashdiet: Salud y nutrición. Aprende a comer sano](https://www.upvx.es/courses/TecnologiaDeAlimentos/flashdiet2/2016-02/about)
 * [Las bases del Chi Kung (Qi gong)](https://www.udemy.com/las-bases-del-chi-kung-qi-gong)
+* [Neonatología](https://edutin.com/curso-de-neonatologia-3585)
+* [Nutrición Deportiva](https://edutin.com/curso-de-nutricion-deportiva-3497)
 * [Pandemias: nuevas infecciones virales](https://miriadax.net/web/pandemias-nuevas-infecciones-virales-2-edicion-/inicio)
+* [Patologías hematológicas](https://edutin.com/curso-de-patologias-hematologicas-3584)
+* [Primeros Auxilios Básicos](https://edutin.com/curso-de-primeros-auxilios-3334)
 * [Promoción de la salud. Curso para profesores en urgencias y emergencias sanitarias](https://iedra.uned.es/courses/course-v1:UNED+UrgSan_002+2017/about)
+* [Regencia de Farmacia](https://edutin.com/curso-de-regencia-de-farmacia-3864)
+* [Reumatología básico](https://edutin.com/curso-de-reumatologia-basico-3588)
 * [Quemaduras nivel Básico](https://www.udemy.com/curso-quemaduras-nivel-basico)
+* [Signos radiológicos de enfermedades articulares y oséas](https://edutin.com/curso-de-signos-radiologicos-de-enfermedades-articulares-1294)
 * [Soporte Vital Básico - RCP](https://www.udemy.com/soporte-vital-basico)
 * [Triunfa con SEP: modelo para mejorar la salud, los negocios y la vida](https://miriadax.net/web/triunfa-con-sep-el-modelo-para-mejorar-la-salud-los-negocios-y-la-vida-5-edicion-/inicio)
+* [Vendajes funcionales y kineosiotaping](https://edutin.com/curso-de-vendajes-funcionales-y-kinesiotaping-1331)
+
+
+### Servicios
+
+* [Bodeguero en entrada y salida de insumos en restaurantes](https://edutin.com/curso-de-bodeguero-3338)
+* [Herrero, balconero, aluminador y forjador](https://edutin.com/curso-de-herrero-balconero-aluminador-y-forjador-3333)
+* [Operador de autotransporte para cadenas de distribución](https://edutin.com/curso-de-operador-de-autotransporte-para-cadenas-de-distribucion-3330)
 
 
 ### Servicios Sociales
 
+* [Aprende lengua de señas / signos. Academia Manos que Hablan](https://www.udemy.com/aprende-lengua-de-senas-academia-manos-que-hablan) (Udemy)
 * [¿Cómo hablar de sexo con sus hijos?](https://www.udemy.com/como-hablar-de-sexo-con-sus-hijos)
 * [14 clases de kAca yoga para principiantes](https://www.udemy.com/14-clases-de-kaca-yoga-para-principiantes)
 * [Bebés & Niños seguros en el coche](https://iedra.uned.es/courses/MAPFRE/SegInfAuto001/2016_T4/about?utm_campaign=camp_20171107_nuevos_cursos)
@@ -410,10 +453,12 @@
 * [Cyberbullying. La Guía para detener el acoso escolar digital](https://www.udemy.com/cyberbullying-guia-de-detencion)
 * [Educación Vial: su necesidad a lo largo de la vida](https://iedra.uned.es/courses/UNED/107/2015T4/about)
 * [Educación vial: sustancias nocivas en la conducción](https://iedra.uned.es/courses/UNED/ed_sustancias_131/2016_T3/about)
+* [Emprendimiento e innovación social](https://edutin.com/curso-de-Emprendimiento-e-innovacion-social-795)
 * [Formación ciudadana y liderazgo](https://www.udemy.com/formacion-ciudadana-y-liderazgo)
 * [Fundamentos de la Seguridad del Paciente](https://miriadax.net/web/fundamentos-de-la-seguridad-del-paciente/inicio)
 * [Humanización en la asistencia en situaciones de Duelo](https://www.udemy.com/humanizacion-en-la-asistencia-en-situaciones-de-duelo)
 * [Igualdad de género y diversidad sexual](https://www.udemy.com/igualdad-de-genero-y-diversidad-sexual)
+* [Informática enfocada en Estudios del Trabajo Social (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/informatica-para-trabajo-social-2007.html)
 * [La seguridad del paciente](https://miriadax.net/web/la-seguridad-del-paciente-6-edicion-/inicio)
 * [La seguridad del paciente en el domicilio](https://miriadax.net/web/la-seguridad-del-paciente-en-el-domicilio-6-edicion-/inicio)
 * [Mini-Yoga: para la salud desde la Perezosa](https://www.udemy.com/mini-yoga-para-la-salud-desde-la-perezosa)

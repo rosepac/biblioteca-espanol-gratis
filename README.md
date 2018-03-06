@@ -118,7 +118,7 @@ ___
 
 ### Recursos de programación interactiva (:construction: :construction: :construction: :construction: :construction:)
 
-+ [Tutoriales Gratuitos de Programación Interactiva - En Inglés Temporalmente -](/free-programming-interactive-tutorials-en.md)
++ [Tutoriales Gratuitos de Programación Interactiva en Español - En construcción -](/cursos-programacion-interactivos-gratis.md)
 
 
 ### Recursos de framework´s  de JavaScript (:construction: :construction: :construction: :construction: :construction:)
