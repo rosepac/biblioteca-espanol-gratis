@@ -562,8 +562,8 @@
 * [Redes Neuronales Artificiales y sus Aplicaciones (2012)](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/Course_listing.html) (OCW)
 * [Robótica para construir un seguidor de línea](https://edutin.com/curso-de-Robotica-basico-190) (Edutin)
 * [Robótica para construir un seguidor de luz](https://edutin.com/curso-de-Robotica-Seguidor-de-Luz-189) (Edutin)
-* [Robótica. Iniciación](http://artecdigital.com.ar/curso-de-robotica-online-gratis) (Youtube)
 * [Robótica (2016)](https://ocw.ehu.eus/course/view.php?id=393) (OCW) [(2017)](https://ocw.ehu.eus/course/view.php?id=442)
+* [Robótica. Iniciación](http://artecdigital.com.ar/curso-de-robotica-online-gratis) (Youtube)
 * [Robots autónomos (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/robots-autonomos-2006.html) (OCW)
 * [Taller de Prototipos]
 * [Técnicas de inteligencia artificial (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-inteligencia-artificial-2010.html) (OCW)
@@ -672,9 +672,9 @@
 * [Virtualización y administración de SQL Server Microsoft Cloud OS](https://mva.microsoft.com/es-es/training-courses/virtualizacin-y-administracin-de-sql-server-microsoft-cloud-os-8871) (Microsoft Virtual Academy)
 * [Windows Intune: La solución MDM de Microsoft](https://mva.microsoft.com/es-es/training-courses/windows-intune-la-solucin-mdm-de-microsoft-11242) (Microsoft Virtual Academy)
 * [Windows Server 2008 R2](https://edutin.com/curso-de-Windows-Server-2008-R2-1989) (Edutin)
+* [Windows Server 2012](https://edutin.com/curso-de--Windows-Server-2012-497) (Edutin)
 * [Windows Server 2012 - Almacenamiento](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-almacenamiento-8624) (Microsoft Virtual Academy)
 * [Windows Server 2012 - Gestión y Automatización](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-gestin-y-automatizacin-9120) (Microsoft Virtual Academy)
-* [Windows server 2012](https://edutin.com/curso-de--Windows-Server-2012-497) (Edutin)
 * [Windows Server 2016](https://edutin.com/curso-de-windows-server-2016-3581) (Edutin)
 
 
@@ -701,7 +701,7 @@
 * [Moodle 3.0](https://edutin.com/curso-de-moodle-303-3237) (Edutin)
 * [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder) (Udemy)
 * [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
-* [Wordpress; crea un sitio web administrable sin programación](https://www.udemy.com/wordpress-crea-un-sitio-web-administrable-sin-programacion) (Udemy)
+* [Wordpress: crea un sitio web administrable sin programación](https://www.udemy.com/wordpress-crea-un-sitio-web-administrable-sin-programacion) (Udemy)
 * [Wordpress: curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
 
 
@@ -742,10 +742,10 @@
 * [Sistemas Embebidos (2009)](http://ocw.um.es/ingenierias/sistemas-embebidos) (OCW)
 * [Sistemas Multimedia (2009)](https://poliformat.upv.es/portal/tool/f682ea53-3e5c-411c-0097-a0a16d5fb6a9?panel=Main) (OCW)
 * [Sistemas Operativos 'chmod - bash' (2014)](https://campusvirtual.ull.es/ocw/course/view.php?id=105) (OCW)
-* [Sistemas Operativos (2016)](http://ocw.uji.es/curso/1514152) (OCW)
-* [Sistemas Operativos (2015)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-operativos) (OCW)
-* [Sistemas Operativos (2009)](http://ocwus.us.es/ingenieria-telematica/pp-1/Course_listing) (OCW)
 * [Sistemas Operativos (2007)](http://ocw.innova.uned.es/ocwuniversia/Ing_tecnico_infor_sistemas/SO_II) (OCW)
+* [Sistemas Operativos (2009)](http://ocwus.us.es/ingenieria-telematica/pp-1/Course_listing) (OCW)
+* [Sistemas Operativos (2015)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-operativos) (OCW)
+* [Sistemas Operativos (2016)](http://ocw.uji.es/curso/1514152) (OCW)
 * [Sistemas Operativos I](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/sistemas-operativos-i) (OCW)
 * [Sistemas Operativos II (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=5850&p_caca=2008) (OCW)
 * [Solución de problemas de inicio y consumo de recursos de Windows 8](https://mva.microsoft.com/es-es/training-courses/solucin-de-problemas-de-inicio-y-consumo-de-recursos-de-windows-8-11553) (Microsoft Virtual Academy)

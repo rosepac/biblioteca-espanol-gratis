@@ -431,7 +431,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 ### Linux
 
-* [Administración avanzada de GNU/Linux](http://softlibre.unizar.es/manuales/linux/871.pdf)
+* [Administración avanzada de GNU/Linux](http://softlibre.unizar.es/manuales/linux/871.pdf) (PDF)
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (PDF)(descarga directa)
 * [Corre linux corre: conociendo Ubuntu](http://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf) (PDF)

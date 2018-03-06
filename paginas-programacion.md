@@ -49,7 +49,7 @@
 * [Aula Fácil - Curso C](http://www.aulafacil.com/cursos/t1454/informatica/programacion/lenguaje-de-programacion-c)
 
 
-### C#
+### C-Sharp
 
 * [Aula Fácil - Curso C#](http://www.aulafacil.com/cursos/t1589/informatica/programacion/programacion-en-c)
 
@@ -102,8 +102,8 @@
 
 ### Pseudocódigo
 
-* [Aprender a Programar - Curso Bases de la programación. Pseudocódigos](https://www.aprenderaprogramar.es/index.php?option=com_content&view=category&id=28&Itemid=59)
 * [Aprender a Programar - Curso Bases de la programación. Programación Modular](https://www.aprenderaprogramar.es/index.php?option=com_content&view=category&id=36&Itemid=60)
+* [Aprender a Programar - Curso Bases de la programación. Pseudocódigos](https://www.aprenderaprogramar.es/index.php?option=com_content&view=category&id=28&Itemid=59)
 
 
 ### SQL
@@ -115,6 +115,7 @@
 
 * [Aprender a Programar - Curso Visual Basic desde cero](https://www.aprenderaprogramar.es/index.php?option=com_content&view=category&id=36&Itemid=60)
 
+
 ### Webinars
 
-* [webinars Desarrollo Web](https://plataforma.keepcoding.io/p/webinars-keepcoding/)
+* [Webinars Desarrollo Web](https://plataforma.keepcoding.io/p/webinars-keepcoding/)
