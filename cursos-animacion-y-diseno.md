@@ -18,7 +18,7 @@
 * [3D Studio Max Básico: crea una imagen fotorrealista](https://www.crehana.com/cursos/3D/3d-studio-max-basico-crea-una-imagen-fotorrealista) (Crehana)
 * [ActionScript 3.0](https://edutin.com/curso-de-ActionScript-3.0-1500)
 * [Adobe Animate CC](https://edutin.com/curso-de-adobe-animate-cc-completo-3741)
-* [Adobe Flash Proffesional CS6 Básico](https://edutin.com/curso-de-Flash-CS6-523) (Edutin)
+* [Adobe Flash Proffesional CS6 Básico](https://edutin.com/curso-de-Flash-CS6-523)
 * [After Effects. Básico](http://artecdigital.com.ar/curso-de-after-effects-online-gratis) (Youtube)
 * [Anima un Lettering con After Effects](https://www.crehana.com/cursos/animacion/anima-un-lettering-con-after-effects) (Crehana)
 * [Animación 3D (2015)](https://poliformat.upv.es/portal/tool/7984ac9d-a856-4e3c-a763-d76c1eca6ddc/main)
