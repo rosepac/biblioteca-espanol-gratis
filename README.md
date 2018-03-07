@@ -3,7 +3,6 @@
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?longCache=true&style=for-the-badge)](https://gitter.im/FreeCodeCamp/Espanol)
 [![Twitter URL](https://img.shields.io/badge/tweet-MundoFramework-blue.svg?longCache=true&style=for-the-badge)](https://twitter.com/MundoFramework)
 [![GitHub issue last update](https://img.shields.io/badge/updated-marzo%202018-red.svg?longCache=true&style=for-the-badge)](https://github.com/DpdC/biblioteca-espanol-gratis)
-[![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
 
 
 ___
@@ -19,7 +18,7 @@ ___
 
 ## Cómo contribuir
 
-Por favor, lea en [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente).
+Por favor, leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) e utilizar Travis CI como tester [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
 
 
 ___
@@ -37,7 +36,7 @@ ___
 ## **Índice Global**
 
 + [Libros de Programación (+ 150 libros)](/libros-programacion-gratis.md#Índice)
-+ [Libros de Programación - Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--#gitbook---biblioteca-de-libros-en-español--)
++ [Libros de Programación en Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--#gitbook---biblioteca-de-libros-en-español--)
 + [Cursos de Programación (+ 580 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
 + [Cursos de Otras Temáticas (+ 285 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 
