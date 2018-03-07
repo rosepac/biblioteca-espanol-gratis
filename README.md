@@ -6,6 +6,8 @@
 [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
 
 
+___
+
 ## **Introducción**
 
 Esta lista es una idea surgida en Mayo de 2017, derivada de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books) y centrada en la recopilación de cursos y libros en **español**.
@@ -13,17 +15,22 @@ Esta lista es una idea surgida en Mayo de 2017, derivada de [Github - Free Progr
 *[Pablo Álvarez Corredera](http://www.medium.com/mundo-framework), Saludos.*
 
 
-### Cómo contribuir
+___
 
-Por favor, lea en [contribución](/contribucion.md).
+## Cómo contribuir
+
+Por favor, lea en [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente).
 
 
-### Compartir
+___
+
+## Compartir
 
 + [Mediante Twitter](http://twitter.com/home?status=https://github.com/DpdC/biblioteca-espanol-gratis&0ABiblioteca%20de%20Programación)
 + [Mediante Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/DpdC/biblioteca-espanol-gratis&p[images][0]=&p[title]=DpdC&p[summary]=)
 + [Mediante Google Plus](https://plus.google.com/share?url=https://github.com/DpdC/biblioteca-espanol-gratis)
 + [Mediante LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/DpdC/biblioteca-espanol-gratis&title=DpdC&summary=&source=)
+
 
 ___
 
@@ -34,6 +41,7 @@ ___
 + [Cursos de Programación (+ 580 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
 + [Cursos de Otras Temáticas (+ 285 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 
+___
 
 ## **Índice Extendido por Contenidos**
 
@@ -192,6 +200,7 @@ Esta lista es una idea surgida en Mayo de 2017; tras conocer el proyecto origina
 En esta escisión se centra en enfocar el proyecto hacía el idioma **español**, facilitando recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de la informática e incluso hacía otras personas que deseen aprender sobre otras temáticas, en general.
 
 *[Pablo Álvarez Corredera](http://www.mundo-framework.com), Saludos.*
+
 
 ---
 
