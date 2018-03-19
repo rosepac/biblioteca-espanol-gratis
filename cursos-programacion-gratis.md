@@ -597,7 +597,7 @@
 * [Wireless penetration con Kali Linux](https://edutin.com/curso-de-wireless-penetration-testing-con-kali-linux-3757) (Edutin)
 
 
-### Servidores y servidores nube
+### Servidores & Servicios en nube
 
 * [Acceso y protección de información en Windows Server 2012 R2](https://mva.microsoft.com/es-es/training-courses/acceso-y-proteccin-de-informacin-en-windows-server-2012-r2-8266) (Microsoft Virtual Academy)
 * [Administración de cargas de trabajo de Linux en Windows Server y System Center](https://mva.microsoft.com/es-es/training-courses/administracin-de-cargas-de-trabajo-de-linux-en-windows-server-y-system-center-8764) (Microsoft Virtual Academy)
@@ -678,7 +678,7 @@
 * [Windows Server 2016](https://edutin.com/curso-de-windows-server-2016-3581) (Edutin)
 
 
-### Sistemas de gestión de contenidos / CMS
+### Sistemas de Gestión de Contenidos / CMS
 
 * [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
 * [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)

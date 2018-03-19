@@ -1,5 +1,5 @@
 # Biblioteca de recursos de aprendizaje de programación
-[![GitHub issue author](https://img.shields.io/badge/autor-pabloalvarez-orange.svg?longCache=true&style=for-the-badge)](https://www.mundoframework.com)
+[![GitHub issue author](https://img.shields.io/badge/autor-pabloalvarez-orange.svg?longCache=true&style=for-the-badge)](https://www.medium.com/mundo-framework)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?longCache=true&style=for-the-badge)](https://gitter.im/FreeCodeCamp/Espanol)
 [![Twitter URL](https://img.shields.io/badge/tweet-MundoFramework-blue.svg?longCache=true&style=for-the-badge)](https://twitter.com/MundoFramework)
 [![GitHub issue last update](https://img.shields.io/badge/updated-marzo%202018-red.svg?longCache=true&style=for-the-badge)](https://github.com/DpdC/biblioteca-espanol-gratis)
@@ -18,7 +18,7 @@ ___
 
 ## Cómo contribuir
 
-Por favor, leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) e utilizar Travis CI como tester [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis)
+Por favor, leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) e utilizar [Travis CI](https://travis-ci.org/) [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis) como tester.
 
 
 ___
@@ -36,9 +36,10 @@ ___
 ## **Índice Global**
 
 + [Libros de Programación (+ 150 libros)](/libros-programacion-gratis.md#Índice)
-+ [Libros de Programación en Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--#gitbook---biblioteca-de-libros-en-español--)
++ [Libros de Programación en Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-espa%C3%B1ol--)
 + [Cursos de Programación (+ 580 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
 + [Cursos de Otras Temáticas (+ 285 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
++ [Páginas de Programación](/paginas-programacion.md)
 
 ___
 
@@ -52,7 +53,7 @@ ___
   + [Base de Datos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#base-de-datos)
   + [Ciencia Computacional](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ciencia-computacional)
   + [Criptomonedas](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#criptomoneda)
-  + [Cursos Masivos en Línea](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#cursos-masivos-en-L%C3%ADnea)
+  + [Cursos Masivos en Línea](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#cursos-masivos-en-l%C3%ADnea)
   + [Ecosistema de Código Abierto](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ecosistema-de-c%C3%B3digo-abierto)
   + [Metodologías de desarrollo de software](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#metodolog%C3%ADas-de-desarrollo-de-software)
   + [Misceláneos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#miscel%C3%A1neos)
@@ -115,7 +116,7 @@ ___
 + [Seguridad](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#seguridad)
 + [Servidores y Servicios Nube](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#servidores-y-servicios-nube)
 + [Sistemas de Gestión de Contenidos / CMS](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
-* [Técnico de Software & Hardware](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#t&#x00E9;cnico-de-software--hardware)
++ [Técnico de Software & Hardware](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#t&#x00E9;cnico-de-software--hardware)
 + [Videojuegos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#videojuegos)
 + [Web & Webmaster](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#web--webmaster)
 
@@ -171,22 +172,29 @@ ___
 + [Software Educativo](/cursos-otras-tematicas-gratis.md#software-educativo)
 
 
-### Cursos de programación interactiva (:construction:)
+___
+
+## Cursos de programación interactiva (:construction:)
 
 + [Tutoriales Gratuitos de Programación Interactiva en Español - En construcción -](/cursos-programacion-interactivos-gratis.md)
 
 
-### Recursos de framework´s  de JavaScript (:construction: :construction: :construction: :construction: :construction:)
+## Desarrollo Front-End Librerías
 
-+ [En Español :construction:](/recursos-frameworks-javascript.md)
++ [Desarrollo Front-End Recopilación de Librerías Útiles](/librerias-front-end.md)
 
 
-### Podcast - Screencast (:construction: :construction: :construction: :construction: :construction:)
+## Recursos de framework´s  de JavaScript (:construction: :construction: :construction: :construction: :construction:)
+
++ [En Español :construction:](/recursos-frameworks-javascript.md#angularjs)
+
+
+## Podcast - Screencast (:construction: :construction: :construction: :construction: :construction:)
 
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-cs.md)
 
 
-### Juegos de Programación (:construction: :construction: :construction: :construction: :construction:)
+## Juegos de Programación (:construction: :construction: :construction: :construction: :construction:)
 + [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-playgrounds.md)
 
 

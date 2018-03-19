@@ -6,7 +6,7 @@
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
   * [Criptomonedas](#criptomoneda)
-  * [Cursos Masivos en Línea](#cursos-masivos-en-L%C3%ADnea)
+  * [Cursos Masivos en Línea](#cursos-masivos-en-l%C3%ADnea)
   * [Ecosistema de Código Abierto](#ecosistema-de-c%C3%B3digo-abierto)
   * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
   * [Misceláneos](#miscel%C3%A1neos)
@@ -134,7 +134,8 @@
 #### Cursos Masivos en Línea
 
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
-* [MIT Opencourseware en Español](http://mit.ocw.universia.net)
+* [Miriadax](https://miriadax.net/cursos)
+
 
 
 #### Ecosistema de Código Abierto
