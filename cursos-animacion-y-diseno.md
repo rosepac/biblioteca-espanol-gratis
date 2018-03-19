@@ -1,11 +1,11 @@
 ### Índice
 
-* [Animación & 3D](#animaci&#x00F3;n--3D)
+* [Animación & 3D](#animaci%C3%B3n--3d)
 * [Arquitectura](#arquitectura)
 * [Arte & Cultura](#arte--cultura)
 * [Comunicaciones & Sonido](#comunicaciones--sonido)
 * [Dibujo](#dibujo)
-* [Diseño con Photoshop](#dise&#241;o-photoshop)
+* [Diseño con Photoshop & Gimp](#dise%C3%B1o-photoshop--gimp)
 * [Diseño Editorial](#dise&#241;o-editorial)
 * [Diseño Vectorial](#dise&#241;o-vectorial)
 * [Fotografía](#fotograf&#x00ED;a)

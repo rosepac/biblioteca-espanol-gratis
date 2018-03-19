@@ -25,7 +25,7 @@ Al contribuir, acepta el [Código de Conducta](https://github.com/EbookFoundatio
 
 ### Formato
 
-* Las nuevas anclas deben seguir el mismo formato, ya existente. En el caso de ser necesario incluir una letra con tilde en dicha ancla; debe ser sustituida por su formato 'unicode' para su correcto funcionamiento, que puede ser extraído del siguiente enlaces [unicode códigos para todos los símbolos y letras posibles](https://gist.github.com/ngs/2782436).
+* Las nuevas anclas deben seguir el mismo formato, ya existente. En el caso de ser necesario incluir una letra con tilde en dicha ancla; debe ser sustituida por su entidad en formato 'unicode' para su correcto funcionamiento, que puede ser extraído del siguiente enlaces [unicode códigos para todos los símbolos y letras posibles](https://gist.github.com/ngs/2782436).
 * Las secciones usan encabezados de nivel 3 (`###`), y las subsecciones de nivel 4 (`####`).
 * Todas las listas comienzan con un índice. La idea es enumerar y vincular todas las secciones y subsecciones en el. Mantenlo en orden alfabético.
 * Todas las listas son archivos `.md`. Se recomienda, aprender la sintaxis de [Markdown] (https://guides.github.com/features/mastering-markdown/). ¡Es sencillo!

@@ -1,9 +1,9 @@
 ### Índice
 
 * [Agricultura](#agricultura)
-* [Albañilería](#albañileria)
+* [Albañilería](#alba%C3%B1iler%C3%ADa)
 * [Astronomía](#astronom&#x00ED;a)
-* [Ciencias. Física & Química](#ciencias--f&#x00ED;sica--qu&#x00ED;mica)
+* [Ciencias. Física & Química](#ciencias--f%C3%ADsica--qu%C3%ADmica)
 * [Cocina](#cocina)
 * [Derecho](#derecho)
 * [Economía](#econom&#x00ED;a)
@@ -13,21 +13,19 @@
 * [Electrónica](#electr&#x00F3;nica)
 * [Envejecimiento](#envejecimiento)
 * [Estadística](#estad&#x00ED;stica)
-* [Física](#f&#x00ED;sica)
 * [Fruticultura](#fruticultura)
 * [Historia & Geografía](#historia--geograf&#x00ED;a)
 * [Humanidades](#humanidades)
 * [Idiomas](#idiomas)
-* [Ingeniería](#ingenier&#x00ED;a)
+* [Ingeniería](#ingiener%C3%ADa)
 * [Jurídico](#jur&#x00ED;dico)
 * [Marketing](#marketing)
 * [Matemáticas](#matem&#x00E1;ticas)
-* [Mecánica](#mecanica)
+* [Mecánica](#mec&#x00E1;nica)
 * [Medio Ambiente](#medio-ambiente)
 * [Motivación](#motivaci&#x00F3;n)
-* [Música](#musica)
+* [Música](#m&#x016D;sica)
 * [Negocio](#negocio)
-* [Química](#qu&#x00ED;mica)
 * [Referencias Bibliográficas e Información](#referencias-bibliogr&#x00E1;ficas--informaci&#x00F3;n)
 * [Salud y nutrición](#salud--nutrici&#x00F3;n)
 * [Servicios](#servicios)
@@ -71,10 +69,20 @@
 * [Introducción a la Estructura de la Materia](https://www.edx.org/course/introduccion-la-estructura-de-la-materia-upvalenciax-iq101-1x-2)
 * [Introducción a las ondas gravitacionales](https://www.edx.org/course/introduccion-las-ondas-gravitacionales-uncordobax-cs001x)
 * [Introducción a los biomateriales](https://miriadax.net/web/introduccion-a-los-biomateriales/inicio)
-* [La Química Orgánica - Un mundo a tu alcance (Parte 2)](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg2x-0)
-* [La Química Orgánica, un mundo a tu alcance](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg101x-2)
 * [Microcápsulas: Aplicación y Caracterización](https://www.edx.org/course/microcapsulas-aplicacion-y-upvalenciax-mcap101x-0)
 * [Reacciones Químicas y Cálculos Estequiométricos](https://www.edx.org/course/reacciones-quimicas-y-calculos-upvalenciax-iq101-4x-1)
+
+
+#### Física
+
+* [Física mecánica intermedio: conceptos y aplicaciones](https://edutin.com/curso-de-fisica-mecanica-intermedio-2316)
+
+
+#### Química
+
+* [La Química Orgánica - Un mundo a tu alcance (Parte 2)](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg2x-0)
+* [La Química Orgánica, un mundo a tu alcance](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg101x-2)
+* [Química Analítica](https://edutin.com/curso-de-quimica-analitica-basico-790)
 
 
 ### Cocina
@@ -231,11 +239,6 @@
 * [Técnicas Cuantitativas y Cualitativas para la Investigación](https://www.edx.org/course/tecnicas-cuantitativas-y-cualitativas-upvalenciax-tcci201-x-0)
 
 
-### Física
-
-* [Física mecánica intermedio: conceptos y aplicaciones](https://edutin.com/curso-de-fisica-mecanica-intermedio-2316)
-
-
 ### Fruticultura
 
 * [Jardinería a gran escala](https://edutin.com/curso-de-jardineria-a-gran-escala-3217)
@@ -344,7 +347,7 @@
 * [Una vida con proposito: tres pasos y logra tu proposito de vida](https://www.udemy.com/una-vida-con-proposito-3-pasos-para-descubrir-tu-proposito)
 
 
-### Musica
+### Música
 
 * [5 lecciones que todo guitarrista debe tomar](https://www.udemy.com/5-lecciones-que-todo-guitarrista-debe-tomar)
 * [7 formas de mejorar los bombos de tus canciones](https://www.udemy.com/mejorar-bombos)
@@ -388,11 +391,6 @@
 * [Publica tu web y domina el web hosting para emprendedores](https://www.udemy.com/web-hosting-course)
 * [Relaciones Públicas para abogados y otros profesionales](https://www.udemy.com/curso-de-relaciones-publicas) (Udemy)
 * [Valoración de Futbolistas con el Método AHP](https://www.edx.org/course/valoracion-de-futbolistas-con-el-metodo-upvalenciax-vf201x-1)
-
-
-### Química 
-
-* [Química Analítica](https://edutin.com/curso-de-quimica-analitica-basico-790)
 
 
 ### Referencias Bibliográficas e Información

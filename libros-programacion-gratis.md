@@ -509,6 +509,10 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Python. No muerde, yo sí.](https://media.readthedocs.org/pdf/python-no-muerde/latest/python-no-muerde.pdf) (PDF) [(HTML)](http://python-no-muerde.readthedocs.io/es/latest)
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf) (PDF) [(HTML)](http://tryton-ar.readthedocs.io/es/latest/introduccion.html)
 
+#### Django
+
+* [Django. Documentación](https://media.readthedocs.org/pdf/djangotutorial/1.8/djangotutorial.pdf) (PDF)
+
 
 #### Web2py
 
