@@ -39,7 +39,7 @@ ___
 + [Libros de Programación en Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-espa%C3%B1ol--)
 + [Cursos de Programación (+ 580 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
 + [Cursos de Otras Temáticas (+ 285 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
-+ [Páginas de Programación](/paginas-programacion.md)
++ [Páginas de Programación](/paginas-programacion.md#index)
 
 ___
 
@@ -60,9 +60,9 @@ ___
   + [Montaje & mantenimiento](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#montaje--mantenimiento)
   + [Paradigmas de Programación](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#paradigmas-de-programaci%C3%B3n)
   + [Revistas](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#revistas)
-  + [Robótica](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#robotica)
+  + [Robótica](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#rob%C3%B3tica)
   + [Seguridad](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#seguridad)
-  + [Servicios en red](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#servicios--red)
+  + [Servicios en red](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#servicios-en-red)
   + [Sistemas Operativos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sistemas-operativos)
 + [Android](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#android)
 + [C](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#c)

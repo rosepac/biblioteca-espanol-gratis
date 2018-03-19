@@ -5,7 +5,7 @@
   * [Algoritmos y Estructuras de Datos](#algoritmos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
-  * [Criptomonedas](#criptomoneda)
+  * [Criptomonedas](#criptomonedas)
   * [Cursos Masivos en Línea](#cursos-masivos-en-l%C3%ADnea)
   * [Ecosistema de Código Abierto](#ecosistema-de-c%C3%B3digo-abierto)
   * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
@@ -13,9 +13,9 @@
   * [Montaje & mantenimiento](#montaje--mantenimiento)
   * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
   * [Revistas](#revistas)
-  * [Robótica](#robotica)
+  * [Robótica](#rob%C3%B3tica)
   * [Seguridad](#seguridad)
-  * [Servicios en red](#servicios--red)
+  * [Servicios en red](#servicios-en-red)
   * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
 * [C](#c)
@@ -115,7 +115,7 @@
 * [Una aproximación dirigida por modelos para diseñar y construir esquemas XML: Un caso de estudio.](http://www.redalyc.org/pdf/1331/133115019007.pdf) (PDF)
 
 
-#### Criptomoneda
+#### Criptomonedas
 
 * [Análisis y comparación de monedas criptográficas basadas en la tecnología Blockchain (2016)](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf) (PDF)
 * [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf) (PDF)
