@@ -66,8 +66,11 @@
 
 ### HTML/CSS
 
+* [Animaciones CSS, tutoriales y ejemplos](https://cssanimation.rocks) (INGLÉS)
 * [Aprender a Programar - Curso CSS desde cero](https://www.aprenderaprogramar.es/index.php?option=com_content&view=category&id=75&Itemid=203)
 * [Aprender a Programar - Curso HTML desde cero](https://www.aprenderaprogramar.es/index.php?option=com_content&view=category&id=69&Itemid=192)
+* [El Arte de las Animaciones UI](http://markgeyer.com/pres/the-art-of-ui-animations) (INGLÉS)
+* [Sube de nivel tus habilidades de CSS con estos 20 consejos Pro CSS](http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips) (INGLÉS)
 
 
 ### Java

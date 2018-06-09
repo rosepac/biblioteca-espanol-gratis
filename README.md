@@ -1,15 +1,16 @@
 # Biblioteca de recursos de aprendizaje de programación
 [![GitHub issue author](https://img.shields.io/badge/autor-pabloalvarez-orange.svg?longCache=true&style=for-the-badge)](https://www.medium.com/mundo-framework)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?longCache=true&style=for-the-badge)](https://gitter.im/FreeCodeCamp/Espanol)
+[![Discord](https://img.shields.io/gitter/room/nwjs/nw.js.svg?longCache=true&style=for-the-badge)](https://discord.gg/TUkA38D)
 [![Twitter URL](https://img.shields.io/badge/tweet-MundoFramework-blue.svg?longCache=true&style=for-the-badge)](https://twitter.com/MundoFramework)
-[![GitHub issue last update](https://img.shields.io/badge/updated-marzo%202018-red.svg?longCache=true&style=for-the-badge)](https://github.com/DpdC/biblioteca-espanol-gratis)
+[![GitHub issue last update](https://img.shields.io/badge/updated-junio%202018-red.svg?longCache=true&style=for-the-badge)](https://github.com/DpdC/biblioteca-espanol-gratis)
 
 
 ___
 
 ## **Introducción**
 
-Esta lista es una idea surgida en Mayo de 2017, derivada de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books) y centrada en la recopilación de cursos y libros en **español**.
+Esta lista es una idea surgida en Mayo de 2017, derivada de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books).
+Centrada en la recopilación de cursos y libros en **español**.
 
 *[Pablo Álvarez Corredera](http://www.medium.com/mundo-framework), Saludos.*
 
@@ -177,12 +178,12 @@ ___
 + [Tutoriales Gratuitos de Programación Interactiva en Español - En construcción -](/cursos-programacion-interactivos-gratis.md)
 
 
-## Desarrollo Front-End Librerías
-
+## Desarrollo Front-End Framework´s, Librerías & Recursos Freebies
+ 
 + [Desarrollo Front-End Recopilación de Librerías Útiles](/librerias-front-end.md)
 
 
-## Recursos de framework´s  de JavaScript (:construction: :construction: :construction: :construction: :construction:)
+## Recursos de Framework´s  de JavaScript
 
 + [En Español :construction:](/recursos-frameworks-javascript.md#angularjs)
 

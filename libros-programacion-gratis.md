@@ -24,6 +24,7 @@
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
+* [Elixir](#elixir)
 * [Framework Móvil](#framework-m%C3%B3vil)
 * [Git](#git)
 * [Github](#github)
@@ -286,13 +287,15 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view) (PDF)
 * [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
+* [Desarrollo de aplicaciones para Android usando MIT App Inventor 2 -2016](https://openlibra.com/en/book/download/desarrollo-de-aplicaciones-para-android-usando-mit-app-inventor-2) [2013](https://tecnoarboleda.files.wordpress.com/2014/02/desarrollo-para-android-usando-mit-appinventor.pdf)
 * [Desarrollo de una aplicación móvil Android para control remoto de un servicio web (2012)](https://e-archivo.uc3m.es/bitstream/handle/10016/16913/TFG_Maria_Lozano_Perez.pdf) (PDF)
-* [Desarrollo para Android usando MIT App Inventor](https://tecnoarboleda.files.wordpress.com/2014/02/desarrollo-para-android-usando-mit-appinventor.pdf) (PDF)
 * [EasyManet for Android (2013)](https://riunet.upv.es/bitstream/handle/10251/32786/Memoria.pdf) (PDF)
 * [Guía para la realización de aplicaciones móviles en los sistemas operativos Android e iOS](http://repository.udistrital.edu.co/bitstream/11349/6274/1/AvilaCruzHelmanCamilo2017.pdf) (PDF)
 * [Introducción a Android](http://www.it-docs.net/ddata/18.pdf) (PDF)
 * [Introducción a ArcGIS Runtime for Android](https://desarrolloappandroid.files.wordpress.com/2013/06/arcgis-runtime-sdk-for-android.pdf) (PDF)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
+* [Oficial: Documentación](https://developer.android.com/studio/intro/) (HTML)
+* [Oficial: Introducción a Android](https://developer.android.com/guide/) (HTML)
 * [Programación en Android para principiantes](https://openlibra.com/es/book/download/curso-de-programacion-en-android-para-principiantes) (PDF)
 * [Seguridad en dispositivos Android](https://lsi.vc.ehu.eus/pablogn/investig/JornadasSeguridad141112.pdf) (PDF)
 
@@ -331,6 +334,11 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 ### Erlang
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) (WikiLibros)
+
+
+### Elixir
+
+* [Elixir School. Lecciones acerca del lenguaje de programación Elixir](https://elixirschool.com/es)
 
 
 ### Git
@@ -428,6 +436,10 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 ### React
 
 * [SurviveJS - React: De aprendiz a maestro](https://leanpub.com/survivejs-react-es) (LeanPub)
+
+### Vuejs
+
+* []
 
 
 ### Linux

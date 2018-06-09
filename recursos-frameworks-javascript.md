@@ -48,7 +48,12 @@
 
 ## Ember.js
 
-* [Framework](https://www.emberjs.com) (Web Oficial)
+* [Framework Ember](https://www.emberjs.com) (Web Oficial)
+
+
+## Flutter
+
+* [Framework Flutter](https://flutter.io) (Web Oficial)
 
 
 ## Hyperapp
@@ -94,6 +99,16 @@
 ## Redux
 
 * [Framework](https://redux.js.org) (Web Oficial)
+
+
+## Vue
+
+* [Recursos VueJS](https://github.com/tipoqueno/vuejs-recursos-es#vuejs--recursos-en-espa%C3%B1ol)
+
+
+### Vuesax
+
+* [Framework Vuesax](https://github.com/lusaxweb/vuesax)
 
 
 ---
