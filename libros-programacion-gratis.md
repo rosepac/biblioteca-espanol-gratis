@@ -23,8 +23,8 @@
 * [Coffescript](#coffescript)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
-* [Erlang](#erlang)
 * [Elixir](#elixir)
+* [Erlang](#erlang)
 * [Framework Móvil](#framework-m%C3%B3vil)
 * [Git](#git)
 * [Github](#github)
@@ -136,7 +136,6 @@
 
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
 * [Miriadax](https://miriadax.net/cursos)
-
 
 
 #### Ecosistema de Código Abierto
@@ -437,6 +436,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 * [SurviveJS - React: De aprendiz a maestro](https://leanpub.com/survivejs-react-es) (LeanPub)
 
+
 ### Vuejs
 
 * []
@@ -520,6 +520,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Python. No muerde, yo sí.](https://media.readthedocs.org/pdf/python-no-muerde/latest/python-no-muerde.pdf) (PDF) [(HTML)](http://python-no-muerde.readthedocs.io/es/latest)
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf) (PDF) [(HTML)](http://tryton-ar.readthedocs.io/es/latest/introduccion.html)
+
 
 #### Django
 

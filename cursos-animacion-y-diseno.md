@@ -15,16 +15,16 @@
 
 ### Animación & 3D
 
+* [3D Studio Max + Unreal Engine 4](https://www.youtube.com/playlist?list=PLrBX_a87v6cIilRat5NWqSEpbeQhn_YOi)
 * [3D Studio Max Básico: crea una imagen fotorrealista](https://www.crehana.com/cursos/3D/3d-studio-max-basico-crea-una-imagen-fotorrealista) (Crehana)
 * [3D Studio Max Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IfCUr-yWF_iTIDEOq4HjdQm)
 * [3D Studio Max Curso Intensivo](https://www.youtube.com/playlist?list=PLrBX_a87v6cJOZY-yiQH9wT2ysRCZkWwh)
 * [3D Studio Max Modificadores](https://www.youtube.com/playlist?list=PLrBX_a87v6cJhiTWadVYWDJxhhcsTXjoj)
-* [3D Studio Max + Unreal Engine 4](https://www.youtube.com/playlist?list=PLrBX_a87v6cIilRat5NWqSEpbeQhn_YOi)
 * [ActionScript 3.0](https://edutin.com/curso-de-ActionScript-3.0-1500)
 * [Adobe Animate CC](https://edutin.com/curso-de-adobe-animate-cc-completo-3741)
 * [Adobe Flash Proffesional CS6 Básico](https://edutin.com/curso-de-Flash-CS6-523)
-* [After Effects. Curso Completo](https://www.youtube.com/playlist?list=PL3UQKbpPaddZBOJekmJ4I7liHeC2LKoDw)
 * [After Effects. Básico](http://artecdigital.com.ar/curso-de-after-effects-online-gratis) (Youtube)
+* [After Effects. Curso Completo](https://www.youtube.com/playlist?list=PL3UQKbpPaddZBOJekmJ4I7liHeC2LKoDw)
 * [Anima un Lettering con After Effects](https://www.crehana.com/cursos/animacion/anima-un-lettering-con-after-effects) (Crehana)
 * [Animación 3D (2015)](https://poliformat.upv.es/portal/tool/7984ac9d-a856-4e3c-a763-d76c1eca6ddc/main)
 * [Animación 3D con Cinema 4D y After Effects](https://www.crehana.com/cursos/3D/animacion-3d-con-cinema-4d-y-after-effects) (Crehana)
@@ -47,8 +47,8 @@
 * [Autodesk Maya 2015. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_Ifg7yx6Fy6TStqdc-9uIun7)
 * [Autodesk Maya: Introducción al 3D](https://www.crehana.com/cursos/3D/autodesk-maya-introduccion-al-3d) (Crehana)
 * [Autodesk Revit Básico](https://www.youtube.com/playlist?list=PLl1Fp7RMXFoUlGiJ01KHjqV-1MtT4Ktku)
-* [Blender. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdM-16dRfsA3ozzaJQI2trt)
 * [Blender 2.70a](https://3d4every1.blogspot.com.ar/p/blender.html)
+* [Blender. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdM-16dRfsA3ozzaJQI2trt)
 * [CAD 3D (2009)](https://ocw.unican.es/course/view.php?id=213)
 * [Cinema 4D: primeros pasos en 3D](https://www.crehana.com/cursos/3D/cinema-4d-primeros-pasos-en-el-3d) (Crehana)
 * [Corel Draw x8](http://artecdigital.com.ar/curso-de-corel-draw-online-gratis) (Youtube)
@@ -77,8 +77,8 @@
 * [Modelado de un carro a control remoto en 3D con Rhinoceros](https://edutin.com/curso-de-modelado-de-un-carro-en-3d-con-rhinoceros-445)
 * [Modelado de un reloj de pulso en 3D con Rhinoceros](https://edutin.com/curso-de-modelado-3d-de-un-reloj-con-Rhinoceros-437)
 * [Principios de Animación en After Effects](https://www.crehana.com/cursos/audiovisuales/principios-de-animacion-en-after-effects) (Crehana)
-* [Síntesis de Imágenes y Animación (2013)](http://ocw.uji.es/curso/80200)
 * [Sculping en Cinema 4D](https://www.youtube.com/playlist?list=PLNQ6ThfsgUjOnSUrZDRROLWyqQ2CIVQpb)
+* [Síntesis de Imágenes y Animación (2013)](http://ocw.uji.es/curso/80200)
 * [Sketchup 2013. Curso Completo](https://www.youtube.com/playlist?list=PLoxNRO_Yil72KheGAC8L6XGXQDIxiogE8)
 * [Sketchup 2015 Avanzado](https://edutin.com/curso-de-sketchup-2015-2549)
 * [Sketchup 2017 - 2018](https://3d4every1.blogspot.com.ar/search/label/Sketchup-2017-2018)
@@ -145,8 +145,8 @@
 * [Principios básicos para aprender a dibujar](https://www.youtube.com/watch?v=KQG7H59Lork&list=PLA72E24DA6A2DE214)
 * [Técnicas Básicas de Dibujos de Figuras](https://www.youtube.com/playlist?list=PL5EFA87222A1C01D0)
 * [Trucos de Dibujo - MyDrawingTips](https://www.youtube.com/user/MyDrawingTips/playlists)
-* [Tutoriales de Animes - Canal ArteMaster](https://www.youtube.com/user/GastroMstr/videos)
 * [Tutoriales de Animales y Objetos - Canal ArteDivierte](https://www.youtube.com/user/ArteDivierte/playlists)
+* [Tutoriales de Animes - Canal ArteMaster](https://www.youtube.com/user/GastroMstr/videos)
 
 
 ### Diseño
@@ -159,8 +159,8 @@
 * [Adobe InDesign. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_Id9rTtov22bK92KyhTB9gW9)
 * [Crea un portfolio de diseño con InDesign](https://www.crehana.com/cursos/diseno-editorial/crea-un-portafolio-de-diseno-con-indesign) (Crehana)
 * [Diseño gráfico enfocado a imprenta](https://edutin.com/curso-de-Dise%C3%B1o-Grafico-Orientado-a-Imprenta-2286)
-* [Scribus. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IfTZ_AEUvfZXBSoZ0t7vHov)
 * [Ilustraciones y materiales gráficos en la cultura impresa moderna](https://edutin.com/curso-de-ilustraciones-y-materiales-graficos-en-la-cultura-impresa-moderna-3851)
+* [Scribus. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IfTZ_AEUvfZXBSoZ0t7vHov)
 
 
 ### Diseño Photoshop & Gimp
@@ -174,8 +174,8 @@
 * [Dibujo con luz. Fotografía (2015)](http://ocw.um.es/artes-1/dibujo-con-luz.-fotografia-1) (OCW)
 * [Diseño y retoque digital para alimentos](https://www.crehana.com/cursos/diseno/diseno-y-retoque-digital-para-alimentos) (Crehana)
 * [Gimp](https://edutin.com/curso-de-Gimp-1929)
-* [Gimp. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
 * [Gimp Básico](https://www.youtube.com/playlist?list=PLdTIvJN202Cq5jklX_VpoQFnifDKio99f) (Youtube)
+* [Gimp. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
 * [Herramientas de Photoshop CC para Principiantes](https://www.udemy.com/herramientas-de-photoshop-cc-para-principiantes)
 * [Introducción al retoque digital creativo](https://www.crehana.com/cursos/retoque-digital/introduccion-al-retoque-digital-creativo) (Crehana)
 * [Lánzate al Retoque Fotográfico con Adobe Photoshop CC](https://www.udemy.com/lanzate-al-retoque-fotografico-con-adobe-photoshop-cc)
@@ -207,8 +207,8 @@
 * [¿Qué cámara me compro?](https://teachlr.com/cursos-online/que-camara-me-compro)
 * [Adobe Lightroom 4.1](https://edutin.com/curso-de-Adobe-Lightroom-4-1-1596)
 * [Aprende a mejorar tus fotografías en 31 días - DZOOM](https://www.dzoom.org.es/curso-de-fotografia-ahmf31-el-indice) (HTML)
-* [Curso básico de fotografía de Toni de Ros](https://www.youtube.com/playlist?list=PL1E74653264415827) (Youtube)
 * [Cómo mejorar tu Fotografía con cualquier Cámara](https://teachlr.com/cursos-online/como-mejorar-tus-fotos-con-cualquier-camara)
+* [Curso básico de fotografía de Toni de Ros](https://www.youtube.com/playlist?list=PL1E74653264415827) (Youtube)
 * [Edición fotográfica con Adobe Lightroom](https://edutin.com/curso-de-edicion-fotografica-adobe-lightroom-3310)
 * [Fotografía Básica](https://edutin.com/curso-de-fotografia-basica-2355)
 * [Fotografía Básica Digital Online - TheWebPhoto](http://www.thewebfoto.com/0-indice) (HTML)
@@ -223,22 +223,22 @@
 
 ### Sonido
 
-* [Adobe Audition CS6](https://edutin.com/curso-de-adobe-audition-cs6-completo-3734)
 * [Adobe Audition CC. Curso Completo](https://www.youtube.com/playlist?list=PLjfr0J0JREDLt6vi_ww3xzEtpiaJZgr_u)
+* [Adobe Audition CS6](https://edutin.com/curso-de-adobe-audition-cs6-completo-3734)
 * [Audacity. Curso Completo](https://www.youtube.com/playlist?list=PLjfr0J0JREDJ7NNk5ZSfTBaJ7UlrC59uK)
 * [Cómo cambiar el estilo musical a una canción](https://edutin.com/curso-de-como-cambiar-el-estilo-musical-a-una-cancion-3902)
 * [Cómo mezclar música](https://edutin.com/curso-de-como-mezclar-musica-basico-3893)
 * [Edición de audio con Logic Pro X](https://edutin.com/curso-de-edicion-de-audio-con-logic-pro-x-3887)
 * [Edición de sonido con Audacity](https://edutin.com/curso-de-edicion-de-sonido-con-audacity-3889)
-* [FL Studio Curso](http://www.componemos.es/curso-fl-studio/)
 * [FL Studio 12](https://edutin.com/curso-de-fl-studio-12-3895)
+* [FL Studio Curso](http://www.componemos.es/curso-fl-studio/)
 * [iMovie para iOS, edita tus vídeos donde quieras](https://www.udemy.com/imovie-para-ios)
 * [Iniciación a la Música Electrónica](https://www.youtube.com/playlist?list=PLb_0p0mGN9LhLj2juAdMCwrjSVu_svXX8)
 * [Iniciación a la Producción Musical](https://www.youtube.com/playlist?list=PLb_0p0mGN9LjYeUEdodYiZQJdJv3F6AKF)
 * [Introducción al Audio Digital](https://miriadax.net/web/introduccion-al-audio-digital/inicio)
 * [Linux Multimedia Studio](https://edutin.com/curso-de-linux-multimedia-studio-3892)
-* [Omnisphere 2](https://edutin.com/curso-de-omnisphere-2-3891)
 * [Minitutoriales de Mezclas](https://www.youtube.com/playlist?list=PLb_0p0mGN9Lg7iXWZl5UNfS-5FfpH7Pzz)
+* [Omnisphere 2](https://edutin.com/curso-de-omnisphere-2-3891)
 * [Producción musical de baladas con loops en FL Studio](https://edutin.com/curso-de-produccion-musical-de-baladas-con-loops-en-fl-studio-3899)
 
 
