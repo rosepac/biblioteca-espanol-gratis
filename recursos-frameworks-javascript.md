@@ -1,10 +1,11 @@
-## Angular.js
+## Angular
 
 * [Comunicar componentes en AngularJS 1.](https://carlosazaustre.es/formas-de-comunicar-componentes-en-angularjs-1-x/) (HTML)
 * [Desarrollo por componentes en AngularJS 1.](https://carlosazaustre.es/desarrollo-por-componentes-con-angular-1-5-con-es6-es2015/) (HTML)
 * [Framework](https://angularjs.org) (Web Oficial)
 * [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md#guía-de-estilo-angularjs) (Github)
 * [Primer componente en Angular 2](https://platzi.com/blog/crea-componente-angular-2/) (HTML)
+* [Angular desde 0](https://frostqui.github.io/series/angular) (HTML)
 
 
 ## Aurelia
