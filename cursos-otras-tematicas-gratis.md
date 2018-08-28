@@ -286,7 +286,6 @@
 
 ### Ingienería
 
-* [Albañilería](https://edutin.com/curso-de-alba%C3%B1ileria-completo-3328) (Educatin)
 * [Caer o No caer. El Secreto de las Estructuras.](https://www.edx.org/course/caer-o-no-caer-el-secreto-de-las-uc3mx-mmc-1x-0)
 * [Geoestadística Práctica: usando Sgems y gvSIG](https://www.udemy.com/geoestadistica-practica-usando-sgems-y-gvsig)
 * [Introducción a Ansys Workbench](https://www.udemy.com/introduccion-a-ansys-workbench)
