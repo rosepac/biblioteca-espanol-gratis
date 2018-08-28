@@ -35,9 +35,8 @@
 * [Aprendiendo Blender 3D](https://www.youtube.com/playlist?list=PLIhIuX3--8UKl8ezAVWaaOK_6pee_7xwd)
 * [Archicad Básico. Enfoque BIM. Curso práctico](https://www.udemy.com/archicad-basico-enfoque-bim-curso-practico)
 * [Autocad 2012](https://3d4every1.blogspot.com.ar/p/autocad-2012.html)
-* [Autocad 2016](https://www.youtube.com/playlist?list=PLoxNRO_Yil73K-3_8I_B_U4vLT-tSOd_M)
-* [Autocad 2016 bis](https://www.youtube.com/playlist?list=PLZCc_omLYhhgDvJHbQ-y-U2lPyJZvfcLA)
-* [Autocad 2016. Curso Básico Completo](https://www.youtube.com/playlist?list=PLoxNRO_Yil73K-3_8I_B_U4vLT-tSOd_M)
+* [Autocad 2016. Conocimientos Básicos](https://www.youtube.com/playlist?list=PLZCc_omLYhhgDvJHbQ-y-U2lPyJZvfcLA) (720Studio, YouTube)
+* [Autocad 2016. Curso Básico Completo](https://www.youtube.com/playlist?list=PLoxNRO_Yil73K-3_8I_B_U4vLT-tSOd_M) (WhyKons, YouTube)
 * [Autocad 2017](https://3d4every1.blogspot.com.ar/p/autocad-2017.html)
 * [Autocad 2017. Bloques Dinámicos](https://3d4every1.blogspot.com.ar/p/bloques-dinamicos.html)
 * [Autocad 2018. Diseño de planos](https://www.youtube.com/playlist?list=PLoxNRO_Yil71g0cNsVK-xZNzmPupylGGE)
@@ -173,7 +172,6 @@
 * [Curso Photoshop CS6](https://www.youtube.com/watch?v=iYF9yxYJCF4&index=1&list=PLTMphl2kSKFGpyazQJi4HH_0j1eOuzDGh) (Youtube)
 * [Dibujo con luz. Fotografía (2015)](http://ocw.um.es/artes-1/dibujo-con-luz.-fotografia-1) (OCW)
 * [Diseño y retoque digital para alimentos](https://www.crehana.com/cursos/diseno/diseno-y-retoque-digital-para-alimentos) (Crehana)
-* [Gimp](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
 * [Gimp Básico](https://www.youtube.com/playlist?list=PLdTIvJN202Cq5jklX_VpoQFnifDKio99f) (Youtube)
 * [Gimp. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
 * [Herramientas de Photoshop CC para Principiantes](https://www.udemy.com/herramientas-de-photoshop-cc-para-principiantes)
@@ -224,7 +222,6 @@
 ### Sonido
 
 * [Adobe Audition CC. Curso Completo](https://www.youtube.com/playlist?list=PLjfr0J0JREDLt6vi_ww3xzEtpiaJZgr_u)
-* [Adobe Audition CS6](https://www.youtube.com/playlist?list=PLjfr0J0JREDLt6vi_ww3xzEtpiaJZgr_u)
 * [Audacity. Curso Completo](https://www.youtube.com/playlist?list=PLjfr0J0JREDJ7NNk5ZSfTBaJ7UlrC59uK)
 * [Cómo cambiar el estilo musical a una canción](https://www.youtube.com/playlist?list=PLWoifrnNStfSG_gO9Lhr1nNl4a_l7CTiy)
 * [Cómo mezclar música](https://www.youtube.com/playlist?list=PL3_TelBGlx1A73jQyl4XAIlvtnM_VaFRs)
@@ -244,7 +241,6 @@
 
 ### Vídeo
 
-* [Adobe Premier Pro. Curso Completo](https://www.youtube.com/playlist?list=PL3UQKbpPaddaNtMs2BJ57J9u_2DJQkwUg)
 * [Adobe Premiere Pro 2017](https://www.youtube.com/playlist?list=PL5vjFJ0wFekL9rDxzNuYz_mdr6y3J1jdT)
 * [Adobe Premiere Pro CC](https://www.youtube.com/playlist?list=PL3UQKbpPaddaNtMs2BJ57J9u_2DJQkwUg)
 * [Conceptualización Gráfica: crea el afiche de una película](https://www.crehana.com/cursos/3D/3d-studio-max-basico-crea-una-imagen-fotorrealista) (Crehana)
