@@ -214,7 +214,7 @@
 * [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23) (OCW)
 * [Gestión de proyectos Software con Git y Github](https://miriadax.net/web/gitmooc/inicio) (MiriadaX)
 * [Gestión Participativa](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0) (edx)
-* [Git y Github Avanzado](https://edutin.com/curso-de-git-y-github-avanzado-3559) (Edutin)
+* [Git y Github Avanzado](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvHLzz87dMz7vy2At2pYlj_) (YouTube)
 * [Groupware en la gestión del conocimiento (2014)](https://ocw.ehu.eus/course/view.php?id=326)(OCW)
 * [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169) (OCW)
 * [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170) (OCW)
