@@ -139,9 +139,9 @@
 
 * [Aprende a dibujar a mano alzada. Curso cero de dibujo arquitectónico](https://miriadax.net/web/aprende-a-dibujar-a-mano-alzada-curso-cero-de-dibujo-arquitectonico-2-edicion-)
 * [Dibujando Personajes de Series](https://www.youtube.com/playlist?list=PL7BeW1_IQulFI6EA7hETFP8iV3JpBSZF4)
-* [Dibujo Constructivo](https://edutin.com/curso-de-dibujo-constructivo-446)
+* [Dibujo Constructivo](https://www.youtube.com/playlist?list=PL04C52E81B0EDCCA5)
 * [Dibujo de Anime Vol.1. Creación de Personajes](https://teachlr.com/cursos-online/dibujo-de-anime-vol-1-creacion-de-personajes)
-* [Dibujo Manga](https://edutin.com/curso-de-Dibujo-Manga-1579)
+* [Dibujo Manga](https://www.youtube.com/playlist?list=PL6C8F109B42E443AE)
 * [Principios básicos para aprender a dibujar](https://www.youtube.com/watch?v=KQG7H59Lork&list=PLA72E24DA6A2DE214)
 * [Técnicas Básicas de Dibujos de Figuras](https://www.youtube.com/playlist?list=PL5EFA87222A1C01D0)
 * [Trucos de Dibujo - MyDrawingTips](https://www.youtube.com/user/MyDrawingTips/playlists)
