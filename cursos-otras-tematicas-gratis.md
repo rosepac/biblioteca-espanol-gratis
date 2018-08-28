@@ -363,7 +363,7 @@
 * [Cómo diagnosticar mis competencias de innovación](https://www.edx.org/course/como-diagnosticar-mis-competencias-de-upvalenciax-lider201-4x)
 * [Cómo ganar dinero invirtiendo en bolsa](https://www.udemy.com/como-ganar-dinero-invirtiendo-en-bolsa)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
-* [Competencias del Emprendedor](https://edutin.com/curso-de-Competencias-del-Emprendedor-793)
+* [Competencias del Emprendedor](https://www.youtube.com/playlist?list=PLWfF6Dli9QCOBPzRkyyAdc62a4gFfiOZq)
 * [Competitividad e Innovación en la Empresa (2012)](http://ocw.bib.upct.es/course/view.php?id=98)
 * [Dimensiones de la Responsabilidad Social](https://iedra.uned.es/courses/UNED/Dimen_RSC_001/2016_T4/about)
 * [Duplica tus ventas y tu marca personal](https://www.udemy.com/aumenta-las-ventas-de-tu-negocio-por-internet)
