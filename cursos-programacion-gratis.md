@@ -601,11 +601,11 @@
 * [Radiocomunicación (2007)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/radiocomunicacion) (OCW)
 * [Redes de comunicaciones (2015)](https://ocw.unican.es/course/view.php?id=27) (OCW)
 * [Redes telefónicas (2009)](https://ocw.unican.es/course/view.php?id=211) (OCW)
-* [Señales y Sistemas](https://edutin.com/curso-de-se%C3%B1ales-y-sistemas-3863) (Edutin)
+* [Señales y Sistemas](https://www.youtube.com/playlist?list=PLZ0UFciczQg6VIYNg9p4cWnT779Z3V3o8) (YouTube)
 * [Sistemas de comunicaciones (2013)](http://ocw.uma.es/ingenierias/sistemas-de-comunicaciones) (OCW)
 * [Sistemas de comunicaciones ópticas (2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=3204&p_caca=2009) (OCW)
-* [Sistemas y redes eléctricos avanzado](https://edutin.com/curso-de-sistemas-y-redes-el%C3%A9ctricas-avanzado-581) (Edutin)
-* [Técnico en instalaciones eléctricas](https://edutin.com/curso-de-tecnico-en-instalaciones-electricas-3855) (Edutin)
+* [Sistemas y redes eléctricos avanzado](https://www.youtube.com/playlist?list=PLF68AFC9D513894FE) (ESPOL, YouTube)
+* [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC) (YouTube)
 * [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010) (OCW)
 
 
