@@ -650,17 +650,17 @@
 
 * [Aprende seguridad Cisco desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
 * [Aspectos Sociales, Legales, Éticos y Profesionales de la Informática (2010)](http://ocw.uniovi.es/course/view.php?id=151) (OCW)
-* [Backtrack 5](https://edutin.com/curso-de-Backtrack-5-2044)
+* [Backtrack 5](https://www.youtube.com/playlist?list=PLr1Aeqj0pcHdSvwNSbPeaRpF925uw-X04) (YouTube)
 * [Ciberseguridad. Entender ataques para desplegar contramedidas](https://miriadax.net/web/ciberseguridad-entender-los-ataques-para-desplegar-contramedidas-2-edicion-) (MiriadaX)
-* [Cross site scripting xss](https://edutin.com/curso-de-cross-site-scripting-3107) (Edutin)
+* [Cross site scripting xss](https://www.youtube.com/playlist?list=PL1UnfB2evouGiHRoUB_t-I4Mt_0RreZUu) (YouTube)
 * [Derecho e Internet (2011)](http://ocw.uv.es/ciencias-sociales-y-juridicas/plant/Course_listing) (OCW)
 * [Garantía y seguridad en sistemas y redes (2016)](https://ocw.unican.es/course/view.php?id=16) (OCW)
 * [Incibe. Ciberseguridad para micropymes y autónomos](https://www.incibe.es/formacion/ciberseguridad-para-micropymes-y-autonomos) (Registro + Udemy)
 * [Iniciando con Enterprise Mobility and Security: Nivel Avanzado](https://mva.microsoft.com/es-es/training-courses/iniciando-con-enterprise-mobility-and-security-nivel-avanzado-17783) (Microsoft Virtual Academy)
 * [Iniciando con Enterprise Mobility Suite](https://mva.microsoft.com/es-es/training-courses/iniciando-con-enterprise-mobility-suite-16961) (Microsoft Virtual Academy)
 * [Introducción a Enterprise Mobility + Security](https://mva.microsoft.com/es-es/training-courses/introduccin-a-enterprise-mobility-security-17101) (Microsoft Virtual Academy)
-* [Kali Linux Avanzado](https://edutin.com/curso-de-kali-linux-avanzado-3758) (Edutin)
-* [Programación Hacking](https://edutin.com/curso-de-hacking-3106) (Edutin)
+* [Kali Linux Avanzado](https://www.youtube.com/playlist?list=PLs6nNFKKOgVP1yvaVvujzyayskyUxjZOg) (YouTube)
+* [Programación Hacking](https://www.youtube.com/playlist?list=PL1UnfB2evouHZjiRJp-z9jstL-yqfTi_X) (YouTube)
 * [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28) (OCW)
 * [Seguridad en Redes de Comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=102) (OCW)
 * [Seguridad en Sistemas Distribuidos (2009)](http://ocw.uc3m.es/ingenieria-informatica/seguridad-en-sistemas-distribuidos) (OCW)
@@ -668,7 +668,7 @@
 * [Seguridad informática práctica](https://miriadax.net/web/seguridad-informatica-practica) (MiriadaX)
 * [Seguridad informática y competencias profesionales](https://ocw.uca.es/course/view.php?id=55) (OCW)
 * [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing) (OCW)
-* [Wireless penetration con Kali Linux](https://edutin.com/curso-de-wireless-penetration-testing-con-kali-linux-3757) (Edutin)
+* [Wireless penetration con Kali Linux](https://www.youtube.com/playlist?list=PL-G03HRCQgdFKAaW718J14tKDM63mGirL) (YouTube)
 
 
 ### Servidores y Servicios en nube
