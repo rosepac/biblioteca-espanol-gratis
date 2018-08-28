@@ -75,7 +75,7 @@
 
 #### Física
 
-* [Física mecánica intermedio: conceptos y aplicaciones](https://edutin.com/curso-de-fisica-mecanica-intermedio-2316)
+* [Física mecánica intermedio: conceptos y aplicaciones](https://www.youtube.com/playlist?list=PL822F7EAFDD3DFE8E) (YouTube)
 
 
 #### Química
