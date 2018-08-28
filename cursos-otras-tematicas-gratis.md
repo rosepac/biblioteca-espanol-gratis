@@ -82,7 +82,7 @@
 
 * [La Química Orgánica - Un mundo a tu alcance (Parte 2)](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg2x-0)
 * [La Química Orgánica, un mundo a tu alcance](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg101x-2)
-* [Química Analítica](https://edutin.com/curso-de-quimica-analitica-basico-790)
+* [Química Analítica](https://www.youtube.com/playlist?list=PLWfF6Dli9QCP8FCDWW5US1n2CJzz2K62I) (YouTube)
 
 
 ### Cocina
