@@ -83,7 +83,7 @@
 * [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95) (OCW)
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-) (MiriadaX)
 * [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802) (Microsoft Virtual Academy)
-* [Representación de datos digitales](https://edutin.com/curso-de-representacion-de-datos-digitales-3220) (Edutin)
+* [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau) (YouTube)
 
 
 ### Ciencias de la Computación
