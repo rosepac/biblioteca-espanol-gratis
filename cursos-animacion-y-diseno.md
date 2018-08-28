@@ -115,7 +115,7 @@
 
 * [Apreciar el arte y su historia](https://teachlr.com/cursos-online/apreciar-el-arte-y-su-historia)
 * [El patrimonio ibérico clasificado por la UNESCO (I)](http://ocw.um.es/artes-1)
-* [Grabados o estámpados básicos](https://edutin.com/curso-de-Grabados-o-Estampados-1829)
+* [Grabados o estámpados básicos](https://www.youtube.com/playlist?list=PLB58AE55490D9AEFB)
 * [La España de El Quijote](https://www.edx.org/course/la-espana-de-el-quijote-uamx-quijote501x-1)
 * [La imagen del Sport en el Arte](https://miriadax.net/web/la-imagen-del-sport-en-el-arte-2-edicion-/inicio)
 * [Los principios de la cultura impresa moderna: ilustración gráfica, cultura visual y vida urbana](https://iedra.uned.es/courses/UNED/104/2016_T2/about)
@@ -123,7 +123,7 @@
 * [Pintura Europea: Leonardo, Rembrandt, Goya](https://www.edx.org/course/pintura-europea-leonardo-rembrandt-goya-uc3mx-ceh-1-esx-0)
 * [Pintura Intrarrealista: Juan Antonio Guirado](https://iedra.uned.es/courses/course-v1:UNED+PinInterJAG+2017/about)
 * [Repositorio Sobre Arte](http://ocw.um.es/artes-1)
-* [Teatro Moderno](https://edutin.com/curso-de-teatro-posmoderno-3852)
+* [Teatro Moderno](https://www.youtube.com/playlist?list=PLWfF6Dli9QCMoy4H0lZR2L-ioOH2XHCAy)
 
 
 ### Comunicaciones & Sonido
