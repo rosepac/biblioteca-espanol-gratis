@@ -441,9 +441,9 @@
 
 ### Servicios
 
-* [Bodeguero en entrada y salida de insumos en restaurantes](https://edutin.com/curso-de-bodeguero-3338)
-* [Herrero, balconero, aluminador y forjador](https://edutin.com/curso-de-herrero-balconero-aluminador-y-forjador-3333)
-* [Operador de autotransporte para cadenas de distribución](https://edutin.com/curso-de-operador-de-autotransporte-para-cadenas-de-distribucion-3330)
+* [Bodeguero en entrada y salida de insumos en restaurantes](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCRYso4_xUPOX3dWPmErIVw) (YouTube)
+* [Herrero, balconero, aluminador y forjador](https://www.youtube.com/playlist?list=PLfWJBWUqkmeB6EzJK9d-nFENegFHQH_kd) (YouTube)
+* [Operador de autotransporte para cadenas de distribución](https://www.youtube.com/playlist?list=PLfWJBWUqkmeDX080neR-xZps_31AnYJvl) (YouTube)
 
 
 ### Servicios Sociales
