@@ -89,7 +89,7 @@
 ### Ciencias de la Computación
   
 * [Algoritmo Avanzado (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/algoritmia-avanzada-2006.html) (OCW)
-* [Algoritmos y estructursa de datos](https://edutin.com/curso-de-algoritmos-y-estructuras-de-datos-3827) (Edutin)
+* [Algoritmos y estructuras de datos](https://www.youtube.com/playlist?list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr) (CodeJobs, YouTube)
 * [Análisis de Datos con R: Nivel Avanzado](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-r-nivel-avanzado-17772) (Microsoft Virtual Academy)
 * [Análisis de Datos con R: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-r-nivel-intermedio-17092) (Microsoft Virtual Academy)
 * [Análisis de Sistemas](http://www.fceia.unr.edu.ar/asist) (OCW)
@@ -127,7 +127,8 @@
 * [Estructuras de datos y algoritmos (2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=5659&p_caca=2009) (OCW)
 * [Estructuras Matemáticas (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6024&p_caca=2010) (OCW) [(2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6024&p_caca=2009)
 * [Evaluación, modelado y simulación de computadoras (2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6052&p_caca=2009) (OCW)
-* [Fundamentos de Bases de Datos y Arquitectura del Computador](https://edutin.com/curso-de-Recetas-para-ni%C3%B1os-804) (Edutin)
+* [Fundamentos de Arquitectura del Computador](PL1zRQKIyRXsGlv91gMvd_slSABTeUuao7) (CodigoBinario, YouTube)
+* [Fundamentos de Bases de Datos](https://www.youtube.com/playlist?list=PL97WzFMf575iy7IGF0vfof40jA9U_LsAU) (HTMLRules, YouTube)
 * [Fundamentos de Computabilidad (2011)](https://ocw.ehu.eus/course/view.php?id=8) (OCW)
 * [Fundamentos de Computación (2010)](https://ocw.unican.es/course/view.php?id=194) (OCW)
 * [Fundamentos de Computadores (2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=3143&p_caca=2009) (OCW)
