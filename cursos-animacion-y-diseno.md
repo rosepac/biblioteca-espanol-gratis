@@ -158,8 +158,8 @@
 
 * [Adobe InDesign. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_Id9rTtov22bK92KyhTB9gW9)
 * [Crea un portfolio de diseño con InDesign](https://www.crehana.com/cursos/diseno-editorial/crea-un-portafolio-de-diseno-con-indesign) (Crehana)
-* [Diseño gráfico enfocado a imprenta](https://edutin.com/curso-de-Dise%C3%B1o-Grafico-Orientado-a-Imprenta-2286)
-* [Ilustraciones y materiales gráficos en la cultura impresa moderna](https://edutin.com/curso-de-ilustraciones-y-materiales-graficos-en-la-cultura-impresa-moderna-3851)
+* [Diseño gráfico enfocado a imprenta](https://www.youtube.com/playlist?list=PLPcd2BCdagDoQoErIXQCKcdOEJYj7Rj0q)
+* [Ilustraciones y materiales gráficos en la cultura impresa moderna](https://www.youtube.com/playlist?list=PLWfF6Dli9QCO4Y5dmVJkL7Q_Wm71m0v3Q)
 * [Scribus. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IfTZ_AEUvfZXBSoZ0t7vHov)
 
 
