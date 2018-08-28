@@ -200,7 +200,7 @@
 
 * [Atención al alumnado con necesidades educativas especiales (2011)](http://ocw.umh.es/ciencias-de-la-salud/Atencion-al-alumnado-con-necesidades-educativas-especiales-459)
 * [Educación Especial (2008)](http://ocw.um.es/cc.-sociales/educacion-especial)
-* [Ejercicios con respiración](https://edutin.com/curso-de-ejercicios-de-respiracion-1296)
+* [Ejercicios con respiración](https://www.youtube.com/playlist?list=PL9EFHeQqoLmuAL6lQ3OIBuiQ83wW-Ukwt)
 * [El aula inclusiva hoy en día. Cómo afrontar el Trastorno del Espectro Autista y las Altas Capacidades (2017)](http://ocw.uji.es/curso/1873316)
 * [Introducción al TDAH: Mitos y primeros pasos en familia](https://www.udemy.com/introduccion-al-tdah-mitos-y-primeros-pasos-en-familia)
 * [Materiales Digitales Accesibles](https://iedra.uned.es/courses/UNED-ONCE/MatDigAcc/2017/about?utm_campaign=camp_20171107_nuevos_cursos)
