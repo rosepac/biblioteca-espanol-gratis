@@ -35,11 +35,11 @@
 
 ### Agricultura
 
-* [Cultivos vegetales orgánicos](https://edutin.com/curso-de-cultivos-vegetales-organicos-3336)
+* [Cultivos vegetales orgánicos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAojwviJGym0f7vQTvFJ1R-) (YouTube)
 * [Diseño agronómico del riego localizado](https://miriadax.net/web/diseno-agronomico-del-riego-localizado)
-* [Granjero en alimentación y ordeñamiento de vacas](https://edutin.com/curso-de-granjero-alimentacion-y-orde%C3%B1amiento-en-vacas-3335)
+* [Granjero en alimentación y ordeñamiento de vacas](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBkhaZMJLoeFl-8CAOWcQIV) (YouTube)
 * [Retos de la Agricultura y la Alimentación en el Siglo XXI](https://www.edx.org/course/retos-de-la-agricultura-y-la-upvalenciax-ra201x-0)
-* [Técnico en cultivos vegetales](https://edutin.com/curso-de-tecnico-en-cultivos-vegetales-3337)
+* [Técnico en cultivos vegetales](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCU47V0GvnDoUCc7ccj-Q17) (YouTube)
 * [Tecnología de Invernaderos (2011)](http://ocw.bib.upct.es/course/view.php?id=90)
 
 
