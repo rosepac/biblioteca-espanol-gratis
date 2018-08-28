@@ -151,7 +151,7 @@
 
 ### Diseño
 
-* [Bases del diseño gráfico profesional](https://edutin.com/curso-de-bases-del-dise%C3%B1o-grafico-profesional-3853)
+* [Bases del diseño gráfico profesional](https://www.youtube.com/playlist?list=PLHOYuNSVc0nQL16H44EQCTtzsooglESQX)
 
 
 ### Diseño Editorial
