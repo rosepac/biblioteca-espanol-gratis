@@ -185,7 +185,7 @@
 
 * [Aprende a crear tu propia tienda Online](https://www.udemy.com/aprende-a-crear-tu-tienda-online) (Udemy)
 * [Comercio electrónico para emprendedores](https://unimooc.com/course/curso-comercio-electronico) (UniMooc)
-* [Cómo vender por redes sociales](https://edutin.com/curso-de-como-vender-por-redes-sociales-3455) (Edutin)
+* [Cómo vender por redes sociales](http://www.bmooc.com/como-vender-en-las-redes-sociales/) (Bmooc)
 * [Crea tu plan de marketing paso a paso](https://www.udemy.com/crea-tu-plan-de-marketing-online-en-6-pasos) (Udemy)
 * [Crear una tienda Online desde cero con Divi y WooCommerce](https://www.udemy.com/crear-una-tienda-online-desde-cero-con-divi-y-woocommerce) (Udemy)
 * [Desarrollo de Módulos para Prestashop](https://www.udemy.com/crear-modulos-para-prestashop) (Udemy)
