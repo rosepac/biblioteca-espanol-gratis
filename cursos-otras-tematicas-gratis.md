@@ -45,7 +45,7 @@
 
 ### Albañilería
 
-* [Albañilería Completo](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
+* [Albañilería Completo](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBtuNhPWbuChmYfY14iyDQd) (YouTube)
 
 
 ### Astronomía
