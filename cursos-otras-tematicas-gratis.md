@@ -317,7 +317,7 @@
 
 ### Mecánica
 
-* [Mecánica de bicicletas](https://edutin.com/curso-de-mecanica-de-bicicleta-3331)
+* [Mecánica de bicicletas](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCeCDBoKg9HOkxSZhoZmBDo) (YouTube)
 
 
 ### Medio Ambiente
