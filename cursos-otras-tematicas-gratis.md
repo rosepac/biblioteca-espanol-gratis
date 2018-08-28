@@ -324,7 +324,7 @@
 
 * [Desarrollo sostenible en Cantabria (2012)](https://ocw.unican.es/course/view.php?id=138)
 * [Fuentes de información geográfica para SIGs ambientales](https://www.udemy.com/fuentes-de-informacion-geografica-para-sigs-ambientales)
-* [Hidraúlica de canales de ingieniería ambiental](https://edutin.com/curso-de-hidraulica-de-canales-en-ingenieria-ambiental-3856)
+* [Hidraúlica de canales de ingieniería ambiental](https://www.youtube.com/playlist?list=PLZ0UFciczQg6yidTNwnEK0cLDzqzm6fXc)
 * [Los espacios agrarios y forestales (2014)](https://ocw.unican.es/course/view.php?id=81)
 * [Medio Ambiente y Sostenibilidad (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/medio-ambiente-y-sostenibilidad/Course_listing)
 * [Medio Ambiente. Valor constitucional y protección penal (2011)](https://ocw.unican.es/course/view.php?id=109)
