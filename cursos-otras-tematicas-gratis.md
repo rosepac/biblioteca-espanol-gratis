@@ -236,7 +236,7 @@
 
 ### Estadística
 
-* [Analista de datos](https://edutin.com/curso-de-analista-de-datos-3349)
+* [Analista de datos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBaDngNtAk9ymhg9ZOr8aZF)
 * [Técnicas Cuantitativas y Cualitativas para la Investigación](https://www.edx.org/course/tecnicas-cuantitativas-y-cualitativas-upvalenciax-tcci201-x-0)
 
 
