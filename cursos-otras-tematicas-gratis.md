@@ -456,7 +456,7 @@
 * [Cyberbullying. La Guía para detener el acoso escolar digital](https://www.udemy.com/cyberbullying-guia-de-detencion)
 * [Educación Vial: su necesidad a lo largo de la vida](https://iedra.uned.es/courses/UNED/107/2015T4/about)
 * [Educación vial: sustancias nocivas en la conducción](https://iedra.uned.es/courses/UNED/ed_sustancias_131/2016_T3/about)
-* [Emprendimiento e innovación social](https://edutin.com/curso-de-Emprendimiento-e-innovacion-social-795)
+* [Emprendimiento e innovación social](https://www.youtube.com/playlist?list=PLWfF6Dli9QCNRYo8NDUN8gsFTiM4MEb88) (YouTube)
 * [Formación ciudadana y liderazgo](https://www.udemy.com/formacion-ciudadana-y-liderazgo)
 * [Fundamentos de la Seguridad del Paciente](https://miriadax.net/web/fundamentos-de-la-seguridad-del-paciente/inicio)
 * [Humanización en la asistencia en situaciones de Duelo](https://www.udemy.com/humanizacion-en-la-asistencia-en-situaciones-de-duelo)
