@@ -305,13 +305,13 @@
 
 ### Matemáticas
 
-* [Álgebra orientado a la solución de problemas](https://edutin.com/curso-de-%C3%81lgebra-2313)
+* [Álgebra orientado a la solución de problemas](https://www.youtube.com/playlist?list=PLA4EA45E3DF9914E9) (YouTube)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2)
 * [Bases Matemáticas: Derivadas](https://www.edx.org/course/bases-matematicas-derivadas-upvalenciax-bmd101x-1)
 * [Bases Matemáticas: Integrales](https://www.edx.org/course/bases-matematicas-integrales-upvalenciax-bmi101x-1)
 * [Bases Matemáticas: Números y terminología](https://www.edx.org/course/bases-matematicas-numeros-y-terminologia-upvalenciax-bmn101x-2)
 * [Matrices y sistemas de ecuaciones (Álgebra lineal)](https://www.udemy.com/matrices-y-sistemas-de-ecuaciones-algebra-lineal)
-* [Métodos numéricos](https://edutin.com/curso-de-metodos-numericos-3858)
+* [Métodos numéricos](https://www.youtube.com/playlist?list=PLZ0UFciczQg7XtvMS0h3JaqhMQWsv46SL) (YouTube)
 * [Teoría Combinatoria (arreglos y combinaciones)](https://www.udemy.com/teoria-combinatoria-arreglos-y-combinaciones)
 
 
