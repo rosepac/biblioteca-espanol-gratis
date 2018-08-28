@@ -186,20 +186,20 @@
 
 ### Diseño Vectorial
 
-* [Adobe Illustrator CC](https://edutin.com/curso-de-adobe-illustrator-cc-basico-3738)
+* [Adobe Illustrator CC](https://www.youtube.com/playlist?list=PL5vjFJ0wFekKO3_QuoaDrla4TD4ZROByK)
 * [Adobe Illustrator CC. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_Idayn_ACyfPSYmYqrdIc-Mu)
 * [Adobe Illustrator: fotovectorización con mallas](https://www.crehana.com/cursos/ilustracion/adobe-illustrator-fotovectorizacion-con-mallas) (Crehana)
-* [CorelDraw Profesional](https://edutin.com/curso-de-coreldraw-3471)
+* [CorelDraw Profesional](https://www.youtube.com/playlist?list=PLLniqWgyb4HEDUMowVLOveh5uJ0jiodru)
 * [Diseño vectorial en Adobe Illustrator](https://www.crehana.com/cursos/diseno/diseno-vectorial-en-adobe-illustrator) (Crehana)
 * [Ilustración digital: ¡vertorízate!](https://www.crehana.com/cursos/ilustracion/ilustracion-digital-vectorizate) (Crehana)
 * [Ilustración digital avanzada en Adobe Illustrator](https://www.crehana.com/cursos/ilustracion/ilustracion-digital-avanzada-en-adobe-illustrator) (Crehana)
 * [Ilustración personalizada: crea un retrato oriental](https://www.crehana.com/cursos/ilustracion/ilustracion-personalizada-crea-un-retrato-oriental) (Crehana)
 * [Ilustración Vectorial en Perspectiva](https://www.crehana.com/cursos/diseno/ilustracion-vectorial-en-perspectiva) (Crehana)
-* [Inkscape](https://edutin.com/curso-de-inkscape-basico-3739)
+* [Inkscape](https://www.youtube.com/playlist?list=PLPwFlJrBgzVlZu3JsqH7kMpRM76HVl93B)
 * [InkScape. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IeyVEm0vJ_RqTMVOmlhMjH8)
 * [Introducción a la Ilustración Digital](https://www.crehana.com/cursos/ilustracion/introduccion-a-la-ilustracion-digital) (Crehana)
 * [Introducción a la Ilustración Vectorial](https://www.crehana.com/cursos/diseno/introduccion-a-la-ilustracion-vectorial) (Crehana)
-* [Técnicas de Ilustración](https://edutin.com/curso-de-Tecnicas-de-ilustracion-1580)
+* [Técnicas de Ilustración](https://www.youtube.com/playlist?list=PL7FF5BB2C62DDED40)
 
 
 ### Fotografía
