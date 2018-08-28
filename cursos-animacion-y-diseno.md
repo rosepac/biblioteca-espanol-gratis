@@ -224,22 +224,22 @@
 ### Sonido
 
 * [Adobe Audition CC. Curso Completo](https://www.youtube.com/playlist?list=PLjfr0J0JREDLt6vi_ww3xzEtpiaJZgr_u)
-* [Adobe Audition CS6](https://edutin.com/curso-de-adobe-audition-cs6-completo-3734)
+* [Adobe Audition CS6](https://www.youtube.com/playlist?list=PLjfr0J0JREDLt6vi_ww3xzEtpiaJZgr_u)
 * [Audacity. Curso Completo](https://www.youtube.com/playlist?list=PLjfr0J0JREDJ7NNk5ZSfTBaJ7UlrC59uK)
-* [Cómo cambiar el estilo musical a una canción](https://edutin.com/curso-de-como-cambiar-el-estilo-musical-a-una-cancion-3902)
-* [Cómo mezclar música](https://edutin.com/curso-de-como-mezclar-musica-basico-3893)
-* [Edición de audio con Logic Pro X](https://edutin.com/curso-de-edicion-de-audio-con-logic-pro-x-3887)
-* [Edición de sonido con Audacity](https://edutin.com/curso-de-edicion-de-sonido-con-audacity-3889)
-* [FL Studio 12](https://edutin.com/curso-de-fl-studio-12-3895)
+* [Cómo cambiar el estilo musical a una canción](https://www.youtube.com/playlist?list=PLWoifrnNStfSG_gO9Lhr1nNl4a_l7CTiy)
+* [Cómo mezclar música](https://www.youtube.com/playlist?list=PL3_TelBGlx1A73jQyl4XAIlvtnM_VaFRs)
+* [Edición de audio con Logic Pro X](https://www.youtube.com/playlist?list=PLvGTDSc9bZ7uylhhu5mjZP9EYL-xpdHdK)
+* [Edición de sonido con Audacity](https://www.youtube.com/playlist?list=PLPx64Xdn1lUkciqmwPPnwD6DpKZJuacEb)
+* [FL Studio 12](https://www.youtube.com/playlist?list=PL3_TelBGlx1CTeQEPsUsMagmTWe_VWZdt)
 * [FL Studio Curso](http://www.componemos.es/curso-fl-studio/)
 * [iMovie para iOS, edita tus vídeos donde quieras](https://www.udemy.com/imovie-para-ios)
 * [Iniciación a la Música Electrónica](https://www.youtube.com/playlist?list=PLb_0p0mGN9LhLj2juAdMCwrjSVu_svXX8)
 * [Iniciación a la Producción Musical](https://www.youtube.com/playlist?list=PLb_0p0mGN9LjYeUEdodYiZQJdJv3F6AKF)
 * [Introducción al Audio Digital](https://miriadax.net/web/introduccion-al-audio-digital/inicio)
-* [Linux Multimedia Studio](https://edutin.com/curso-de-linux-multimedia-studio-3892)
+* [Linux Multimedia Studio](https://www.youtube.com/playlist?list=PL3_TelBGlx1D9OvYZPwN-PRFOdW2m4NqO)
 * [Minitutoriales de Mezclas](https://www.youtube.com/playlist?list=PLb_0p0mGN9Lg7iXWZl5UNfS-5FfpH7Pzz)
-* [Omnisphere 2](https://edutin.com/curso-de-omnisphere-2-3891)
-* [Producción musical de baladas con loops en FL Studio](https://edutin.com/curso-de-produccion-musical-de-baladas-con-loops-en-fl-studio-3899)
+* [Omnisphere 2](https://www.youtube.com/playlist?list=PL3_TelBGlx1BT3qREecfzW7OgcyPqjm4_)
+* [Producción musical de baladas con loops en FL Studio](https://www.youtube.com/playlist?list=PLWoifrnNStfSRGlcLMdOzOQUEC8dvck3N)
 
 
 ### Vídeo
