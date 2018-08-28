@@ -215,7 +215,8 @@
 * [Deporte y Acción Tutorial (2016)](http://ocw.um.es/cc.-sociales/deporte-y-accion-tutorial-1)
 * [Interacción Persona-Computador. Diseño para Todos y Productos de Apoyo](https://iedra.uned.es/courses/course-v1:UNED-ONCE+InterPerCom02+2017/about)
 * [Introducción a las instalaciones eléctricas](https://miriadax.net/web/introduccion-instalaciones-electricas/inicio)
-* [Salto largo completo](https://edutin.com/curso-de-salto-largo-769)
+* [Salto largo: historia](https://www.youtube.com/playlist?list=PLD49965E1FBCA05D6)
+* [Salto largo: técnica](https://www.youtube.com/playlist?list=PLD334297C84EF3B71)
 
 
 ### Electrónica
