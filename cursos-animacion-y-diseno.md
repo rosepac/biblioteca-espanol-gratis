@@ -245,13 +245,13 @@
 ### Vídeo
 
 * [Adobe Premier Pro. Curso Completo](https://www.youtube.com/playlist?list=PL3UQKbpPaddaNtMs2BJ57J9u_2DJQkwUg)
-* [Adobe Premiere Pro 2017](https://edutin.com/curso-de-premier-pro-2017-3545)
-* [Adobe Premiere Pro CC](https://edutin.com/curso-de-Edicion-de-Video-con-Premier-Pro-CC-2211)
+* [Adobe Premiere Pro 2017](https://www.youtube.com/playlist?list=PL5vjFJ0wFekL9rDxzNuYz_mdr6y3J1jdT)
+* [Adobe Premiere Pro CC](https://www.youtube.com/playlist?list=PL3UQKbpPaddaNtMs2BJ57J9u_2DJQkwUg)
 * [Conceptualización Gráfica: crea el afiche de una película](https://www.crehana.com/cursos/3D/3d-studio-max-basico-crea-una-imagen-fotorrealista) (Crehana)
 * [Creación de Videotutoriales Profesionales con Camtasia](https://teachlr.com/cursos-online/creacion-de-video-tutoriales-profesionales-con-camtasia)
 * [Curso Básico de Edición de Vídeo](https://teachlr.com/cursos-online/curso-basico-de-edicion-de-videos)
 * [Edición de vídeo y screencast con Camtasia Studio 8](https://www.udemy.com/edicion-de-video-y-screencast-con-camtasia-studio-8)
-* [Filmación y Edición de Vídeos](https://edutin.com/curso-de-filmacion-y-edicion-de-video-2081)
+* [Filmación y Edición de Vídeos](https://www.youtube.com/playlist?list=PLeFICnIn_1yAuBYPkaNHtNTmsKWNQd47j)
 * [Herramientas Básicas de Videografía](https://www.udemy.com/herramientas-basicas-de-videogafia)
 * [iMovie](https://edutin.com/curso-de-iMovie-1413)
 * [Introducción a la Edición en Adobe Premiere](https://www.crehana.com/cursos/audiovisuales/introduccion-a-la-edicion-en-adobe-premiere) (Crehana)
