@@ -162,9 +162,9 @@
 
 ### Educación
 
-* [Administración de plataformas de aprendizaje virtual](https://edutin.com/curso-de-administrador-de-plataformas-de-aprendizaje-virtual-3351)
-* [Administración de proyectos para ambientes virtuales de aprendizaje](https://edutin.com/curso-de-administracion-de-proyectos-para-ambientes-virtuales-de-aprendizaje-3352)
-* [Analista de necesidades del aprendizaje virtual](https://edutin.com/curso-de-analista-de-necesidades-del-aprendizaje-virtual-3354)
+* [Administración de plataformas de aprendizaje virtual](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAaU1uTxOxQLR44NCbLHR5w) (YouTube)
+* [Administración de proyectos para ambientes virtuales de aprendizaje](https://www.youtube.com/playlist?list=PLfWJBWUqkmeC2wT4i10S5SHKR2yo_2jAN) (YouTube)
+* [Analista de necesidades del aprendizaje virtual](https://www.youtube.com/playlist?list=PLfWJBWUqkmeDXZjVvhwplJnRyXgC80k1r) (YouTube)
 * [Ciencias Sociales y su Didáctica (2015)](http://ocw.um.es/cc.-sociales/ciencias-sociales-y-su-didactica)
 * [Comunicación oral y escrita en Lengua Española (2011)](http://ocw.um.es/cc.-sociales/comunicacion-oral-y-escrita-en-lengua-espanola-1)
 * [Curso de Novela: Planifica, Escribe y Publica tu historia](https://www.udemy.com/escritura-novela)
@@ -175,10 +175,10 @@
 * [Escritura Creativa: Fundamentos de la narración](https://iedra.uned.es/courses/course-v1:UNED+Escr_Creat+2017/about)
 * [Espacios Intermedios. Maneras de hacer cultura en la Posmodernidad II](https://iedra.uned.es/courses/course-v1:UNED+EspInter_II_02+2017_T3/about?utm_campaign=camp_20171107_nuevos_cursos)
 * [Estrategias pedagógicas para el desarrollo del pensamiento crítico](https://www.udemy.com/estrategias-pedagogicas-para-el-desarrollo-del-pensamiento-critico)
-* [Evaluador de aprendizaje digital](https://edutin.com/curso-de-evaluador-de-aprendizaje-digital-3343)
-* [Facilitador de aprendizaje digital](https://edutin.com/curso-de-facilitador-de-aprendizaje-digital-3344)
+* [Evaluador de aprendizaje digital](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAraKXeR7BZJnNJhtuc_RAR) (YouTube)
+* [Facilitador de aprendizaje digital](https://www.youtube.com/playlist?list=PLfWJBWUqkmeC2XgIdkGNVRg06esYODu5U) (YouTube)
 * [Herramientas TIC para docentes, profesionales y estudiantes](https://www.udemy.com/herramientas-tic-para-docentes-y-profesionales-de-la-salud)
-* [Implementación de tecnologías en la educación](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
+* [Implementación de tecnologías en la educación](https://www.youtube.com/playlist?list=PL4WEhsPgJTv5O8TdkNq4HXVxCMvesZPjG) (YouTube)
 * [Introducción a la educación holista](https://www.udemy.com/introduccion-a-la-educacion-holista)
 * [Introducción a la enseñanza](https://www.udemy.com/el-maestro-tips-para-mejorar-tu-ensenanza)
 * [La tutoría en la escuela](https://iedra.uned.es/courses/UNED/114/2015T4/about)
@@ -193,7 +193,7 @@
 * [Tecnologías de la Información y la Comunicación (TICS) en Educación Social (2012)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion)
 * [Tecnologías para la Educación](https://www.edx.org/course/tecnologias-para-la-educacion-upvalenciax-te201x-1)
 * [TIC en Educación Social (2016)](http://ocw.um.es/cc.-sociales/tic-en-educacion-social)
-* [Trascendencia del educador durante la primera infancia](https://edutin.com/curso-de-trascendencia-del-educador-durante-la-primera-infancia-3854)
+* [Trascendencia del educador durante la primera infancia](https://www.youtube.com/playlist?list=PLfWJBWUqkmeD5MfAcNrffj--IR2bbxx1w) (YouTube)
 
 
 ### Educación Especial
