@@ -156,7 +156,7 @@
 * [Aprendiendo a invertir: introducción](https://www.udemy.com/aprende-a-crear-tu-tienda-online)
 * [Cómo comprar propiedades en subasta](https://www.udemy.com/como-comprar-propiedades-en-subasta)
 * [Cómo invertir en Forex, fácil y rápido](https://www.udemy.com/como-invertir-por-internet-en-forex-facil-y-rapido)
-* [Educación Financiera Básica](https://edutin.com/curso-de-introduccion-a-la-educacion-financiera-3332)
+* [Educación Financiera Básica](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAxtCbR60doCnMbT8c3wOr-)
 * [Introducción a la inversión bursátil](https://www.edx.org/course/introduccion-la-inversion-bursatil-upvalenciax-bol1201-x-1)
 
 
