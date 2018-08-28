@@ -242,8 +242,8 @@
 
 ### Fruticultura
 
-* [Jardinería a gran escala](https://edutin.com/curso-de-jardineria-a-gran-escala-3217)
-* [Jardinería avanzado](https://edutin.com/curso-de-Jardineria-avanzado-1157)
+* [Jardinería a gran escala](https://www.youtube.com/playlist?list=PLfWJBWUqkmeANSJwgx2KMzYmp1wbKBZ12) (YouTube)
+* [Jardinería avanzado](https://www.youtube.com/playlist?list=PLA0463C57B87F51FE) (YouTube)
 * [Tutoriales sobre Podas](https://www.youtube.com/watch?v=epr99uE7onQ&list=PLeUY9qxjCHj420gEQkovfWuRbJOz00QJC)
 
 
