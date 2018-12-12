@@ -35,17 +35,17 @@
 
 ### Agricultura
 
-* [Cultivos vegetales orgánicos](https://edutin.com/curso-de-cultivos-vegetales-organicos-3336)
+* [Cultivos vegetales orgánicos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAojwviJGym0f7vQTvFJ1R-) (YouTube)
 * [Diseño agronómico del riego localizado](https://miriadax.net/web/diseno-agronomico-del-riego-localizado)
-* [Granjero en alimentación y ordeñamiento de vacas](https://edutin.com/curso-de-granjero-alimentacion-y-orde%C3%B1amiento-en-vacas-3335)
+* [Granjero en alimentación y ordeñamiento de vacas](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBkhaZMJLoeFl-8CAOWcQIV) (YouTube)
 * [Retos de la Agricultura y la Alimentación en el Siglo XXI](https://www.edx.org/course/retos-de-la-agricultura-y-la-upvalenciax-ra201x-0)
-* [Técnico en cultivos vegetales](https://edutin.com/curso-de-tecnico-en-cultivos-vegetales-3337)
+* [Técnico en cultivos vegetales](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCU47V0GvnDoUCc7ccj-Q17) (YouTube)
 * [Tecnología de Invernaderos (2011)](http://ocw.bib.upct.es/course/view.php?id=90)
 
 
 ### Albañilería
 
-* [Albañilería Completo](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
+* [Albañilería Completo](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBtuNhPWbuChmYfY14iyDQd) (YouTube)
 
 
 ### Astronomía
@@ -75,69 +75,69 @@
 
 #### Física
 
-* [Física mecánica intermedio: conceptos y aplicaciones](https://edutin.com/curso-de-fisica-mecanica-intermedio-2316)
+* [Física mecánica intermedio: conceptos y aplicaciones](https://www.youtube.com/playlist?list=PL822F7EAFDD3DFE8E) (YouTube)
 
 
 #### Química
 
 * [La Química Orgánica - Un mundo a tu alcance (Parte 2)](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg2x-0)
 * [La Química Orgánica, un mundo a tu alcance](https://www.edx.org/course/la-quimica-organica-un-mundo-tu-alcance-uamx-quiorg101x-2)
-* [Química Analítica](https://edutin.com/curso-de-quimica-analitica-basico-790)
+* [Química Analítica](https://www.youtube.com/playlist?list=PLWfF6Dli9QCP8FCDWW5US1n2CJzz2K62I) (YouTube)
 
 
 ### Cocina
 
 * [Aprende a preparar galletas de colores decoradas](https://www.udemy.com/galletas-decoradas)
-* [Barista Coffe](https://edutin.com/curso-de-Barista-2335)
-* [Bebidas naturales](https://edutin.com/curso-de-Bebidas-naturales-879)
-* [Chocolatería](https://edutin.com/curso-de-chocolateria-2560)
+* [Barista Coffe](https://www.youtube.com/playlist?list=PLRt1Fij6ssiklZMzMpbKC2K50OnsUDuD6) (YouTube)
+* [Bebidas naturales](https://www.youtube.com/playlist?list=PLWKkB0pNeCK_zEY7TTgkbu-eaFEjz3mtQ) (YouTube)
+* [Chocolatería](https://www.youtube.com/playlist?list=PLyggToSAvqzM5dTitAUI_oy2v-l4DIqyl) (YouTube)
 * [Cocina Creativa](https://www.udemy.com/cocina-creativa)
-* [Cocina Creativa bis](https://edutin.com/curso-de-cocina-creativa-3578)
-* [Cocina Internacional](https://edutin.com/curso-de-cocina-internacional-basico-3388)
+* [Cocina Creativa, Recetas](https://www.youtube.com/playlist?list=PL3F5Vk29a6YArdZMwcB_Hp40z6eEEWypt) (YouTube)
+* [Cocina Internacional](https://www.youtube.com/playlist?list=PL-5mjlHAB4A-3_Cbyct2kOnAdZLpJayp-) (YouTube)
 * [Cocina Tradicional Mexicana](https://miriadax.net/web/cocina-tradicional-mexicana/inicio)
-* [Ensaladas, entrantes y primeros platos](https://edutin.com/curso-de-ensaladas-entrantes-y-primeros-platos-3386)
+* [Ensaladas, entrantes y primeros platos](https://www.youtube.com/playlist?list=PL-5mjlHAB4A-VXHG9Xbmsg5er_vs1ObRb) (YouTube)
 * [Introducción a la cocina al vacío de El Celler de Can Roca](https://miriadax.net/web/introduccion-a-la-cocina-al-vacio-de-el-celler-de-can-roca)
-* [Latter Art, paso a paso](https://edutin.com/curso-de-Arte-Latte-2336)
+* [Latter Art, paso a paso](https://www.youtube.com/playlist?list=PLRt1Fij6ssikM2vbTnrKxg8XGEa4-3tWO) (YouTube)
 * [Mini-Menú de cocina sana](https://www.udemy.com/mini-menu-cocina-sana)
 * [Paella: la receta original paso a paso](https://www.udemy.com/paella-de-marisco)
-* [Platos de cuchara](https://edutin.com/curso-de-platos-de-cuchara-3426)
-* [Preparación de bebidas con cerveza](https://edutin.com/curso-de-preparacion-bebidas-con-cerveza-3678)
-* [Preparación de bebidas con licores](https://edutin.com/curso-de-preparacion-de-bebidas-con-licores-3679)
-* [Preparación de platos fuertes, entrantes y antojos](https://edutin.com/curso-de-Platos-fuertes-entradas-y-antojos-1154)
-* [Recetas con pasta](https://edutin.com/curso-de-recetas-de-Pastas-1098)
-* [Recetas con pescado](https://edutin.com/curso-de-recetas-con-pescados-1105)
-* [Recetas con pollo](https://edutin.com/curso-de-recetas-con-pollo-1107)
-* [Recetas con vegetales](https://edutin.com/curso-de-recetas-con-vegetales-883)
-* [Recetas creativas con pollo](https://edutin.com/curso-de-recetas-creativas-con-pollo-884)
-* [Recetas creativas, paso a paso](https://edutin.com/curso-de-recetas-creativas-3673)
-* [Recetas de aderezo](https://edutin.com/curso-de-recetas-de-aderezos-3684)
-* [Recetas de aperitivos para fiestas](https://edutin.com/curso-de-recetas-de-aperitivos-para-fiestas-1110)
-* [Recetas de bizcochos](https://edutin.com/curso-de-recetas-de-bizcochos-2570)
-* [Recetas de carne de res](https://edutin.com/curso-de-recetas-con-carne-de-res-3687)
-* [Recetas de cocina divertidas para niños: parte 1](https://edutin.com/curso-de-recetas-de-cocina-para-ni%C3%B1os-parte-1-3438)
-* [Recetas de cocina divertidas para niños: parte 2](https://edutin.com/curso-de-recetas-de-cocina-para-ni%C3%B1os-parte-2-3436)
-* [Recetas de cocina italiana](https://edutin.com/curso-de-Cocina-Italiana-1085)
-* [Recetas de cocina para alimentación infantil](https://edutin.com/curso-de-recetas-de-cocina-para-alimentaci%C3%B3n-infantil-3707)
-* [Recetas de comida rápida](https://edutin.com/curso-de-Comida-Rapida-1104)
-* [Recetas de ensaladas](https://edutin.com/curso-de-recetas-de-ensaladas-b%C3%A1sico-1086)
-* [Recetas de ensaladas especiales](https://edutin.com/curso-de-recetas-de-ensaladas-especiales-878)
-* [Recetas de pan casero](https://edutin.com/curso-de-recetas-de-pan-casero-1113)
-* [Recetas de platos fuertes](https://edutin.com/curso-de-Platos-Fuertes-1087)
-* [Recetas de postres con chocolate](https://edutin.com/curso-de-postres-con-chocolate-2576)
-* [Recetas de postres light](https://edutin.com/curso-de-recetas-de-postres-light-2562)
-* [Recetas de postres y dulces](https://edutin.com/curso-de-recetas-de-postres-y-dulces-880)
-* [Recetas de sandwiches](https://edutin.com/curso-de-recetas-de-sandwiches-3689)
-* [Recetas de sopas y platos de cucharas caseros](https://edutin.com/curso-de-sopas-y-Platos-de-Cucharas-1116)
-* [Recetas fáciles para niños](https://edutin.com/curso-de-Recetas-para-ni%C3%B1os-804)
-* [Recetas gourmet con pescado](https://edutin.com/curso-de-recetas-gourmet-con-pescado-3698)
-* [Recetas ligeras bajas en calorías](https://edutin.com/curso-de-Recetas-Ligeras-1115)
-* [Recetas navideñas](https://edutin.com/curso-de-recetas-navide%C3%B1as-1109)
-* [Recetas para acompañamientos](https://edutin.com/curso-de-recetas-para-acompa%C3%B1amientos-3683)
-* [Recetas para cupcakes](https://edutin.com/curso-de-recetas-para-cupcakes-2577)
-* [Recetas para navidad y año nuevo](https://edutin.com/curso-de-recetas-para-navidad-y-a%C3%B1o-nuevo-3669)
-* [Recetas para tartas](https://edutin.com/curso-de-recetas-de-tartas-2561)
-* [Recetas para tartas de cumpleaños](https://edutin.com/curso-de-Tartas-de-Cumplea%C3%B1os-1114)
-* [Repostería](https://edutin.com/curso-de-Pasteleria-reposteria-y-decoracion.-1153)
+* [Platos de cuchara](https://www.youtube.com/playlist?list=PL-5mjlHAB4A8Zr3DmYIfEsna03WBoQ30A) (YouTube)
+* [Preparación de bebidas con cerveza](https://www.youtube.com/playlist?list=PLBOr9E4CUUlnQ1HIT-Uq2TeUqP2gXU2q6) (YouTube)
+* [Preparación de bebidas con licores](https://www.youtube.com/playlist?list=PLBOr9E4CUUlm494djVvefUFOSpXTG3ATL) (YouTube)
+* [Preparación de platos fuertes, entrantes y antojos](https://www.youtube.com/playlist?list=PL4B8540C0853C701A) (YouTube)
+* [Recetas con pasta](https://www.youtube.com/playlist?list=PLxXRPXkwBFrRftjzT6enkDdH3X3n5wTk0) (YouTube)
+* [Recetas con pescado](https://www.youtube.com/playlist?list=PL-WIw7ny-FnCey_szsQeDKhQzVePVFQpz) (YouTube)
+* [Recetas con pollo](https://www.youtube.com/playlist?list=PL-WIw7ny-FnADL8-o-GSQbIeIfXDRab4i) (YouTube)
+* [Recetas con vegetales](https://www.youtube.com/playlist?list=PLWKkB0pNeCK-wkmWr5MmR0s8mwPbT1LgV) (YouTube)
+* [Recetas creativas con pollo](https://www.youtube.com/playlist?list=PLWKkB0pNeCK_I97v8qSSxS12ZRM4z_hFt) (YouTube)
+* [Recetas creativas, paso a paso](https://www.youtube.com/playlist?list=PLydbzRh4xLv0nLZwE2J_Y_xUmzn2KghXZ) (YouTube)
+* [Recetas de aderezo](https://www.youtube.com/playlist?list=PLd89SMcWw53FihH9mbZog4C4R99yK9Lw7) (YouTube)
+* [Recetas de aperitivos para fiestas](https://www.youtube.com/playlist?list=PL0C52E1A21BFBBDCA) (YouTube)
+* [Recetas de bizcochos](https://www.youtube.com/playlist?list=PLRXM7mz7iTcwXg0hSeaXKF2Zq_jzAS751) (YouTube)
+* [Recetas de carne de res](https://www.youtube.com/playlist?list=PLd89SMcWw53GuVLuFqMm-vNKRDNGrkasO) (YouTube)
+* [Recetas de cocina divertidas para niños: temporada 1](https://www.youtube.com/playlist?list=PLeb5KurR3ZBCwU12J_0Aw92f3vTy2PaTW) (YouTube)
+* [Recetas de cocina divertidas para niños: temporada 2](https://www.youtube.com/playlist?list=PLeb5KurR3ZBBsg5N-UFjZGqYx3a_iDz2U) (YouTube)
+* [Recetas de cocina italiana fáciles](https://www.youtube.com/playlist?list=PLq0777ikiIYtiIAU8EtPv55gtmEKT2Gxv) (YouTube)
+* [Recetas de cocina para alimentación infantil](https://www.youtube.com/playlist?list=PLq0777ikiIYsoy3P5eQRdlZv2MdzGbqOF) (YouTube)
+* [Recetas de comida rápida](https://www.youtube.com/playlist?list=PL-WIw7ny-FnAa7H5w4EBjJy3apNkOfle5) (YouTube)
+* [Recetas de ensaladas](https://www.youtube.com/playlist?list=PLq0777ikiIYtE7dwuzN40hMA7feTpUwQN) (YouTube)
+* [Recetas de ensaladas especiales](https://www.youtube.com/playlist?list=PLWKkB0pNeCK8TU7TIEyR5Zg0X3GoOpPLg) (YouTube)
+* [Recetas de pan casero](https://www.youtube.com/playlist?list=PL1BE739EF42525795) (YouTube)
+* [Recetas de platos fuertes](https://www.youtube.com/playlist?list=PL57C9F4CFEC1D16D5) (YouTube)
+* [Recetas de postres con chocolate](https://www.youtube.com/playlist?list=PLRXM7mz7iTcxwmD0fCFzQVigHXWmlqsnn) (YouTube)
+* [Recetas de postres light](https://www.youtube.com/playlist?list=PLRXM7mz7iTcyIU_5crm8bgnP8PpQYYZsz) (YouTube)
+* [Recetas de postres y dulces](https://www.youtube.com/playlist?list=PLWKkB0pNeCK-SVDmG7CS1CeNK53oa4W_E) (YouTube)
+* [Recetas de sandwiches](https://www.youtube.com/playlist?list=PLd89SMcWw53FpXkT_WuXszZBhoN4rGwwO) (YouTube)
+* [Recetas de sopas y platos de cucharas caseros](https://www.youtube.com/playlist?list=PL-WIw7ny-FnC2OW61UdpKNtjVDxVR4o8O) (YouTube)
+* [Recetas fáciles para niños](https://www.youtube.com/playlist?list=PLWMYMD0Gnd9T7wwsDMzCeS3BYU9l-8NFL) (YouTube)
+* [Recetas gourmet con pescado](https://www.youtube.com/playlist?list=PL2rWPa7BVMtx-z_IFlXPa144uZeAtbIN2) (YouTube)
+* [Recetas ligeras bajas en calorías](https://www.youtube.com/playlist?list=PL59A0C6D63A4B3CBA) (YouTube)
+* [Recetas navideñas](https://www.youtube.com/playlist?list=PL-WIw7ny-FnDLnAxaDpn8apjOpNHJ83Ke) (YouTube)
+* [Recetas para acompañamientos](https://www.youtube.com/playlist?list=PLd89SMcWw53G6btBlRgk_FotE3SsAUCBI) (YouTube)
+* [Recetas para cupcakes](https://www.youtube.com/playlist?list=PLRXM7mz7iTcy_-UTeqdiysbOeESIn-vTi) (YouTube)
+* [Recetas para navidad y año nuevo](https://www.youtube.com/playlist?list=PLWKkB0pNeCK8smHoknaTpTSv8PvhXfpJz) (YouTube)
+* [Recetas para tartas](https://www.youtube.com/playlist?list=PL5F4A0A478C743010) (YouTube)
+* [Recetas para tartas de cumpleaños](https://www.youtube.com/playlist?list=PL5C4771C11D1947FA) (YouTube)
+* [Repostería](https://www.youtube.com/playlist?list=PLA36AE530ABA058BB) (YouTube)
 * [Sorprende a tu familia y amigos con Galletas de Navidad](https://www.udemy.com/galletas-de-navidad-faciles-y-deliciosas)
 
 
@@ -156,15 +156,15 @@
 * [Aprendiendo a invertir: introducción](https://www.udemy.com/aprende-a-crear-tu-tienda-online)
 * [Cómo comprar propiedades en subasta](https://www.udemy.com/como-comprar-propiedades-en-subasta)
 * [Cómo invertir en Forex, fácil y rápido](https://www.udemy.com/como-invertir-por-internet-en-forex-facil-y-rapido)
-* [Educación Financiera Básica](https://edutin.com/curso-de-introduccion-a-la-educacion-financiera-3332)
+* [Educación Financiera Básica](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAxtCbR60doCnMbT8c3wOr-)
 * [Introducción a la inversión bursátil](https://www.edx.org/course/introduccion-la-inversion-bursatil-upvalenciax-bol1201-x-1)
 
 
 ### Educación
 
-* [Administración de plataformas de aprendizaje virtual](https://edutin.com/curso-de-administrador-de-plataformas-de-aprendizaje-virtual-3351)
-* [Administración de proyectos para ambientes virtuales de aprendizaje](https://edutin.com/curso-de-administracion-de-proyectos-para-ambientes-virtuales-de-aprendizaje-3352)
-* [Analista de necesidades del aprendizaje virtual](https://edutin.com/curso-de-analista-de-necesidades-del-aprendizaje-virtual-3354)
+* [Administración de plataformas de aprendizaje virtual](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAaU1uTxOxQLR44NCbLHR5w) (YouTube)
+* [Administración de proyectos para ambientes virtuales de aprendizaje](https://www.youtube.com/playlist?list=PLfWJBWUqkmeC2wT4i10S5SHKR2yo_2jAN) (YouTube)
+* [Analista de necesidades del aprendizaje virtual](https://www.youtube.com/playlist?list=PLfWJBWUqkmeDXZjVvhwplJnRyXgC80k1r) (YouTube)
 * [Ciencias Sociales y su Didáctica (2015)](http://ocw.um.es/cc.-sociales/ciencias-sociales-y-su-didactica)
 * [Comunicación oral y escrita en Lengua Española (2011)](http://ocw.um.es/cc.-sociales/comunicacion-oral-y-escrita-en-lengua-espanola-1)
 * [Curso de Novela: Planifica, Escribe y Publica tu historia](https://www.udemy.com/escritura-novela)
@@ -175,10 +175,10 @@
 * [Escritura Creativa: Fundamentos de la narración](https://iedra.uned.es/courses/course-v1:UNED+Escr_Creat+2017/about)
 * [Espacios Intermedios. Maneras de hacer cultura en la Posmodernidad II](https://iedra.uned.es/courses/course-v1:UNED+EspInter_II_02+2017_T3/about?utm_campaign=camp_20171107_nuevos_cursos)
 * [Estrategias pedagógicas para el desarrollo del pensamiento crítico](https://www.udemy.com/estrategias-pedagogicas-para-el-desarrollo-del-pensamiento-critico)
-* [Evaluador de aprendizaje digital](https://edutin.com/curso-de-evaluador-de-aprendizaje-digital-3343)
-* [Facilitador de aprendizaje digital](https://edutin.com/curso-de-facilitador-de-aprendizaje-digital-3344)
+* [Evaluador de aprendizaje digital](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAraKXeR7BZJnNJhtuc_RAR) (YouTube)
+* [Facilitador de aprendizaje digital](https://www.youtube.com/playlist?list=PLfWJBWUqkmeC2XgIdkGNVRg06esYODu5U) (YouTube)
 * [Herramientas TIC para docentes, profesionales y estudiantes](https://www.udemy.com/herramientas-tic-para-docentes-y-profesionales-de-la-salud)
-* [Implementación de tecnologías en la educación](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
+* [Implementación de tecnologías en la educación](https://www.youtube.com/playlist?list=PL4WEhsPgJTv5O8TdkNq4HXVxCMvesZPjG) (YouTube)
 * [Introducción a la educación holista](https://www.udemy.com/introduccion-a-la-educacion-holista)
 * [Introducción a la enseñanza](https://www.udemy.com/el-maestro-tips-para-mejorar-tu-ensenanza)
 * [La tutoría en la escuela](https://iedra.uned.es/courses/UNED/114/2015T4/about)
@@ -193,14 +193,14 @@
 * [Tecnologías de la Información y la Comunicación (TICS) en Educación Social (2012)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion)
 * [Tecnologías para la Educación](https://www.edx.org/course/tecnologias-para-la-educacion-upvalenciax-te201x-1)
 * [TIC en Educación Social (2016)](http://ocw.um.es/cc.-sociales/tic-en-educacion-social)
-* [Trascendencia del educador durante la primera infancia](https://edutin.com/curso-de-trascendencia-del-educador-durante-la-primera-infancia-3854)
+* [Trascendencia del educador durante la primera infancia](https://www.youtube.com/playlist?list=PLfWJBWUqkmeD5MfAcNrffj--IR2bbxx1w) (YouTube)
 
 
 ### Educación Especial
 
 * [Atención al alumnado con necesidades educativas especiales (2011)](http://ocw.umh.es/ciencias-de-la-salud/Atencion-al-alumnado-con-necesidades-educativas-especiales-459)
 * [Educación Especial (2008)](http://ocw.um.es/cc.-sociales/educacion-especial)
-* [Ejercicios con respiración](https://edutin.com/curso-de-ejercicios-de-respiracion-1296)
+* [Ejercicios con respiración](https://www.youtube.com/playlist?list=PL9EFHeQqoLmuAL6lQ3OIBuiQ83wW-Ukwt)
 * [El aula inclusiva hoy en día. Cómo afrontar el Trastorno del Espectro Autista y las Altas Capacidades (2017)](http://ocw.uji.es/curso/1873316)
 * [Introducción al TDAH: Mitos y primeros pasos en familia](https://www.udemy.com/introduccion-al-tdah-mitos-y-primeros-pasos-en-familia)
 * [Materiales Digitales Accesibles](https://iedra.uned.es/courses/UNED-ONCE/MatDigAcc/2017/about?utm_campaign=camp_20171107_nuevos_cursos)
@@ -215,7 +215,8 @@
 * [Deporte y Acción Tutorial (2016)](http://ocw.um.es/cc.-sociales/deporte-y-accion-tutorial-1)
 * [Interacción Persona-Computador. Diseño para Todos y Productos de Apoyo](https://iedra.uned.es/courses/course-v1:UNED-ONCE+InterPerCom02+2017/about)
 * [Introducción a las instalaciones eléctricas](https://miriadax.net/web/introduccion-instalaciones-electricas/inicio)
-* [Salto largo completo](https://edutin.com/curso-de-salto-largo-769)
+* [Salto largo: historia](https://www.youtube.com/playlist?list=PLD49965E1FBCA05D6)
+* [Salto largo: técnica](https://www.youtube.com/playlist?list=PLD334297C84EF3B71)
 
 
 ### Electrónica
@@ -235,14 +236,14 @@
 
 ### Estadística
 
-* [Analista de datos](https://edutin.com/curso-de-analista-de-datos-3349)
+* [Analista de datos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBaDngNtAk9ymhg9ZOr8aZF)
 * [Técnicas Cuantitativas y Cualitativas para la Investigación](https://www.edx.org/course/tecnicas-cuantitativas-y-cualitativas-upvalenciax-tcci201-x-0)
 
 
 ### Fruticultura
 
-* [Jardinería a gran escala](https://edutin.com/curso-de-jardineria-a-gran-escala-3217)
-* [Jardinería avanzado](https://edutin.com/curso-de-Jardineria-avanzado-1157)
+* [Jardinería a gran escala](https://www.youtube.com/playlist?list=PLfWJBWUqkmeANSJwgx2KMzYmp1wbKBZ12) (YouTube)
+* [Jardinería avanzado](https://www.youtube.com/playlist?list=PLA0463C57B87F51FE) (YouTube)
 * [Tutoriales sobre Podas](https://www.youtube.com/watch?v=epr99uE7onQ&list=PLeUY9qxjCHj420gEQkovfWuRbJOz00QJC)
 
 
@@ -285,7 +286,6 @@
 
 ### Ingienería
 
-* [Albañilería](https://edutin.com/curso-de-alba%C3%B1ileria-completo-3328) (Educatin)
 * [Caer o No caer. El Secreto de las Estructuras.](https://www.edx.org/course/caer-o-no-caer-el-secreto-de-las-uc3mx-mmc-1x-0)
 * [Geoestadística Práctica: usando Sgems y gvSIG](https://www.udemy.com/geoestadistica-practica-usando-sgems-y-gvsig)
 * [Introducción a Ansys Workbench](https://www.udemy.com/introduccion-a-ansys-workbench)
@@ -305,26 +305,26 @@
 
 ### Matemáticas
 
-* [Álgebra orientado a la solución de problemas](https://edutin.com/curso-de-%C3%81lgebra-2313)
+* [Álgebra orientado a la solución de problemas](https://www.youtube.com/playlist?list=PLA4EA45E3DF9914E9) (YouTube)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2)
 * [Bases Matemáticas: Derivadas](https://www.edx.org/course/bases-matematicas-derivadas-upvalenciax-bmd101x-1)
 * [Bases Matemáticas: Integrales](https://www.edx.org/course/bases-matematicas-integrales-upvalenciax-bmi101x-1)
 * [Bases Matemáticas: Números y terminología](https://www.edx.org/course/bases-matematicas-numeros-y-terminologia-upvalenciax-bmn101x-2)
 * [Matrices y sistemas de ecuaciones (Álgebra lineal)](https://www.udemy.com/matrices-y-sistemas-de-ecuaciones-algebra-lineal)
-* [Métodos numéricos](https://edutin.com/curso-de-metodos-numericos-3858)
+* [Métodos numéricos](https://www.youtube.com/playlist?list=PLZ0UFciczQg7XtvMS0h3JaqhMQWsv46SL) (YouTube)
 * [Teoría Combinatoria (arreglos y combinaciones)](https://www.udemy.com/teoria-combinatoria-arreglos-y-combinaciones)
 
 
 ### Mecánica
 
-* [Mecánica de bicicletas](https://edutin.com/curso-de-mecanica-de-bicicleta-3331)
+* [Mecánica de bicicletas](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCeCDBoKg9HOkxSZhoZmBDo) (YouTube)
 
 
 ### Medio Ambiente
 
 * [Desarrollo sostenible en Cantabria (2012)](https://ocw.unican.es/course/view.php?id=138)
 * [Fuentes de información geográfica para SIGs ambientales](https://www.udemy.com/fuentes-de-informacion-geografica-para-sigs-ambientales)
-* [Hidraúlica de canales de ingieniería ambiental](https://edutin.com/curso-de-hidraulica-de-canales-en-ingenieria-ambiental-3856)
+* [Hidraúlica de canales de ingieniería ambiental](https://www.youtube.com/playlist?list=PLZ0UFciczQg6yidTNwnEK0cLDzqzm6fXc)
 * [Los espacios agrarios y forestales (2014)](https://ocw.unican.es/course/view.php?id=81)
 * [Medio Ambiente y Sostenibilidad (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/medio-ambiente-y-sostenibilidad/Course_listing)
 * [Medio Ambiente. Valor constitucional y protección penal (2011)](https://ocw.unican.es/course/view.php?id=109)
@@ -363,7 +363,7 @@
 * [Cómo diagnosticar mis competencias de innovación](https://www.edx.org/course/como-diagnosticar-mis-competencias-de-upvalenciax-lider201-4x)
 * [Cómo ganar dinero invirtiendo en bolsa](https://www.udemy.com/como-ganar-dinero-invirtiendo-en-bolsa)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
-* [Competencias del Emprendedor](https://edutin.com/curso-de-Competencias-del-Emprendedor-793)
+* [Competencias del Emprendedor](https://www.youtube.com/playlist?list=PLWfF6Dli9QCOBPzRkyyAdc62a4gFfiOZq)
 * [Competitividad e Innovación en la Empresa (2012)](http://ocw.bib.upct.es/course/view.php?id=98)
 * [Dimensiones de la Responsabilidad Social](https://iedra.uned.es/courses/UNED/Dimen_RSC_001/2016_T4/about)
 * [Duplica tus ventas y tu marca personal](https://www.udemy.com/aumenta-las-ventas-de-tu-negocio-por-internet)
@@ -410,36 +410,40 @@
 ### Salud & nutrición
 
 * [Alimentación Saludable](https://miriadax.net/web/alimentacion-saludable)
-* [Anatomía de cabeza y cuello](https://edutin.com/curso-de-Anatomia-Cabeza-y-Cuello-2063)
-* [Anatomía de miembro superior](https://edutin.com/curso-de-Anatomia-Miembro-superior-2066)
+* [Anatomía de cabeza y cuello](https://www.youtube.com/playlist?list=PL9380A26075717767) (YouTube)
+* [Anatomía de miembro superior](https://www.youtube.com/playlist?list=PL6FE6B0FD524387E5) (YouTube)
 * [Aprenda como mejorar su postura para la vida laboral](https://www.udemy.com/ergonomia-para-la-vida-laboral)
 * [Aprende sobre el cuerpo humano](https://www.udemy.com/anatomia-medicina-curso-primeros-auxilios)
 * [BH en el diagnóstico de anemias](https://www.udemy.com/bh-en-el-diagnostico-de-anemias)
-* [Cardiología](https://edutin.com/curso-de-cardiologia-3589)
+* [Cardiología](https://www.youtube.com/playlist?list=PLUiFN9Y8zzvpyYIo_Ite9jw8rkLfaPpum) (YouTube)
 * [Elimina pensamientos obsesivos recurrentes](https://www.udemy.com/elimina-pensamientos-obsesivos-recurrentes)
-* [Estiramientos funcionales](https://edutin.com/curso-de-estiramientos-funcionales-1305)
+* [Estiramientos, cervicales](https://www.youtube.com/playlist?list=PL9EFHeQqoLmvQLTrbagi5J4Auezz_UFlZ) (YouTube)
+* [Estiramientos, globales](https://www.youtube.com/playlist?list=PL9EFHeQqoLmuj607aNU59lgvsdxedlA0c) (YouTube)
+* [Estiramientos, los mejores estiramientos recomendados](https://www.youtube.com/playlist?list=PL9EFHeQqoLmt4WtWrJCUS0An56laAFswU) (YouTube)
+* [Estiramientos, piernas](https://www.youtube.com/playlist?list=PL9EFHeQqoLmuROQH79XQCyD_kWrxyzhjj) (YouTube)
+* [Estiramientos, principios básicos](https://www.youtube.com/playlist?list=PL9EFHeQqoLmtS8yscSeFsUzgDNyV9LwB3) (YouTube)
 * [Flashdiet: Salud y nutrición. Aprende a comer sano](https://www.upvx.es/courses/TecnologiaDeAlimentos/flashdiet2/2016-02/about)
 * [Las bases del Chi Kung (Qi gong)](https://www.udemy.com/las-bases-del-chi-kung-qi-gong)
-* [Neonatología](https://edutin.com/curso-de-neonatologia-3585)
-* [Nutrición Deportiva](https://edutin.com/curso-de-nutricion-deportiva-3497)
+* [Neonatología](https://www.youtube.com/playlist?list=PLUiFN9Y8zzvoLpok82ld6ENdwB2PJJIi-) (YouTube)
+* [Nutrición Deportiva](https://www.youtube.com/playlist?list=PL-be1zuIVyqrh2rrOGHHVII8nKeiVKHbL) (YouTube)
 * [Pandemias: nuevas infecciones virales](https://miriadax.net/web/pandemias-nuevas-infecciones-virales-2-edicion-/inicio)
-* [Patologías hematológicas](https://edutin.com/curso-de-patologias-hematologicas-3584)
-* [Primeros Auxilios Básicos](https://edutin.com/curso-de-primeros-auxilios-3334)
+* [Patologías hematológicas](https://www.youtube.com/playlist?list=PLUiFN9Y8zzvoRzeGPTNHaSw9VvORFX9ig) (YouTube)
+* [Primeros Auxilios Básicos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCZyU25ejEM9glG95mpB1W5) (YouTube)
 * [Promoción de la salud. Curso para profesores en urgencias y emergencias sanitarias](https://iedra.uned.es/courses/course-v1:UNED+UrgSan_002+2017/about)
 * [Quemaduras nivel Básico](https://www.udemy.com/curso-quemaduras-nivel-basico)
-* [Regencia de Farmacia](https://edutin.com/curso-de-regencia-de-farmacia-3864)
-* [Reumatología básico](https://edutin.com/curso-de-reumatologia-basico-3588)
-* [Signos radiológicos de enfermedades articulares y oséas](https://edutin.com/curso-de-signos-radiologicos-de-enfermedades-articulares-1294)
+* [Regencia de Farmacia](https://www.youtube.com/playlist?list=PLZ0UFciczQg5ZkcfeZrt72OWymng-4TT-) (YouTube)
+* [Reumatología básico](https://www.youtube.com/playlist?list=PLUiFN9Y8zzvqw-3j6vbwQizaP4X0Pl9JE) (YouTube)
+* [Signos radiológicos de enfermedades articulares y oséas](https://www.youtube.com/playlist?list=PL2DEA6BB14B4651D3) (YouTube)
 * [Soporte Vital Básico - RCP](https://www.udemy.com/soporte-vital-basico)
 * [Triunfa con SEP: modelo para mejorar la salud, los negocios y la vida](https://miriadax.net/web/triunfa-con-sep-el-modelo-para-mejorar-la-salud-los-negocios-y-la-vida-5-edicion-/inicio)
-* [Vendajes funcionales y kineosiotaping](https://edutin.com/curso-de-vendajes-funcionales-y-kinesiotaping-1331)
+* [Vendajes neuromusculares y kineosiotaping](https://www.youtube.com/playlist?list=PL9EFHeQqoLmuihQANv1qmIToSZoK-_bWn) (YouTube)
 
 
 ### Servicios
 
-* [Bodeguero en entrada y salida de insumos en restaurantes](https://edutin.com/curso-de-bodeguero-3338)
-* [Herrero, balconero, aluminador y forjador](https://edutin.com/curso-de-herrero-balconero-aluminador-y-forjador-3333)
-* [Operador de autotransporte para cadenas de distribución](https://edutin.com/curso-de-operador-de-autotransporte-para-cadenas-de-distribucion-3330)
+* [Bodeguero en entrada y salida de insumos en restaurantes](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCRYso4_xUPOX3dWPmErIVw) (YouTube)
+* [Herrero, balconero, aluminador y forjador](https://www.youtube.com/playlist?list=PLfWJBWUqkmeB6EzJK9d-nFENegFHQH_kd) (YouTube)
+* [Operador de autotransporte para cadenas de distribución](https://www.youtube.com/playlist?list=PLfWJBWUqkmeDX080neR-xZps_31AnYJvl) (YouTube)
 
 
 ### Servicios Sociales
@@ -452,7 +456,7 @@
 * [Cyberbullying. La Guía para detener el acoso escolar digital](https://www.udemy.com/cyberbullying-guia-de-detencion)
 * [Educación Vial: su necesidad a lo largo de la vida](https://iedra.uned.es/courses/UNED/107/2015T4/about)
 * [Educación vial: sustancias nocivas en la conducción](https://iedra.uned.es/courses/UNED/ed_sustancias_131/2016_T3/about)
-* [Emprendimiento e innovación social](https://edutin.com/curso-de-Emprendimiento-e-innovacion-social-795)
+* [Emprendimiento e innovación social](https://www.youtube.com/playlist?list=PLWfF6Dli9QCNRYo8NDUN8gsFTiM4MEb88) (YouTube)
 * [Formación ciudadana y liderazgo](https://www.udemy.com/formacion-ciudadana-y-liderazgo)
 * [Fundamentos de la Seguridad del Paciente](https://miriadax.net/web/fundamentos-de-la-seguridad-del-paciente/inicio)
 * [Humanización en la asistencia en situaciones de Duelo](https://www.udemy.com/humanizacion-en-la-asistencia-en-situaciones-de-duelo)
