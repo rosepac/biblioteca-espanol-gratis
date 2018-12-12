@@ -1,45 +1,58 @@
 # Biblioteca de recursos de aprendizaje de programación
-[![GitHub issue author](https://img.shields.io/badge/autor-pabloalvarez-orange.svg?longCache=true&style=for-the-badge)](https://www.medium.com/mundo-framework)
-[![Discord](https://img.shields.io/gitter/room/nwjs/nw.js.svg?longCache=true&style=for-the-badge)](https://discord.gg/TUkA38D)
-[![Twitter URL](https://img.shields.io/badge/tweet-MundoFramework-blue.svg?longCache=true&style=for-the-badge)](https://twitter.com/MundoFramework)
-[![GitHub issue last update](https://img.shields.io/badge/updated-junio%202018-red.svg?longCache=true&style=for-the-badge)](https://github.com/DpdC/biblioteca-espanol-gratis)
+
+[![](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg?style=plastic)](https://github.com/rosepac)
+[![](https://img.shields.io/github/issues/detail/age/badges/shields/979.svg?style=plastic)](https://github.com/rosepac/biblioteca-espanol-gratis)
+[![](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg?style=plastic)](https://github.com/rosepac/biblioteca-espanol-gratis)
+![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=plastic)
+![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=plastic)
+![](https://img.shields.io/twitter/url/https/github.com/rosepac/biblioteca-espanol-gratis.svg?style=social?style=plastic)
 
 
 ___
 
 ## **Introducción**
 
-Esta lista es una idea surgida en Mayo de 2017, derivada de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books).
-Centrada en la recopilación de cursos y libros en **español**.
+Estas listas son una idea surgida en Abril de 2017, derivada de una pequeña escisión del contenido primario generado en su mayoría por mí; sobre el recopilatorio de [Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); donde por ejemplo, el apartado de Cursos en Español, ni tan siquiera existía.
 
-*[Pablo Álvarez Corredera](http://www.medium.com/mundo-framework), Saludos.*
+El proyecto está basado en la recopilación de cursos, libros, marcadores y web´s de interés bajo licencias libres con el único condicionante de que debe estar enfocado hacía los individuos de habla hispana, ósea; estar en **español**.
 
+Existiendo excepciones, siendo estás; en los casos que se considere que **NO** existe ninguna otra publicación que lo pueda llegar a sustituir dentro del mundo de habla hispana.
 
-___
-
-## Cómo contribuir
-
-Por favor, leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) e utilizar [Travis CI](https://travis-ci.org/) [![Build Status](https://travis-ci.org/rosepac/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis) como tester.
+*[Pablo Álvarez Corredera](https://mundoframework.com), Saludos.*
 
 
 ___
 
-## Compartir
+## Contribuir & Compartir
 
-+ [Mediante Twitter](http://twitter.com/home?status=https://github.com/DpdC/biblioteca-espanol-gratis&0ABiblioteca%20de%20Programación)
-+ [Mediante Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/DpdC/biblioteca-espanol-gratis&p[images][0]=&p[title]=DpdC&p[summary]=)
-+ [Mediante Google Plus](https://plus.google.com/share?url=https://github.com/DpdC/biblioteca-espanol-gratis)
-+ [Mediante LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/DpdC/biblioteca-espanol-gratis&title=DpdC&summary=&source=)
+### Contribuciones
+Por favor, si deseas colaborar existen dos formas de hacerlo:
+
+1. La primera es colaborando. Si te consideras capaz (tod@s lo somos) agregando recursos directamente; de lo que estaré, absolutamente encantado. 
+
+Primero debes leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) y además debes tener en cuenta que debes utilizar [Travis CI](https://travis-ci.org/) [![Build Status](https://travis-ci.org/rosepac/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/rosepac/biblioteca-espanol-gratis) como *tester* antes de realizar cualquier contribución final mediante tus *pull request*.
+
+2. La segunda es realizar una pequeña [donación](https://paypal.me/mundoframework) que impulse a mi corazón a recobrar ganas y fuerzas por seguir haciendo que esta interesante y compleja recopilación no deje de crecer aunque pase por leves periodos de altibajos en los que personalmente no pueda regalarle el tiempo necesario.
+
+
+___
+
+### Compartir
+
++ [Pulsa aquí y ayúdame a compartir toda esta información a través de Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/rosepac/biblioteca-espanol-gratis&p[images][0]=&p[title]=rosepac&p[summary]=)
++ [Pulsa aquí y ayúdame a compartir toda esta información a través de LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/rosepac/biblioteca-espanol-gratis&title=rosepac&summary=&source=)
 
 
 ___
 
 ## **Índice Global**
 
++ [Biblioteca](/biblioteca.md) ***POR CREAR*** :construction: **-documento de libros, novelas y revistas bajo derechos libres-**
 + [Libros de Programación (+ 150 libros)](/libros-programacion-gratis.md#Índice)
-+ [Libros de Programación en Gitbook (37 libros)](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-espa%C3%B1ol--)
-+ [Cursos de Programación (+ 580 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
-+ [Cursos de Otras Temáticas (+ 285 cursos)](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
++ [Libros de Programación en Gitbook (37 libros)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-espa%C3%B1ol--)
++ [Cursos de Animación & Diseño (+ 181 cursos)](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
++ [Cursos de Informática, Programación & Tecnología (+ 580 cursos)](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
++ [Cursos de Otras Actividades & Profesiones (+ 285 cursos)](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 + [Páginas de Programación](/paginas-programacion.md#index)
 
 ___
@@ -48,78 +61,78 @@ ___
 
 ### Libros de Programación
 
-+ [0 - Meta-Listas](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#0---meta-listas)
-+ [1 - Agnósticos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#1---agn%C3%B3sticos)
-  + [Algoritmos y Estructuras de Datos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#algoritmos)
-  + [Base de Datos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#base-de-datos)
-  + [Ciencia Computacional](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ciencia-computacional)
-  + [Criptomonedas](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#criptomoneda)
-  + [Cursos Masivos en Línea](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#cursos-masivos-en-l%C3%ADnea)
-  + [Ecosistema de Código Abierto](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ecosistema-de-c%C3%B3digo-abierto)
-  + [Metodologías de desarrollo de software](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#metodolog%C3%ADas-de-desarrollo-de-software)
-  + [Misceláneos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#miscel%C3%A1neos)
-  + [Montaje & mantenimiento](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#montaje--mantenimiento)
-  + [Paradigmas de Programación](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#paradigmas-de-programaci%C3%B3n)
-  + [Revistas](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#revistas)
-  + [Robótica](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#rob%C3%B3tica)
-  + [Seguridad](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#seguridad)
-  + [Servicios en red](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#servicios-en-red)
-  + [Sistemas Operativos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sistemas-operativos)
-+ [Android](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#android)
-+ [C](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#c)
-+ [C++](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#c-1)
-+ [Coffescript](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#coffescript)
-+ [Emacs](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#emacs)
-+ [Ensamblador](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ensamblador)
-+ [Erlang](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#erlang)
-+ [Git](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#git)
-+ [Github](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#github)
-+ [Haskell](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#haskell)
-+ [HTML / CSS](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#html--css)
-+ [Java](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#java)
-+ [JavaScript](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#javascript)
-+ [Linux](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#linux)
-+ [.NET](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#net-c--visual-studio)
-+ [NoSql](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#nosql)
-    + [MongoDB](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#mongodb)
-    + [Redis](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#redis)
-+ [Perl](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#perl)
-+ [PHP](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#php)
-+ [Python](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#python)
-    + [Django](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#django)
-    + [Web2Py](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#web2py)
-+ [R](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#r)
++ [0 - Meta-Listas](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#0---meta-listas)
++ [1 - Agnósticos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#1---agn%C3%B3sticos)
+  + [Algoritmos y Estructuras de Datos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#algoritmos)
+  + [Base de Datos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#base-de-datos)
+  + [Ciencia Computacional](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ciencia-computacional)
+  + [Criptomonedas](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#criptomoneda)
+  + [Cursos Masivos en Línea](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#cursos-masivos-en-l%C3%ADnea)
+  + [Ecosistema de Código Abierto](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ecosistema-de-c%C3%B3digo-abierto)
+  + [Metodologías de desarrollo de software](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#metodolog%C3%ADas-de-desarrollo-de-software)
+  + [Misceláneos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#miscel%C3%A1neos)
+  + [Montaje & mantenimiento](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#montaje--mantenimiento)
+  + [Paradigmas de Programación](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#paradigmas-de-programaci%C3%B3n)
+  + [Revistas](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#revistas)
+  + [Robótica](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#rob%C3%B3tica)
+  + [Seguridad](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#seguridad)
+  + [Servicios en red](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#servicios-en-red)
+  + [Sistemas Operativos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sistemas-operativos)
++ [Android](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#android)
++ [C](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#c)
++ [C++](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#c-1)
++ [Coffescript](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#coffescript)
++ [Emacs](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#emacs)
++ [Ensamblador](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ensamblador)
++ [Erlang](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#erlang)
++ [Git](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#git)
++ [Github](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#github)
++ [Haskell](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#haskell)
++ [HTML / CSS](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#html--css)
++ [Java](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#java)
++ [JavaScript](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#javascript)
++ [Linux](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#linux)
++ [.NET](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#net-c--visual-studio)
++ [NoSql](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#nosql)
+    + [MongoDB](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#mongodb)
+    + [Redis](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#redis)
++ [Perl](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#perl)
++ [PHP](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#php)
++ [Python](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#python)
+    + [Django](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#django)
+    + [Web2Py](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#web2py)
++ [R](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#r)
 + [Ruby](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ruby)
-    + [Ruby on Rails](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ruby-on-rails)
-+ [Scala](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#scala)
-+ [Scratch](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#scratch)
-+ [SQL](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sql)
-+ [SVG](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#svg)
-+ [TeX & LaTeX](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#tex--latex)
+    + [Ruby on Rails](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ruby-on-rails)
++ [Scala](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#scala)
++ [Scratch](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#scratch)
++ [SQL](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sql)
++ [SVG](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#svg)
++ [TeX & LaTeX](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#tex--latex)
 
 
 ### Cursos de programación en línea gratis
 
-+ [Android](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#android)
-+ [Arduino](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#arduino)
-+ [Bases de Datos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#bases-de-datos)
-+ [Big Data](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#big-data)
-+ [Ciencias de la Computación](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#ciencias-de-la-computaci&#x00F3;n)
-+ [Comercio Online](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#comercio-online)
-+ [Flujos de Trabajo](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#flujos-de-trabajo)
-+ [Ofimática](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#ofim&#x00E1;tica)
-+ [Procesadores de Lenguaje](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#procesadores-de-lenguaje)
-+ [Programación](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#programaci&#x00F3;n)
-+ [Programación Web & Móvil](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#programaci&#x00F3;n-web--m&#x00F3;vil)
-+ [Redes](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#redes)
-+ [Redes de Telefonía](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#redes-de-telefon&#x00ED;a)
-+ [Robótica](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#rob&#x00F3;tica)
-+ [Seguridad](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#seguridad)
-+ [Servidores y Servicios Nube](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#servidores-y-servicios-en-nube)
-+ [Sistemas de Gestión de Contenidos / CMS](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
-+ [Técnico de Software & Hardware](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#t&#x00E9;cnico-de-software--hardware)
-+ [Videojuegos](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#videojuegos)
-+ [Web & Webmaster](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#web--webmaster)
++ [Android](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#android)
++ [Arduino](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#arduino)
++ [Bases de Datos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#bases-de-datos)
++ [Big Data](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#big-data)
++ [Ciencias de la Computación](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#ciencias-de-la-computaci&#x00F3;n)
++ [Comercio Online](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#comercio-online)
++ [Flujos de Trabajo](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#flujos-de-trabajo)
++ [Ofimática](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#ofim&#x00E1;tica)
++ [Procesadores de Lenguaje](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#procesadores-de-lenguaje)
++ [Programación](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#programaci&#x00F3;n)
++ [Programación Web & Móvil](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#programaci&#x00F3;n-web--m&#x00F3;vil)
++ [Redes](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#redes)
++ [Redes de Telefonía](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#redes-de-telefon&#x00ED;a)
++ [Robótica](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#rob&#x00F3;tica)
++ [Seguridad](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#seguridad)
++ [Servidores y Servicios Nube](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#servidores-y-servicios-en-nube)
++ [Sistemas de Gestión de Contenidos / CMS](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
++ [Técnico de Software & Hardware](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#t&#x00E9;cnico-de-software--hardware)
++ [Videojuegos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#videojuegos)
++ [Web & Webmaster](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#web--webmaster)
 
 
 ### Cursos de animación y diseño
@@ -188,28 +201,28 @@ ___
 + [En Español :construction:](/recursos-frameworks-javascript.md#angularjs)
 
 
-## Podcast - Screencast (:construction: :construction: :construction: :construction: :construction:)
+## Podcast - Screencast
 
-+ [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-cs.md)
-
-
-## Juegos de Programación (:construction: :construction: :construction: :construction: :construction:)
-+ [En Inglés Temporalmente](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-playgrounds.md)
++ Los podcasts sobre programación o tecnología en español, ¿son inexistentes?
 
 
----
+___
 
 ## **Historia**
 
-Esta lista es una idea surgida en Mayo de 2017; tras conocer el proyecto original de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el cual fue iniciado por Victor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org). El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo; existia muy poca cantidad de contenido en español.
+Esta lista es una idea surgida en Mayo de 2017; tras conocer el proyecto original de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el cual fue iniciado por Victor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org). El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo ello en el existía un enorme deficit de contenido en español.
 
-En esta escisión se centra en enfocar el proyecto hacía el idioma **español**, facilitando recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de la informática e incluso hacía otras personas que deseen aprender sobre otras temáticas, en general.
+Esta escisión se centra en enfocar el proyecto hacía el idioma **español**, facilitando recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de las nuevas tecnologías en general.
 
-*[Pablo Álvarez Corredera](http://www.mundo-framework.com), Saludos.*
+A fecha 12 del 12 de 2.018 el proyecto se amplía; enfocado en crear el mayor repositorio de contenidos libres de habla hispana disponible a través de internet, desde un único sitio.
+
+*[Pablo Álvarez Corredera](https://mundoframework.com), Saludos.*
 
 
 ---
 
 ## **Licencia**
 
-Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://www.medium.com/mundo-framework), los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) en especial, y sus autores iniciales: [Victor Felder & la Free Ebook Foundation](/LICENCIA.txt) sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
+Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://mundoframework.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su posible participación anterior; que es el punto de partida de todo lo encontrado aquí.
+
+La licencia del proyecto es [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
