@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/created-octubre%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
 ![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
-[![](https://img.shields.io/twitter/url/https/github.com/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)](http://twitter.com/home?status=Deberías ojear este excelente contenido de recursos y meterlo en tus favoritos, cientos de libros y cursos..: https://github.com/rosepac/biblioteca-espanol-gratis)
+[![](https://img.shields.io/badge/tweet-env%C3%ADame-blue.svg?style=flat-square)](http://twitter.com/home?status=Deberías ojear este excelente contenido de recursos y meterlo en tus favoritos, cientos de libros y cursos..: https://github.com/rosepac/biblioteca-espanol-gratis)
 
 
 ___
