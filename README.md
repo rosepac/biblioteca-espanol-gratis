@@ -1,8 +1,7 @@
 # Biblioteca de recursos de aprendizaje de programación
 
-[![](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg?style=plastic)](https://github.com/rosepac)
+[![rosepac](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg?style=plastic)](https://github.com/rosepac)
 [![](https://img.shields.io/github/issues/detail/age/badges/shields/979.svg?style=plastic)](https://github.com/rosepac/biblioteca-espanol-gratis)
-[![](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg?style=plastic)](https://github.com/rosepac/biblioteca-espanol-gratis)
 ![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=plastic)
 ![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=plastic)
 ![](https://img.shields.io/twitter/url/https/github.com/rosepac/biblioteca-espanol-gratis.svg?style=social?style=plastic)
