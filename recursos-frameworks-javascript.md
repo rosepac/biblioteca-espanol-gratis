@@ -1,5 +1,6 @@
-## Angular.js
+## Angular
 
+* [Angular desde 0](https://frostqui.github.io/series/angular) (HTML)
 * [Comunicar componentes en AngularJS 1.](https://carlosazaustre.es/formas-de-comunicar-componentes-en-angularjs-1-x/) (HTML)
 * [Desarrollo por componentes en AngularJS 1.](https://carlosazaustre.es/desarrollo-por-componentes-con-angular-1-5-con-es6-es2015/) (HTML)
 * [Framework](https://angularjs.org) (Web Oficial)
