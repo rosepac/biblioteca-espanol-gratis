@@ -1,10 +1,11 @@
 # Biblioteca de recursos de aprendizaje de programación
 
-[![rosepac](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg?style=plastic)](https://github.com/rosepac)
-[![](https://img.shields.io/github/issues/detail/age/badges/shields/979.svg?style=plastic)](https://github.com/rosepac/biblioteca-espanol-gratis)
-![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=plastic)
-![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=plastic)
-![](https://img.shields.io/twitter/url/https/github.com/rosepac/biblioteca-espanol-gratis.svg?style=social?style=plastic)
+[![](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/mundoframework)
+[![](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/rosepac21)
+[![](https://img.shields.io/badge/created-octubre%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
+![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
+![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
+[![](https://img.shields.io/twitter/url/https/github.com/rosepac/biblioteca-espanol-gratis.svg?style=social?style=flat-square)](http://twitter.com/home?status=https://github.com/rosepac/biblioteca-espanol-gratis)
 
 
 ___
@@ -185,11 +186,6 @@ ___
 
 ___
 
-## Cursos de programación interactiva (:construction:)
-
-+ [Tutoriales Gratuitos de Programación Interactiva en Español - En construcción -](/cursos-programacion-interactivos-gratis.md)
-
-
 ## Desarrollo Front-End Framework´s, Librerías & Recursos Freebies
  
 + [Desarrollo Front-End Recopilación de Librerías Útiles](/librerias-front-end.md)
@@ -197,7 +193,7 @@ ___
 
 ## Recursos de Framework´s  de JavaScript
 
-+ [En Español :construction:](/recursos-frameworks-javascript.md#angularjs)
++ [Framework´s JavaScript](/recursos-frameworks-javascript.md#angularjs)
 
 
 ## Podcast - Screencast
@@ -224,4 +220,6 @@ A fecha 12 del 12 de 2.018 el proyecto se amplía; enfocado en crear el mayor re
 
 Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://mundoframework.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su posible participación anterior; que es el punto de partida de todo lo encontrado aquí.
 
-La licencia del proyecto es [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
+Alentar a toda la Comunidad Hispana que prosiga generando tan buen contenido como el existente, de aquí en adelante. Mi mayor ánimo y apoyo; me gustaría enviarles a todos los creadores de contenidos Creative Commons mi mayor caluroso agradecimiento por todo los grandes aportes a la educación y saber de este mundo global.
+
+La licencia de este proyecto es [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES) por lo que deberás reconocer la autoría del mismo además de crear un enlace al mismo; siempre que desees compartir, re editar, vender o sea lo que quiera que desees hacer con él. :)
