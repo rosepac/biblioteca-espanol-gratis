@@ -19,7 +19,7 @@ ___
 
 ## Cómo contribuir
 
-Por favor, leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) e utilizar [Travis CI](https://travis-ci.org/) [![Build Status](https://travis-ci.org/DpdC/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis) como tester.
+Por favor, leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) e utilizar [Travis CI](https://travis-ci.org/) [![Build Status](https://travis-ci.org/rosepac/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/DpdC/biblioteca-espanol-gratis) como tester.
 
 
 ___
