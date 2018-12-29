@@ -57,7 +57,7 @@
 
 * [Arduino desde Cero - Primer Módulo](https://www.udemy.com/innova-arduino-desde-cero) (Udemy)
 * [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones) (Coursera)
-* [Crea un sistema de riego automático con Arduino](https://www.udemy.com/sistema-de-riego-automatico-con-arduino9 (Udemy)
+* [Crea un sistema de riego automático con Arduino](https://www.udemy.com/sistema-de-riego-automatico-con-arduino9) (Udemy)
 * [Curso gratuito de Arduino](https://www.youtube.com/watch?v=Fl2uQXn7MCg&list=PLpOqH6AE0tNjRWhQms3T8l-4b9oUyr_xB) (Código Facilito, Youtube)
 * [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit) (Udemy)
 * [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
