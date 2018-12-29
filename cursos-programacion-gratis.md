@@ -17,10 +17,10 @@
 * [Robótica](#rob&#x00F3;tica)
 * [Seguridad](#seguridad)
 * [Servidores y Servicios Nube](#servidores-y-servicios-en-nube)
-* [Sistemas de Gestión de contenidos - CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos-y-erp)
+* [Sistemas de Gestión de contenidos - CMS - y ERP](#sistemas-de-gesti&#x00F3;n-de-contenidos-y-erp)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
-* [Web & Webmaster](#web--webmaster) [Cursos Faltan, Introductorios keepCodind](https://plataforma.keepcoding.io/courses/101499/bundled_courses)
+* [Web & Webmaster](#web--webmaster)
 
 
 ### Android
