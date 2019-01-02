@@ -165,6 +165,7 @@
 * [Administración de plataformas de aprendizaje virtual](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAaU1uTxOxQLR44NCbLHR5w) (YouTube)
 * [Administración de proyectos para ambientes virtuales de aprendizaje](https://www.youtube.com/playlist?list=PLfWJBWUqkmeC2wT4i10S5SHKR2yo_2jAN) (YouTube)
 * [Analista de necesidades del aprendizaje virtual](https://www.youtube.com/playlist?list=PLfWJBWUqkmeDXZjVvhwplJnRyXgC80k1r) (YouTube)
+* [Aprendizaje Ubicuo](https://abierta.ugr.es/aprendizaje_ubicuo)
 * [Ciencias Sociales y su Didáctica (2015)](http://ocw.um.es/cc.-sociales/ciencias-sociales-y-su-didactica)
 * [Comunicación oral y escrita en Lengua Española (2011)](http://ocw.um.es/cc.-sociales/comunicacion-oral-y-escrita-en-lengua-espanola-1)
 * [Curso de Novela: Planifica, Escribe y Publica tu historia](https://www.udemy.com/escritura-novela)
