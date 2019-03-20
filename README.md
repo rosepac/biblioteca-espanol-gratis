@@ -18,7 +18,7 @@ El proyecto está basado en la recopilación de cursos, libros, marcadores y web
 
 Existiendo excepciones, siendo estás; en los casos que se considere que **NO** existe ninguna otra publicación que lo pueda llegar a sustituir dentro del mundo de habla hispana.
 
-*[Pablo Álvarez Corredera](https://mundoframework.com), Saludos.*
+*[Pablo Álvarez Corredera](https://ciberninjas.com), Saludos.*
 
 
 ___
@@ -211,14 +211,14 @@ Esta escisión se centra en enfocar el proyecto hacía el idioma **español**, f
 
 A fecha 12 del 12 de 2.018 el proyecto se amplía; enfocado en crear el mayor repositorio de contenidos libres de habla hispana disponible a través de internet, desde un único sitio.
 
-*[Pablo Álvarez Corredera](https://mundoframework.com), Saludos.*
+*[Pablo Álvarez Corredera](https://ciberninjas.com), Saludos.*
 
 
 ---
 
 ## **Licencia**
 
-Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://mundoframework.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su posible participación anterior; que es el punto de partida de todo lo encontrado aquí.
+Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su posible participación anterior; que es el punto de partida de todo lo encontrado aquí.
 
 Alentar a toda la Comunidad Hispana que prosiga generando tan buen contenido como el existente, de aquí en adelante. Mi mayor ánimo y apoyo; me gustaría enviarles a todos los creadores de contenidos Creative Commons mi mayor caluroso agradecimiento por todo los grandes aportes a la educación y saber de este mundo global.
 
