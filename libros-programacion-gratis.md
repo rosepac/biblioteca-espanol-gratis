@@ -479,7 +479,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 #### Redis
 
-* [Redis: Un pequeño libro](http://raulexposito.com/documentos/redis/redis.pdf) (PDF)
+* [Redis: Un pequeño libro](https://raulexposito.com/assets/pdf/redis.pdf) (PDF)
 
 
 ### PHP
