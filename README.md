@@ -1,4 +1,4 @@
-# Biblioteca de recursos de aprendizaje de programación
+# Biblioteca de Recursos para Aprender y Estudiar
 
 [![](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas)
 [![](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/rosepac21)
@@ -6,11 +6,9 @@
 ![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 [![](https://img.shields.io/badge/tweet-env%C3%ADame-blue.svg?style=flat-square)](http://twitter.com/home?status=https://github.com/rosepac/biblioteca-espanol-gratis)
-
-
 ___
 
-## **Introducción**
+## Introducción
 
 Estas listas son una idea surgida en Abril de 2017, derivada de una pequeña escisión del contenido primario generado en su mayoría por mí; sobre el recopilatorio de [Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); donde por ejemplo, el apartado de Cursos en Español, ni tan siquiera existía.
 
@@ -18,22 +16,21 @@ El proyecto está basado en la recopilación de cursos, libros, marcadores y web
 
 Existiendo excepciones, siendo estás; en los casos que se considere que **NO** existe ninguna otra publicación que lo pueda llegar a sustituir dentro del mundo de habla hispana.
 
-*[Pablo Álvarez Corredera](https://ciberninjas.com), Saludos.*
-
+*[Pablo Álvarez Corredera](https://ciberninjas.com)*, Saludos.
 
 ___
 
 ## Contribuir & Compartir
 
 ### Contribuciones
+
 Por favor, si deseas colaborar existen dos formas de hacerlo:
 
-1. La primera es colaborando. Si te consideras capaz (tod@s lo somos) agregando recursos directamente; de lo que estaré, absolutamente encantado. 
+1. La primera es colaborando. Agrega tu curso, libro o web siempre y cuando sean de contenido Creative Commons o libres de licencias; y sean contenidos de calidad.
 
-Primero debes leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente) y además debes tener en cuenta que debes utilizar [Travis CI](https://travis-ci.org/) [![Build Status](https://travis-ci.org/rosepac/biblioteca-espanol-gratis.svg?branch=master)](https://travis-ci.org/rosepac/biblioteca-espanol-gratis) como *tester* antes de realizar cualquier contribución final mediante tus *pull request*.
+Primero debes leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente).
 
-2. La segunda es realizar una pequeña [donación](https://paypal.me/mundoframework) que impulse a mi corazón a recobrar ganas y fuerzas por seguir haciendo que esta interesante y compleja recopilación no deje de crecer aunque pase por leves periodos de altibajos en los que personalmente no pueda regalarle el tiempo necesario.
-
+1. La segunda es realizar una pequeña [donación](https://paypal.me/ciberninjas) que impulse a mi corazón a recobrar ganas y fuerzas por seguir haciendo que esta interesante y compleja recopilación no deje de crecer aunque pase por leves periodos de altibajos en los que personalmente no pueda regalarle el tiempo necesario.
 
 ___
 
@@ -41,7 +38,6 @@ ___
 
 + [Pulsa aquí y ayúdame a compartir toda esta información a través de Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/rosepac/biblioteca-espanol-gratis&p[images][0]=&p[title]=rosepac&p[summary]=)
 + [Pulsa aquí y ayúdame a compartir toda esta información a través de LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/rosepac/biblioteca-espanol-gratis&title=rosepac&summary=&source=)
-
 
 ___
 
@@ -203,7 +199,7 @@ ___
 
 ___
 
-## **Historia**
+## Historia
 
 Esta lista es una idea surgida en Mayo de 2017; tras conocer el proyecto original de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el cual fue iniciado por Victor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org). El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo ello en el existía un enorme deficit de contenido en español.
 
@@ -216,7 +212,7 @@ A fecha 12 del 12 de 2.018 el proyecto se amplía; enfocado en crear el mayor re
 
 ---
 
-## **Licencia**
+## Licencia
 
 Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su posible participación anterior; que es el punto de partida de todo lo encontrado aquí.
 
