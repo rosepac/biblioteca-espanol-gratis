@@ -1,7 +1,6 @@
-## Acuerdo de licencia del contribuyente
+# Acuerdo de licencia del contribuyente
 
-Al contribuir, aceptas la [LICENCIA](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/LICENCIA.txt) del repositorio.
-
+Al contribuir, aceptas la [LICENCIA](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/LICENSE.MD) del repositorio.
 
 ## Brevemente
 

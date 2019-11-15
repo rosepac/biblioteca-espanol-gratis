@@ -10,6 +10,8 @@ ___
 
 ## Introducción
 
+Noviembre de 2019, el proyecto pasa a ser enlazado junto a la página de Ciberninjas. Ganando así, una mayor libertad de creación y uso por mi parte. Seguiré dejando el índice principal por temática desde aquí para las personas a las que no les guste la nueva gestión visual a través de emojis agregada dentro de la página.
+
 Estas listas son una idea surgida en Abril de 2017, derivada de una pequeña escisión del contenido primario generado en su mayoría por mí; sobre el recopilatorio de [Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); donde por ejemplo, el apartado de Cursos en Español, ni tan siquiera existía.
 
 El proyecto está basado en la recopilación de cursos, libros, marcadores y web´s de interés bajo licencias libres con el único condicionante de que debe estar enfocado hacía los individuos de habla hispana, ósea; estar en **español**.
@@ -20,30 +22,33 @@ Existiendo excepciones, siendo estás; en los casos que se considere que **NO** 
 
 ___
 
-## Contribuir & Compartir
+## Contribuir & Redes Sociales
 
-### Contribuciones
+### Contribuir
 
-Por favor, si deseas colaborar existen dos formas de hacerlo:
+Por favor, si deseas contribuir existen dos formas de hacerlo:
 
-1. La primera es colaborando. Agrega tu curso, libro o web siempre y cuando sean de contenido Creative Commons o libres de licencias; y sean contenidos de calidad.
+1. Colabora, es posible agrega tu recurso, libro, página web o cualquier otro aporte; siempre y cuando sean de contenido libres / Creative Commons de licencia; y a poder ser no muy llenos de publicidad externa.
 
-Primero debes leer las normas de [contribución](/contribucion.md#acuerdo-de-licencia-del-contribuyente).
-
-1. La segunda es realizar una pequeña [donación](https://paypal.me/ciberninjas) que impulse a mi corazón a recobrar ganas y fuerzas por seguir haciendo que esta interesante y compleja recopilación no deje de crecer aunque pase por leves periodos de altibajos en los que personalmente no pueda regalarle el tiempo necesario.
+2. Dona, a través de una pequeña [donación](https://paypal.me/ciberninjas) o grande -guiño, guiño- que impulse al gatito hipster a recobrar las fuerzas necesarias.
 
 ___
 
-### Compartir
+### Redes Sociales
 
-+ [Pulsa aquí y ayúdame a compartir toda esta información a través de Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/rosepac/biblioteca-espanol-gratis&p[images][0]=&p[title]=rosepac&p[summary]=)
-+ [Pulsa aquí y ayúdame a compartir toda esta información a través de LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/rosepac/biblioteca-espanol-gratis&title=rosepac&summary=&source=)
+Sígueme a través de las Redes Sociales y no te olvides de Compartir con tu familia, amigos, compañeros de trabajo, del bar
 
+¡Difunde por cualquier parte!
+
+Haz que corra la voz para hacer de este repositorio el mejor del idioma español! 😼
+
+Mis Redes Sociales:
++ [Twitter](https://kutt.it/ciberninjast)
 ___
 
-## **Índice Global**
+## Índice Global
 
-+ [Biblioteca](/biblioteca.md) ***POR CREAR*** :construction: **-documento de libros, novelas y revistas bajo derechos libres-**
++ [Literatura: Novelas y Poesía](/biblioteca.md) ***POR CREAR*** :construction: **-documento de libros, novelas y revistas bajo derechos libres-**
 + [Libros de Programación (+ 150 libros)](/libros-programacion-gratis.md#Índice)
 + [Libros de Programación en Gitbook (37 libros)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-espa%C3%B1ol--)
 + [Cursos de Animación & Diseño (+ 181 cursos)](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice)
@@ -106,7 +111,6 @@ ___
 + [SVG](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#svg)
 + [TeX & LaTeX](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#tex--latex)
 
-
 ### Cursos de programación en línea gratis
 
 + [Android](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#android)
@@ -130,7 +134,6 @@ ___
 + [Videojuegos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#videojuegos)
 + [Web & Webmaster](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#web--webmaster)
 
-
 ### Cursos de animación y diseño
 
 + [Animación & 3D](/cursos-animacion-y-diseno.md#animaci%C3%B3n--3d)
@@ -143,7 +146,6 @@ ___
 + [Fotografía](/cursos-animacion-y-diseno.md#fotograf&#x00ED;a)
 + [Sonido](/cursos-animacion-y-diseno.md#sonido)
 + [Vídeo](/cursos-animacion-y-diseno.md#v&#x00ED;deo)
-
 
 ### Cursos de otras temáticas en línea gratis
 
@@ -179,11 +181,10 @@ ___
 + [Servicios Sociales](/cursos-otras-tematicas-gratis.md#servicios-sociales)
 + [Software Educativo](/cursos-otras-tematicas-gratis.md#software-educativo)
 
-
 ___
 
 ## Desarrollo Front-End Framework´s, Librerías & Recursos Freebies
- 
+
 + [Desarrollo Front-End Recopilación de Librerías Útiles](/librerias-front-end.md)
 
 
@@ -196,7 +197,6 @@ ___
 
 + Los podcasts sobre programación o tecnología en español, ¿son inexistentes?
 
-
 ___
 
 ## Historia
@@ -208,7 +208,6 @@ Esta escisión se centra en enfocar el proyecto hacía el idioma **español**, f
 A fecha 12 del 12 de 2.018 el proyecto se amplía; enfocado en crear el mayor repositorio de contenidos libres de habla hispana disponible a través de internet, desde un único sitio.
 
 *[Pablo Álvarez Corredera](https://ciberninjas.com), Saludos.*
-
 
 ---
 
