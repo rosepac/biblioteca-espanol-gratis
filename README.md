@@ -1,12 +1,16 @@
 # Biblioteca de Recursos para Aprender y Estudiar
 
-[![](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas)
-[![](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/cibercursos)
-[![](https://img.shields.io/badge/created-octubre%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
-![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
-![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
-[![](https://img.shields.io/badge/tweet-env%C3%ADame-blue.svg?style=flat-square)](http://twitter.com/home?status=https://github.com/rosepac/biblioteca-espanol-gratis)
+[![Donación](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
+[![Facebook Cibercursos](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/cibercursos)
+[![Fecha de Creación del repositorio biblioteca en español de Github](https://img.shields.io/badge/created-abril%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
+![Forks del repositorio](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
+![Estrellas de Github del Repositorio](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ___
+
+## Índice
+
++ [Introducción](https://github.com/rosepac/biblioteca-espanol-gratis#introducci%C3%B3n)
++ [Contribuir & Redes Sociales](#contribuir--redes-sociales)
 
 ## Introducción
 
@@ -16,9 +20,9 @@ Estas listas son una idea surgida en Abril de 2017, derivada de una pequeña esc
 
 El proyecto está basado en la recopilación de cursos, libros, marcadores y web´s de interés bajo licencias libres con el único condicionante de que debe estar enfocado hacía los individuos de habla hispana, ósea; estar en **español**.
 
-Existiendo excepciones, siendo estás; en los casos que se considere que **NO** existe ninguna otra publicación que lo pueda llegar a sustituir dentro del mundo de habla hispana.
+Alentar a toda la Comunidad Hispana que prosiga generando tan buen contenido como el existente, de aquí en adelante. Mi mayor ánimo y apoyo; me gustaría enviarles a todos los creadores de contenidos Creative Commons mi mayor caluroso agradecimiento por todo los grandes aportes a la educación y saber de este mundo global.
 
-*[Pablo Álvarez Corredera](https://ciberninjas.com)*, Saludos.
+**Un Fuerte Abrazo**: [Pablo Álvarez Corredera](https://ciberninjas.com)
 
 ___
 
@@ -38,12 +42,12 @@ ___
 
 Sígueme a través de las Redes Sociales y no te olvides de Compartir con tu familia, amigos, compañeros de trabajo, del bar
 
-¡Difunde por cualquier parte!
-
-Haz que corra la voz para hacer de este repositorio el mejor del idioma español! 😼
+¡Difunde por cualquier parte! Haz que corra la voz para hacer de este repositorio el mejor del idioma español 😼
 
 Mis Redes Sociales:
+
 + [Twitter](https://kutt.it/ciberninjast)
+
 ___
 
 ## Índice Global
@@ -58,7 +62,7 @@ ___
 
 ___
 
-## **Índice Extendido por Contenidos**
+## Índice Extendido de Libros de Tecnología
 
 ### Libros de Programación
 
@@ -95,21 +99,23 @@ ___
 + [Linux](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#linux)
 + [.NET](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#net-c--visual-studio)
 + [NoSql](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#nosql)
-    + [MongoDB](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#mongodb)
-    + [Redis](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#redis)
+  + [MongoDB](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#mongodb)
+  + [Redis](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#redis)
 + [Perl](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#perl)
 + [PHP](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#php)
 + [Python](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#python)
-    + [Django](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#django)
-    + [Web2Py](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#web2py)
+  + [Django](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#django)
+  + [Web2Py](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#web2py)
 + [R](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#r)
 + [Ruby](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ruby)
-    + [Ruby on Rails](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ruby-on-rails)
+  + [Ruby on Rails](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#ruby-on-rails)
 + [Scala](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#scala)
 + [Scratch](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#scratch)
 + [SQL](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sql)
 + [SVG](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#svg)
 + [TeX & LaTeX](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#tex--latex)
+
+## Índice Extendido de Cursos de Tecnología
 
 ### Cursos de programación en línea gratis
 
@@ -134,6 +140,8 @@ ___
 + [Videojuegos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#videojuegos)
 + [Web & Webmaster](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#web--webmaster)
 
+## Índice Extendido de Cursos de Animación y Diseño
+
 ### Cursos de animación y diseño
 
 + [Animación & 3D](/cursos-animacion-y-diseno.md#animaci%C3%B3n--3d)
@@ -147,7 +155,9 @@ ___
 + [Sonido](/cursos-animacion-y-diseno.md#sonido)
 + [Vídeo](/cursos-animacion-y-diseno.md#v&#x00ED;deo)
 
-### Cursos de otras temáticas en línea gratis
+## Índice Extendido de Cursos de Temáticas Variadas
+
+### Cursos de Diferentes Temáticas en Línea Gratis
 
 + [Agricultura](/cursos-otras-tematicas-gratis.md#agricultura)
 + [Albañilería](/cursos-otras-tematicas-gratis.md#alba%C3%B1iler%C3%ADa)
@@ -183,38 +193,46 @@ ___
 
 ___
 
-## Desarrollo Front-End Framework´s, Librerías & Recursos Freebies
+### Recursos Gratuitos
+
+## Desarrollo Front-End Framework´s, Librerías
 
 + [Desarrollo Front-End Recopilación de Librerías Útiles](/librerias-front-end.md)
-
 
 ## Recursos de Framework´s  de JavaScript
 
 + [Framework´s JavaScript](/recursos-frameworks-javascript.md#angularjs)
 
-
 ## Podcast - Screencast
 
-+ Los podcasts sobre programación o tecnología en español, ¿son inexistentes?
++ Los podcasts sobre programación o tecnología en español, ¿son inexistentes? Ayúdame a encontrarlos..
 
 ___
 
 ## Historia
 
-Esta lista es una idea surgida en Mayo de 2017; tras conocer el proyecto original de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el cual fue iniciado por Victor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org). El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo ello en el existía un enorme deficit de contenido en español.
+### 2019
+
+El proyecto es ampliado y cruzado con la página [Ciberninjas](https://ciberninjas.com) en post de facilitar su mantenimiento desde un único lugar y ofreciendome así, una mayor funcionalidad.
+
+Se implementan iconos correspondientes a las diferentes temáticas y se recogen los videotutoriales dentro de la propia página.
+
+Se implementan otros contenidos de aprendizaje básico.
+
+### 2018
+
+A fecha 12 de Diciembre de 2.018 el proyecto se amplía. Abriendo el repositorio de contenidos tecnológicos hacía otras temáticas, siempre enfocado en unificar los numerosos contenidos de aprendizaje libres y de habla hispana disponibles a través de todo internet.
+
+### 2017
+
+Esta biblioteca es un cumulo de repositorios surgidos en Abril / Mayo de 2017 a raíz de encontrar un enorme vacío de recursos de habla hispana dentro del proyecto de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el que fue iniciado por Víctor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org) y todos los usuarios que han ofrecido aportes al mismo. El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo ello en el existía un enorme déficit de contenido en español.
 
 Esta escisión se centra en enfocar el proyecto hacía el idioma **español**, facilitando recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de las nuevas tecnologías en general.
 
-A fecha 12 del 12 de 2.018 el proyecto se amplía; enfocado en crear el mayor repositorio de contenidos libres de habla hispana disponible a través de internet, desde un único sitio.
-
-*[Pablo Álvarez Corredera](https://ciberninjas.com), Saludos.*
-
----
+___
 
 ## Licencia
 
-Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su posible participación anterior; que es el punto de partida de todo lo encontrado aquí.
+Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su participación anterior.
 
-Alentar a toda la Comunidad Hispana que prosiga generando tan buen contenido como el existente, de aquí en adelante. Mi mayor ánimo y apoyo; me gustaría enviarles a todos los creadores de contenidos Creative Commons mi mayor caluroso agradecimiento por todo los grandes aportes a la educación y saber de este mundo global.
-
-La licencia de este proyecto es [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES) por lo que deberás reconocer la autoría del mismo además de crear un enlace al mismo; siempre que desees compartir, re editar, vender o sea lo que quiera que desees hacer con él. :)
+La licencia de este proyecto es [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES) por lo que deberás reconocer la autoría del mismo además de crear un enlace al mismo; siempre que desees compartir, re editar, vender o sea lo que quiera que desees hacer con él. 😻
