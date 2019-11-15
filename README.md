@@ -1,7 +1,7 @@
 # Biblioteca de Recursos para Aprender y Estudiar
 
 [![](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas)
-[![](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/rosepac21)
+[![](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/cibercursos)
 [![](https://img.shields.io/badge/created-octubre%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
 ![](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ![](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
