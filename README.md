@@ -25,13 +25,14 @@ El proyecto está basado en la recopilación de cursos, libros, marcadores y web
 
 Desde aquí, alentar y **AGRADECER** con mi más sincero **APLAUSO** a toda la Comunidad Hispana que prosigue generando tan buen contenido bajo licencias de Creative Commons como el existente aquí.
 
-**Un Fuerte Abrazo, del Ciberninja Mayor**: [Pablo Álvarez Corredera](https://ciberninjas.com "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera") 🐱‍🏍
+**Un Fuerte Abrazo, del Ciberninja Mayor**: [Pablo Álvarez Corredera](https://kutt.it/ciberninjas "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera") 🐱‍🏍
 
 ## Redes Sociales
 
-+ [Únete a Nuestra Comunidad de Facebook](https://kutt.it/comunidad "Comunidad en Facebook de Ciberninjas")
-+ [Sigue las Noticias de Última Hora en Twitter](https://kutt.it/ciberninjast "Redirecciona al Twitter Oficial de Ciberninjas")
-+ [Encuentra los Últimos Cursos a través de Cibercursos](https://kutt.it/cibercursos "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
++ [Conoce nuestra web de Ciberninjas](https://kutt.it/ciberninjas "Página Ciberninjas, entra y encuentra todo lo que necesitas para programar, desarrollar y diseñar)
++ Únete a Nuestra [Comunidad de Facebook](https://kutt.it/comunidad "Comunidad en Facebook de Ciberninjas") o [Instagram](https://kutt.it/instagram_cn)
++ [Sigue las Noticias en Twitter](https://kutt.it/ciberninjast "Redirecciona al Twitter Oficial de Ciberninjas")
++ Encuentra los Últimos Cursos publicados  y algunas gracias tecnológicas en [Cibercursos](https://kutt.it/cibercursos "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
 
 ## Contribuir
 
@@ -39,9 +40,9 @@ Vista la nula aportación al repositorio durante todo el tiempo de su existencia
 
 Solamente recordar que **los recursos**, deben contener información libre / gratuita o bajo licencia de Creative Commons, MIT u similar. En el caso de las páginas web o guías online, **NO deben contener abusiva publicidad**.
 
-El otro medio de contribución, es mediante la donación; porque triste es pedir, pero más triste es robar..
+El otro medio de contribución, es mediante la donación; **porque triste es pedir, pero más triste es robar** 😹
 
-Si te gusta recibir el gran regalo de este repositorio y deseas que siga actualizándose puedes apoyarme a través de una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") o grande -guiño, guiño- eso ya depende de tu deseo y posibilidades.
+Si te ha gustado encontrar este repositorio y deseas que siga actualizándose puedes apoyarme a través de una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") o grande -guiño, guiño- eso ya depende de tu deseo y posibilidades.
 
 ___
 
@@ -54,7 +55,7 @@ ___
 + [Bibliotecas Gratis 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-novela-poesia.md#bibliotecas-web)
 
 <!-- + [Páginas de Programación](/paginas-programacion.md#index) -->
-
+[🔝 Regresar al Inicio](#índice)
 ___
 
 ## Índice Extendido
@@ -62,9 +63,11 @@ ___
 A continuación enlaces por secciones a los diferentes índices extendidos existentes.
 
 + [Cursos de Programación](#cursos-de-programaci%C3%B3n-y-tecnología-)
-    + [Desarrollo Web](#cursos-de-programaci%C3%B3n-online-gratis)
-    + [Lenguajes de Programación]
+    + [Desarrollo Web](#-desarrollo-web-cursos--ir-a-la-sección)
+    + [Lenguajes de Programación](#-lenguajes-de-programación-cursos--ir-a-la-sección)
 + [Cursos de Otras Tecnologías](#-desarrollo-web--ir-a-la-sección)
+
+[⬆ Regresar al Índice Global](#índice-global) [🔝 Regresar al Inicio](#índice) 
 
 ## Cursos de Programación y Tecnología 🚀 
 
@@ -85,7 +88,23 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Software](https://ciberninjas.com/cursos-tecnologia/#software)
     + [Editores de Código](https://ciberninjas.com/cursos-tecnologia/#editores-de-c%C3%B3digo)
 
-[⬆ Regresar al Índice Extendido](#índice-extendido)
+[⬆ Regresar al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice) 
+
+## 👨‍🎨 Diseño Web > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-dise%C3%B1o-web)
+
+* [Bootstrap](https://ciberninjas.com/cursos-tecnologia/#bootstrap-)
+* [Dreamweaver](https://ciberninjas.com/cursos-tecnologia/#dreamweaver-)
+* [Lenguajes de Estilos y Preprocesadores](https://ciberninjas.com//cursos-tecnologia/#lenguajes-de-estilos-y-preprocesadores-)
+    * [CSS 3](https://ciberninjas.com/cursos-tecnologia/#css-)
+    * [Flexbox](https://ciberninjas.com/cursos-tecnologia/#flexbox)
+    * [Less](https://ciberninjas.com/cursos-tecnologia/#less-)
+    * [Sass](https://ciberninjas.com/cursos-tecnologia/#sass-)
+* [Lenguajes de Marcado](https://ciberninjas.com/cursos-tecnologia/#lenguajes-de-marcado-)
+    * [HTML](https://ciberninjas.com/cursos-tecnologia/#html--y-css-) \ Suele incluir también contenidos de CSS.
+    * [Markdown](https://ciberninjas.com/cursos-tecnologia/#markdown-)
+    * [XML](https://ciberninjas.com/cursos-tecnologia/#xml)
+    * [Polymer](https://ciberninjas.com/cursos-tecnologia/#polymer)
+* [Sistemas de Plantillas](https://ciberninjas.com/cursos-tecnologia/#sistemas-de-plantillas-)
 
 ## 👨‍💻 Lenguajes de Programación Cursos > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
@@ -117,9 +136,9 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Ruby Frameworks](https://ciberninjas.com/cursos-tecnologia/#ruby-frameworks-)
     + [Ruby and Rails](https://ciberninjas.com/cursos-tecnologia/#ruby-and-rails)
 
-[⬆ Subir al Índice Extendido](#índice-extendido)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice) 
 
-## 👩‍🎓 Cursos de Otras Tecnologías
+## 👩‍🎓 Otras Tecnologías
 
 + [Meta-Listas](https://ciberninjas.com/cursos-tecnologia/#-meta-listas)
 + [Bases de Datos](https://ciberninjas.com/cursos-tecnologia/#-bases-de-datos)
@@ -145,6 +164,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
     + [Estudiar](https://ciberninjas.com/cursos-tecnologia/#estudiar-)
 + [Ofimática](https://ciberninjas.com/cursos-tecnologia/#-ofim%C3%A1tica)
 + [Procesadores de Lenguaje](https://ciberninjas.com/cursos-tecnologia/#procesadores-de-lenguaje)
++ [Programación de Videojuegos](https://ciberninjas.com/cursos-tecnologia/#-programaci%C3%B3n-de-videojuegos)
 + [Programación Infantil](https://ciberninjas.com/cursos-tecnologia/#-programaci%C3%B3n-infantil)
     + [App Inventor](https://ciberninjas.com/cursos-tecnologia/#app-inventor)
     + [Scratch](https://ciberninjas.com/cursos-tecnologia/#scratch-)
@@ -158,7 +178,6 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Seguridad](https://ciberninjas.com/cursos-tecnologia/#%EF%B8%8F-seguridad)
 + [Servidores y Servicios Nube](https://ciberninjas.com/cursos-tecnologia/#-servidores-y-servicios-en-nube)
 + [Técnico de Software & Hardware](https://ciberninjas.com/cursos-tecnologia/#-t%C3%A9cnico-de-software--hardware)
-+ [Programación de Videojuegos](https://ciberninjas.com/cursos-tecnologia/#-programaci%C3%B3n-de-videojuegos)
 + [Webmaster](https://ciberninjas.com/cursos-tecnologia/#%EF%B8%8F-webmaster)
     + [Accesibilidad Web](https://ciberninjas.com/cursos-tecnologia/#accesibilidad-web-)
     + [Análitica Web](https://ciberninjas.com/cursos-tecnologia/#an%C3%A1litica-web-)
@@ -175,7 +194,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
         + [Moodle](https://ciberninjas.com/cursos-tecnologia/#moodle)
         + [Wordpress](https://ciberninjas.com/cursos-tecnologia/#wordpress-)
 
-[⬆ Subir al Índice Extendido](#índice-extendido)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
 
 ## Libros de Programación y Tecnología 👩‍🚀
 
@@ -217,6 +236,8 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
  + [C](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c)
  + [C++](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c-1)
 
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+
 ## Libros de Otras Tecnologías
 
 + [Meta-Listas](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-meta-listas)
@@ -245,6 +266,8 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Servicios en red](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#servicios-en-red)
 + [Sistemas Operativos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sistemas-operativos)
 
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+
 ---
 
 ## Índice Extendido de Cursos de Animación y Diseño
@@ -263,6 +286,8 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Fotografía](https://ciberninjas.com/cursos-animacion-diseno/#fotograf%C3%ADa)
 + [Sonido](https://ciberninjas.com/cursos-animacion-diseno/#sonido)
 + [Vídeo](https://ciberninjas.com/cursos-animacion-diseno/#v%C3%ADdeo)
+
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
 
 ## Índice Extendido de Cursos de Temáticas Variadas
 
@@ -300,6 +325,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Servicios Sociales](https://ciberninjas.com/cursos-otras-tematicas/#servicios-sociales)
 + [Software Educativo](https://ciberninjas.com/cursos-otras-tematicas/#software-educativo)
 
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
 ___
 
 ### Recursos Gratuitos
