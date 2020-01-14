@@ -1,0 +1,3 @@
+* El repositorio se encuentra bajo [Licencia de Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES) esto es un resumen de licencia completa que podrás [leer aquí](https://creativecommons.org/licenses/by/4.0/legalcode.es).
+
+* Si desea reutilizar contenidos del propio repositorio Usted debe reconocer la autoría del mismo además de mantener las posibles creaciones derivadas del misma licencia bajo la misma licencia.
