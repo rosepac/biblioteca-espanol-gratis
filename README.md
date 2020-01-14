@@ -13,6 +13,7 @@ ___
 + [Sígueme](#redes-sociales)
 + [Contribuir](#contribuir)
 + [Índice Global](#índice-global)
++ [Índice Extendido](#índice-extendido)
 
 ## Introducción
 
@@ -58,15 +59,16 @@ ___
 
 ## Índice Extendido
 
-A continuación vas a encontrar el enlace hacía cada sección concreta tanto respecto a los cursos como a los libros.
+A continuación enlaces por secciones a los diferentes índices extendidos existentes.
 
 + [Cursos de Programación](#cursos-de-programaci%C3%B3n-online-gratis)
     + [Desarrollo Web](#cursos-de-programaci%C3%B3n-online-gratis)
     + [Lenguajes de Programación]
++ [Cursos de Otras Tecnologías](#-desarrollo-web--ir-a-la-sección)
 
 ### Cursos de Programación Online Gratis
 
-## 👩‍💻 Desarrollo Web > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
+## 👩‍💻 > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
 
 + [Android](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#android-)
     + [Flutter](https://ciberninjas.com/cursos-tecnologia/#flutter)
@@ -83,9 +85,11 @@ A continuación vas a encontrar el enlace hacía cada sección concreta tanto re
 + [Software](https://ciberninjas.com/cursos-tecnologia/#software)
     + [Editores de Código](https://ciberninjas.com/cursos-tecnologia/#editores-de-c%C3%B3digo)
 
+[⬆ Subir al Índice Extendido](#índice-extendido)
+
 ### Cursos de Lenguajes de Programación Online Gratis
 
-## 👨‍💻 Lenguajes de Programación > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
+## 👨‍💻 > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
 + [C, C#, C++](https://ciberninjas.com/cursos-tecnologia/#c-c-c)
 + [Dart](https://ciberninjas.com/cursos-tecnologia/#dart)
@@ -99,7 +103,7 @@ A continuación vas a encontrar el enlace hacía cada sección concreta tanto re
     + [Struts](https://ciberninjas.com/cursos-tecnologia/#struts)
 + [Javascript](https://ciberninjas.com/cursos-tecnologia/#javascript)
 + [Javascript Frameworks](https://ciberninjas.com/cursos-tecnologia/#javascript)
-    + [Visitar Sección Desarrollo Web](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web) allí podrás encontrar lo relacionado a [Angular](https://ciberninjas.com/cursos-tecnologia/#angular), [React](https://ciberninjas.com/cursos-tecnologia/#react-), [Vue](https://ciberninjas.com/cursos-tecnologia/#vue), NodeJS, JQuery y otros frameworks creados con Javascript.
+    + Visitar Sección de [Desarrollo Web](#-desarrollo-web--ir-a-la-sección) allí podrás encontrar lo relacionado a [Angular](https://ciberninjas.com/cursos-tecnologia/#angular), [React](https://ciberninjas.com/cursos-tecnologia/#react-), [Vue](https://ciberninjas.com/cursos-tecnologia/#vue), NodeJS, JQuery y otros frameworks creados con Javascript.
 + [Kotlin](https://ciberninjas.com/cursos-tecnologia/#kotlin)
 + [Perl](https://ciberninjas.com/cursos-tecnologia/#perl)
 + [PHP](https://ciberninjas.com/cursos-tecnologia/#php-)
@@ -115,7 +119,9 @@ A continuación vas a encontrar el enlace hacía cada sección concreta tanto re
 + [Ruby Frameworks](https://ciberninjas.com/cursos-tecnologia/#ruby-frameworks-)
     + [Ruby and Rails](https://ciberninjas.com/cursos-tecnologia/#ruby-and-rails)
 
-## Otras Tecnologías
+[⬆ Subir al Índice Extendido](#índice-extendido)
+
+## Cursos de Otras Tecnologías
 
 + [Meta-Listas](https://ciberninjas.com/cursos-tecnologia/#-meta-listas)
 + [Bases de Datos](https://ciberninjas.com/cursos-tecnologia/#-bases-de-datos)
@@ -170,6 +176,8 @@ A continuación vas a encontrar el enlace hacía cada sección concreta tanto re
         + [Joomla](https://ciberninjas.com/cursos-tecnologia/#joomla)
         + [Moodle](https://ciberninjas.com/cursos-tecnologia/#moodle)
         + [Wordpress](https://ciberninjas.com/cursos-tecnologia/#wordpress-)
+
+[⬆ Subir al Índice Extendido](#índice-extendido)
 
 ## Índice Extendido de Libros de Tecnología
 
