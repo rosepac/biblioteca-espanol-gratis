@@ -1,4 +1,4 @@
-# Biblioteca de Recursos para Aprender y Estudiar
+# Recursos de Programación y Tecnología
 
 [![Donación](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
 [![Facebook Cibercursos](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/cibercursos)
@@ -12,7 +12,7 @@ ___
 + [Introducción](#introducci%C3%B3n)
 + [Sígueme](#redes-sociales)
 + [Contribuir](#contribuir)
-+ [Introducción](#introducci%C3%B3n)
++ [Índice Global](#índice-global)
 
 ## Introducción
 
@@ -24,7 +24,7 @@ El proyecto está basado en la recopilación de cursos, libros, marcadores y web
 
 Desde aquí, alentar y **AGRADECER** con mi más sincero **APLAUSO** a toda la Comunidad Hispana que prosigue generando tan buen contenido bajo licencias de Creative Commons como el existente aquí.
 
-**Un Fuerte Abrazo, de el Ciberninja Mayor**: [Pablo Álvarez Corredera](https://ciberninjas.com "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera") 🐱‍🏍
+**Un Fuerte Abrazo, del Ciberninja Mayor**: [Pablo Álvarez Corredera](https://ciberninjas.com "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera") 🐱‍🏍
 
 ## Redes Sociales
 
@@ -46,12 +46,11 @@ ___
 
 ## Índice Global
 
-+ [Cursos de Programación y Tecnología](https://ciberninjas.com/cursos-tecnologia/)
-+ [Cursos de Animación y Diseño Gráfico](https://ciberninjas.com/cursos-animacion-diseno/)
-+ [Biblioteca de Programación y Tecnología](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/biblioteca-de-programacion-y-tecnologia.md) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/)
-+ [Cursos de Otras Actividades & Profesiones (+ 285 cursos)](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
-
-+ [Biblioteca Gratis: Novela, Poesía y Más](https://ciberninjas.com/biblioteca-novela-poesia/) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-novela-poesia.md#bibliotecas-web)
++ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/#page-title)
++ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/#page-title)
++ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/)
++ [Cursos de Otras Actividades y Profesiones 🚀](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
++ [Bibliotecas Gratis 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-novela-poesia.md#bibliotecas-web)
 
 <!-- + [Páginas de Programación](/paginas-programacion.md#index) -->
 
@@ -61,7 +60,11 @@ ___
 
 A continuación vas a encontrar el enlace hacía cada sección concreta tanto respecto a los cursos como a los libros.
 
-### Cursos de Programación Online gratis
++ [Cursos de Programación](#cursos-de-programaci%C3%B3n-online-gratis)
+    + [Desarrollo Web](#cursos-de-programaci%C3%B3n-online-gratis)
+    + [Lenguajes de Programación]
+
+### Cursos de Programación Online Gratis
 
 ## 👩‍💻 Desarrollo Web > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
 
@@ -79,6 +82,8 @@ A continuación vas a encontrar el enlace hacía cada sección concreta tanto re
 + [Vue](https://ciberninjas.com/cursos-tecnologia/#vue-)
 + [Software](https://ciberninjas.com/cursos-tecnologia/#software)
     + [Editores de Código](https://ciberninjas.com/cursos-tecnologia/#editores-de-c%C3%B3digo)
+
+### Cursos de Lenguajes de Programación Online Gratis
 
 ## 👨‍💻 Lenguajes de Programación > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
