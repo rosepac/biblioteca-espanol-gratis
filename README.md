@@ -61,14 +61,14 @@ ___
 
 A continuación enlaces por secciones a los diferentes índices extendidos existentes.
 
-+ [Cursos de Programación](#cursos-de-programaci%C3%B3n-online-gratis)
++ [Cursos de Programación](#cursos-de-programaci%C3%B3n-y-tecnología-)
     + [Desarrollo Web](#cursos-de-programaci%C3%B3n-online-gratis)
     + [Lenguajes de Programación]
 + [Cursos de Otras Tecnologías](#-desarrollo-web--ir-a-la-sección)
 
-## 🚀 Cursos de Programación y Tecnología
+## Cursos de Programación y Tecnología 🚀 
 
-## 👩‍💻 Desarrollo Web > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
+## 👩‍💻 Desarrollo Web Cursos > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
 
 + [Android](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#android-)
     + [Flutter](https://ciberninjas.com/cursos-tecnologia/#flutter)
@@ -87,9 +87,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 [⬆ Regresar al Índice Extendido](#índice-extendido)
 
-### Cursos de Lenguajes de Programación Online Gratis
-
-## 👨‍💻 Lenguajes de Progrmación > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
+## 👨‍💻 Lenguajes de Programación Cursos > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
 + [C, C#, C++](https://ciberninjas.com/cursos-tecnologia/#c-c-c)
 + [Dart](https://ciberninjas.com/cursos-tecnologia/#dart)
@@ -179,11 +177,9 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 [⬆ Subir al Índice Extendido](#índice-extendido)
 
-## Índice Extendido de Libros de Tecnología
+## Libros de Programación y Tecnología 👩‍🚀
 
-### Libros de Programación
-
-## 👩‍💻 Desarrollo Web > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-desarrollo-web)
+## 👩‍💻 Desarrollo Web Libros > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-desarrollo-web)
 
 + [Android](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#android-)
 + [Docker](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#docker-)
@@ -216,12 +212,12 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Swift](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#swift-)
 + [TeX & LaTeX](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#tex--latex)
 
-## 👨‍💻 Lenguajes de Programación > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programaci%C3%B3n)
+## 👨‍💻 Lenguajes de Programación Libros > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
  + [C](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c)
  + [C++](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c-1)
 
-## Otras Tecnologías
+## Libros de Otras Tecnologías
 
 + [Meta-Listas](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-meta-listas)
     + [Meta-Listas Herramientas](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-meta-listas-herramientas)
