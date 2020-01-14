@@ -49,7 +49,6 @@ ___
 + [Cursos de Programación y Tecnología](https://ciberninjas.com/cursos-tecnologia/)
 + [Cursos de Animación y Diseño Gráfico](https://ciberninjas.com/cursos-animacion-diseno/)
 + [Biblioteca de Programación y Tecnología](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/biblioteca-de-programacion-y-tecnologia.md) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/)
-
 + [Cursos de Otras Actividades & Profesiones (+ 285 cursos)](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
 
 + [Biblioteca Gratis: Novela, Poesía y Más](https://ciberninjas.com/biblioteca-novela-poesia/) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-novela-poesia.md#bibliotecas-web)
@@ -167,8 +166,6 @@ A continuación vas a encontrar el enlace hacía cada sección concreta tanto re
         + [Moodle](https://ciberninjas.com/cursos-tecnologia/#moodle)
         + [Wordpress](https://ciberninjas.com/cursos-tecnologia/#wordpress-)
 
----
-
 ## Índice Extendido de Libros de Tecnología
 
 ### Libros de Programación
@@ -239,6 +236,7 @@ A continuación vas a encontrar el enlace hacía cada sección concreta tanto re
 + [Servicios en red](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#servicios-en-red)
 + [Sistemas Operativos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sistemas-operativos)
 
+---
 
 ## Índice Extendido de Cursos de Animación y Diseño
 
