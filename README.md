@@ -66,9 +66,9 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
     + [Lenguajes de Programación]
 + [Cursos de Otras Tecnologías](#-desarrollo-web--ir-a-la-sección)
 
-### Cursos de Programación Online Gratis
+## 🚀 Cursos de Programación y Tecnología
 
-## 👩‍💻 > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
+## 👩‍💻 Desarrollo Web > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
 
 + [Android](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#android-)
     + [Flutter](https://ciberninjas.com/cursos-tecnologia/#flutter)
@@ -85,11 +85,11 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Software](https://ciberninjas.com/cursos-tecnologia/#software)
     + [Editores de Código](https://ciberninjas.com/cursos-tecnologia/#editores-de-c%C3%B3digo)
 
-[⬆ Subir al Índice Extendido](#índice-extendido)
+[⬆ Regresar al Índice Extendido](#índice-extendido)
 
 ### Cursos de Lenguajes de Programación Online Gratis
 
-## 👨‍💻 > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
+## 👨‍💻 Lenguajes de Progrmación > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
 + [C, C#, C++](https://ciberninjas.com/cursos-tecnologia/#c-c-c)
 + [Dart](https://ciberninjas.com/cursos-tecnologia/#dart)
@@ -121,7 +121,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 [⬆ Subir al Índice Extendido](#índice-extendido)
 
-## Cursos de Otras Tecnologías
+## 👩‍🎓 Cursos de Otras Tecnologías
 
 + [Meta-Listas](https://ciberninjas.com/cursos-tecnologia/#-meta-listas)
 + [Bases de Datos](https://ciberninjas.com/cursos-tecnologia/#-bases-de-datos)
