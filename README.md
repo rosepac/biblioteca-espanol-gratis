@@ -48,10 +48,10 @@ ___
 
 ## Índice Global
 
-+ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/#page-title)
-+ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/#page-title)
-+ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/)
-+ [Cursos de Otras Actividades y Profesiones 🚀](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice)
++ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/cursos-tecnologia.md#-meta-listas)
++ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/cursos-animacion-y-diseno.md#%C3%ADndice)
++ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-de-programacion-y-tecnologia.md#-meta-listas)
++ [Cursos de Otras Actividades y Profesiones 🚀](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice) \ [Editar]()
 + [Bibliotecas Gratis 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-novela-poesia.md#bibliotecas-web)
 
 <!-- + [Páginas de Programación](/paginas-programacion.md#index) -->
