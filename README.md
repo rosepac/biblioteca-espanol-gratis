@@ -190,6 +190,15 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Git](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#git-)
 + [Github](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#github-)
 + [HTML / CSS](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#html--css---)
+
+## 👨‍💻 Lenguajes de Programación Libros > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programaci%C3%B3n)
+
+ + [C](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c)
+ + [C++](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c-1)
++ [Emacs](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#emacs-y-lisp)
++ [Ensamblador](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#ensamblador)
++ [Erlang](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#erlang)
++ [Haskell](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#haskell)
 + [Java](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#java)
 + [JavaScript](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-javascript)
 + [Linux](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#linux-)
@@ -210,15 +219,6 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [SVG](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#svg)
 + [Swift](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#swift-)
 + [TeX & LaTeX](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#tex--latex)
-
-## 👨‍💻 Lenguajes de Programación Libros > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programaci%C3%B3n)
-
- + [C](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c)
- + [C++](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c-1)
-+ [Emacs](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#emacs-y-lisp)
-+ [Ensamblador](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#ensamblador)
-+ [Erlang](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#erlang)
-+ [Haskell](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#haskell)
 
 [🔝 Regresar al Inicio](#índice) [⬆ Subir al Índice Extendido](#índice-extendido)
 
