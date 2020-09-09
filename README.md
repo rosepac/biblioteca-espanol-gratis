@@ -30,27 +30,15 @@ Desde aquí, alentar y **AGRADECER** con mi más sincero **APLAUSO** a toda la C
 + [Conoce nuestra web de Ciberninjas](https://kutt.it/ciberninjas "Página Ciberninjas, entra y encuentra todo lo que necesitas para programar, desarrollar y diseñar")
 + Únete a Nuestra [Comunidad de Facebook](https://kutt.it/comunidad "Comunidad en Facebook de Ciberninjas") o [Instagram](https://kutt.it/instagram_cn)
 + [Sigue las Noticias en Twitter](https://kutt.it/ciberninjast "Redirecciona al Twitter Oficial de Ciberninjas")
-+ Encuentra los Últimos Cursos publicados  y algunas chistes tecnológicos en [Cibercursos](https://kutt.it/cibercursos "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
-
-## Contribuir
-
-Vista la nula aportación al repositorio durante todo el tiempo de su existencia. La fórmula de contribución se reduce a enviarme un correo electrónico con el elemento a incluir en cuestión al correo: [rosepac21@gmail.com](mailto:rosepac21@gmail.com).
-
-Solamente recordar que **los recursos**, deben contener información libre / gratuita o bajo licencia de Creative Commons, MIT u similar. En el caso de las páginas web o guías online, **NO deben contener abusiva publicidad**.
-
-El otro medio de contribución, es mediante la donación; **porque triste es pedir, pero más triste es robar** 😹
-
-Si te ha gustado encontrar este repositorio y deseas que siga actualizándose puedes apoyarme a través de una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") o grande -guiño, guiño- eso ya depende de tu deseo y posibilidades.
-
-___
++ Los Últimos Cursos publicados GRATIS en [Ciberninjas](https://kutt.it/cibercursos "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
 
 ## Índice Global
 
-+ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/cursos-tecnologia.md#-meta-listas)
-+ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/cursos-animacion-y-diseno.md#%C3%ADndice)
-+ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-de-programacion-y-tecnologia.md#-meta-listas)
-+ [Cursos de Otras Actividades y Profesiones 🚀](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/cursos-otras-tematicas-gratis.md#Índice) \ [Editar]()
-+ [Bibliotecas Gratis 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#page-title) \ [Editar](https://github.com/rosepac/ciberninjas/blob/master/_biblioteca/biblioteca-novela-poesia.md#bibliotecas-web)
++ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/#page-title)
++ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/#page-title)
++ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#page-title)
++ [Cursos de Otras Actividades y Profesiones 🚀](https://ciberninjas.com/cursos-otras-tematicas/)
++ [Bibliotecas de libros Clásicos GRATIS 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#bibliotecas-online)
 
 <!-- + [Páginas de Programación](/paginas-programacion.md#index) -->
 [🔝 Regresar al Inicio](#índice)
@@ -362,6 +350,17 @@ Esta biblioteca es un cúmulo de repositorios surgidos en Abril / Mayo de 2017 a
 
 Esta escisión se centra en enfocar el proyecto hacía el idioma **español**, facilitando recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de las nuevas tecnologías en general.
 
+___
+
+## Contribuir
+
+Vista la nula aportación al repositorio durante todo el tiempo de su existencia. La fórmula de contribución se reduce a enviarme un correo electrónico con el elemento a incluir en cuestión al correo: [rosepac21@gmail.com](mailto:rosepac21@gmail.com).
+
+Solamente recordar que **los recursos**, deben contener información libre / gratuita o bajo licencia de Creative Commons, MIT u similar. En el caso de las páginas web o guías online, **NO deben contener abusiva publicidad**.
+
+El otro medio de contribución, es mediante la donación; **porque triste es pedir, pero más triste es robar** 😹
+
+Si te ha gustado encontrar este repositorio y deseas que siga actualizándose puedes apoyarme a través de una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") o grande -guiño, guiño- eso ya depende de tu deseo y posibilidades.
 ___
 
 ## Licencia
