@@ -34,9 +34,9 @@ Desde aquí, alentar y **AGRADECER** con mi más sincero **APLAUSO** a toda la C
 
 ## Índice Global
 
-+ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/#page-title)
-+ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/#page-title)
-+ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#page-title)
++ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/)
++ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/)
++ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/)
 + [Cursos de Otras Actividades y Profesiones 🚀](https://ciberninjas.com/cursos-otras-tematicas/)
 + [Bibliotecas de libros Clásicos GRATIS 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#bibliotecas-online)
 
@@ -55,21 +55,23 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 [🔝 Regresar al Inicio](#índice) [⬆ Regresar al Índice Global](#índice-global)
 
-## Cursos de Programación y Tecnología 🚀 
+## Cursos de Programación y Tecnología 🚀
 
 ## 👩‍💻 Desarrollo Web Cursos > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-desarrollo-web)
 
-+ [Android](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#android-)
-    + [Flutter](https://ciberninjas.com/cursos-tecnologia/#flutter)
-+ [Angular](https://ciberninjas.com/cursos-tecnologia/#angular-)
-+ [Docker](https://ciberninjas.com/cursos-tecnologia/#docker-)
-+ [Ionic](https://ciberninjas.com/cursos-tecnologia/#ionic)
-+ [JQuery](https://ciberninjas.com/cursos-tecnologia/#jquery)
-+ [NodeJS](https://ciberninjas.com/cursos-tecnologia/#node-)
-+ [PhoneGAP - Apache Córdoba](https://ciberninjas.com/cursos-tecnologia/#phonegap-apache-cordoba)
-+ [React](https://ciberninjas.com/cursos-tecnologia/#react-)
-+ [Programación Web](https://ciberninjas.com/cursos-tecnologia/#programaci%C3%B3n-web-)
-+ [Sistemas de ERP](https://ciberninjas.com/cursos-tecnologia/#-sistemas-de-erp)
++ [Android](https://ciberninjas.com/cursos-android/#cursos-gratis-de-android)
+    + [Dart](https://ciberninjas.com/cursos-android/#cursos-gratis-de-dart)
+    + [Kotlin](https://ciberninjas.com/cursos-android/#cursos-gratis-de-kotlin)
+    + [Flutter](https://ciberninjas.com/cursos-android/#cursos-gratis-de-flutter)
++ [Angular](https://ciberninjas.com/cursos-programacion-web-movil/#angular)
++ [Docker](https://ciberninjas.com/cursos-servidores/#docker)
++ [Ionic](https://ciberninjas.com/cursos-programacion-web-movil/#ionic)
++ [JQuery](https://ciberninjas.com/cursos-programacion-web-movil/#jquery)
++ [NodeJS](https://ciberninjas.com/cursos-servidores/#node)
++ [PhoneGAP - Apache Córdoba](https://ciberninjas.com/cursos-programacion-web-movil/#phonegap-apache-cordoba)
++ [React](https://ciberninjas.com/cursos-programacion-web-movil/#react)
++ [Programación Web](https://ciberninjas.com/cursos-programacion-web-movil/#programaci%C3%B3n-web-)
++ [Sistemas de ERP](https://ciberninjas.com/cursos-programacion/#sistemas-de-erp)
 + [Vue](https://ciberninjas.com/cursos-tecnologia/#vue-)
 + [Software](https://ciberninjas.com/cursos-tecnologia/#software)
     + [Editores de Código](https://ciberninjas.com/cursos-tecnologia/#editores-de-c%C3%B3digo)
@@ -95,7 +97,6 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 ## 👨‍💻 Lenguajes de Programación Cursos > [Ir a la Sección](https://ciberninjas.com/cursos-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
 + [C, C#, C++](https://ciberninjas.com/cursos-tecnologia/#c-c-c)
-+ [Dart](https://ciberninjas.com/cursos-tecnologia/#dart)
 + [Ensamblador](https://ciberninjas.com/cursos-tecnologia/#ensamblador)
 + [Go](https://ciberninjas.com/cursos-tecnologia/#go)
 + [Java](https://ciberninjas.com/cursos-tecnologia/#java-)
@@ -107,7 +108,6 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Javascript](https://ciberninjas.com/cursos-tecnologia/#javascript)
 + [Javascript Frameworks](https://ciberninjas.com/cursos-tecnologia/#javascript)
     + Visitar Sección de [Desarrollo Web](#-desarrollo-web--ir-a-la-sección) allí podrás encontrar lo relacionado a [Angular](https://ciberninjas.com/cursos-tecnologia/#angular), [React](https://ciberninjas.com/cursos-tecnologia/#react-), [Vue](https://ciberninjas.com/cursos-tecnologia/#vue), NodeJS, JQuery y otros frameworks creados con Javascript.
-+ [Kotlin](https://ciberninjas.com/cursos-tecnologia/#kotlin)
 + [Perl](https://ciberninjas.com/cursos-tecnologia/#perl)
 + [PHP](https://ciberninjas.com/cursos-tecnologia/#php-)
 + [PHP Frameworks](https://ciberninjas.com/cursos-tecnologia/#php-frameworks-)
