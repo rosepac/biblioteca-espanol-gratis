@@ -252,7 +252,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 [🔝 Regresar al Inicio](#índice) [⬆ Subir al Índice Extendido](#índice-extendido)
 
----
+___
 
 ## Índice Extendido de Cursos de Animación y Diseño
 
@@ -330,6 +330,12 @@ ___
 
 ## Historia
 
+### 2020
+
+Se seccionan los cursos en categorías, se suprimen la mayoría de íconos y se trabaja en ir actualizando los cursos de las diferentes secciones a lo largo del año.
+
+Por lo demás, casi todo el tiempo ha estado dedicada al blog y web de [Ciberninjas](https://ciberninjas.com).
+
 ### 2019
 
 En Noviembre de 2019, el proyecto pasa a ser enlazado junto a la página de [Ciberninjas](https://kutt.it/ciberninjas "Página web de Recursos de Programación: Ciberninjas"). Ganando así, una mayor libertad de creación y uso por mi parte. Seguiré dejando el índice principal por temática desde aquí para las personas a las que no les guste la nueva gestión visual a través de emojis sumada dentro de la página.
@@ -361,8 +367,6 @@ El otro medio de contribución, es mediante la donación; **porque triste es ped
 Si te ha gustado encontrar este repositorio y deseas que siga actualizándose puedes apoyarme a través de una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") o grande -guiño, guiño- eso ya depende de tu deseo y posibilidades.
 ___
 
-## Licencia
+## Autoría
 
-Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com) el que agradece de todo corazón a los contribuidores de [Libros de Programación en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) su participación anterior.
-
-La licencia de este proyecto es [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES) por lo que deberás reconocer la autoría del mismo además de crear un enlace al mismo; siempre que desees compartir, re editar, vender o sea lo que quiera que desees hacer con él. 😻
+Este repositorio ha sido creado por **el asturiano [Pablo Álvarez Corredera**](https://ciberninjas.com/quien-soy/) al que también se le puede encontrar bajo **el nickname de ROSEPAC**.
