@@ -350,7 +350,11 @@ A fecha 12 de Diciembre de 2.018 el proyecto se amplía. Abriendo el repositorio
 
 ### 2017
 
-Esta biblioteca es un cúmulo de repositorios surgidos en Abril / Mayo de 2017 a raíz de encontrar un enorme vacío de recursos de habla hispana dentro del proyecto de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books); el que fue iniciado por Víctor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org) y todos los usuarios que han ofrecido aportes al mismo. El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo ello en el existía un enorme déficit de contenido en español.
+Esta biblioteca es un cúmulo de repositorios surgidos en Abril / Mayo de 2017 a raíz de encontrar un enorme vacío de recursos de habla hispana dentro del proyecto de [Github - Free Programming-Books](https://github.com/EbookFoundation/free-programming-books).
+
+Ese repositorio fue iniciado por Víctor Felder, y actualmente es mantenido por la [Free Ebook Foundation](https://ebookfoundation.org) y todos los usuarios que han ofrecido aportes al mismo.
+
+El repositorio creció hasta convertirse en uno de los [más populares en Github](https://octoverse.github.com/), pese a todo ello en el existía un enorme déficit de contenido en español.
 
 Esta escisión se centra en enfocar el proyecto hacía el idioma **español**, facilitando recursos de habla hispana hacía programadores, desarrolladores o personas interesadas en el mundo de las nuevas tecnologías en general.
 
@@ -358,15 +362,15 @@ ___
 
 ## Contribuir
 
-Vista la nula aportación al repositorio durante todo el tiempo de su existencia. La fórmula de contribución se reduce a enviarme un correo electrónico con el elemento a incluir en cuestión al correo: [rosepac21@gmail.com](mailto:rosepac21@gmail.com).
+Vista la nula aportación al repositorio. La fórmula de contribución se reduce a enviarme un correo electrónico con el elemento a incluir en cuestión: [rosepac21@gmail.com](mailto:rosepac21@gmail.com).
 
-Solamente recordar que **los recursos**, deben contener información libre / gratuita o bajo licencia de Creative Commons, MIT u similar. En el caso de las páginas web o guías online, **NO deben contener abusiva publicidad**.
+Solamente recordar que **los recursos**, deben contener información libre / gratuita o bajo licencia de Creative Commons, MIT u similar.
 
-El otro medio de contribución, es mediante la donación; **porque triste es pedir, pero más triste es robar** 😹
+El otro medio de contribución, es mediante la donación (**Porque triste es pedir, pero más triste es robar** 😹).
 
-Si te ha gustado encontrar este repositorio y deseas que siga actualizándose puedes apoyarme a través de una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") o grande -guiño, guiño- eso ya depende de tu deseo y posibilidades.
+Si deseas que esto siga vivo, puedes realizar una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") y si es grande -guiño, guiño- yo tampoco me enfado.
 ___
 
 ## Autoría
 
-Este repositorio ha sido creado por **el asturiano [Pablo Álvarez Corredera**](https://ciberninjas.com/quien-soy/) al que también se le puede encontrar bajo **el nickname de ROSEPAC**.
+Este repositorio fue creado y es mantenido por **el asturiano [Pablo Álvarez Corredera**](https://ciberninjas.com/quien-soy/)** al que también podrás encontrar en las redes bajo **el nombre de perfil de CIBERNINJAS** y que, desde hace muchos años ha estado utlizando el **nickname de RoSePaC**.
