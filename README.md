@@ -309,10 +309,6 @@ ___
 
 + [Framework´s JavaScript](/recursos-frameworks-javascript.md#angularjs)
 
-## Podcast - Screencast
-
-+ Los podcasts sobre programación o tecnología en español, ¿son inexistentes? Ayúdame a encontrarlos..
-
 ___
 
 ## Introducción
