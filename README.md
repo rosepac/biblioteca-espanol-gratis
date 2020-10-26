@@ -1,4 +1,4 @@
-# Recursos de Programación y Tecnología
+# Biblioteca de Recursos de Programación y Tecnología
 
 [![Donación](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
 [![Facebook Cibercursos](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/cibercursos)
@@ -7,7 +7,7 @@
 ![Stars](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ___
 
-## Índice
+## Menú del Índice
 
 + [Introducción](#introducci%C3%B3n)
 + [Índice Global](#índice-global)
@@ -17,11 +17,11 @@ ___
 
 ## Índice Global
 
-+ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/)
-+ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/)
-+ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/)
++ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/ "Biblioteca de Programación y Tecnología")
++ [Bibliotecas de Novelas Clásicas GRATIS 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#bibliotecas-online "Bibliotecas de Novelas Clásicas GRATIS")
++ [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/ "Cursos de Programación y Tecnología")
++ [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/ "Cursos de Animación y Diseño Gráfico")
 + [Cursos de Otras Actividades y Profesiones 🚀](https://ciberninjas.com/cursos-otras-tematicas/)
-+ [Bibliotecas de libros Clásicos GRATIS 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#bibliotecas-online)
 
 <!-- + [Páginas de Programación](/paginas-programacion.md#index) -->
 [🔝 Regresar al Inicio](#índice)
@@ -31,20 +31,33 @@ ___
 
 A continuación enlaces por secciones a los diferentes índices extendidos existentes.
 
-+ [Cursos de Programación](#cursos-de-programaci%C3%B3n-y-tecnología-)
-    + [Desarrollo Web](#-desarrollo-web--ir-a-la-sección)
-    + [Lenguajes de Programación](#-lenguajes-de-programación-cursos--ir-a-la-sección)
-+ [Cursos de Otras Tecnologías](#-desarrollo-web--ir-a-la-sección)
-+ [Libros de Programación](#libros-de-programación-y-tecnología-)
-    + [Libros de Desarrollo Web](#-desarrollo-web-libros--ir-a-la-sección)
-    + [Libros de Lenguajes de Programación](#-lenguajes-de-programación-libros--ir-a-la-sección)
-    + [Libros de Otras Tecnologías](#libros-de-otras-tecnologías)
-
+- [Cursos de Programación y Tecnología 🚀](#cursos-de-programación-y-tecnología- "Cursos de Programación y Tecnología")
+- [Cursos de Desarrollo Web 👩‍💻 > Ir a la Sección](#desarrollo-web-cursos---ir-a-la-sección "Desarrollo Web Cursos")
+- [Diseño Web Cursos 👨‍🎨](#diseño-web-cursos-)
+- [Lenguajes de Programación Cursos 👨‍💻 > Ir a la Sección](#lenguajes-de-programación-cursos---ir-a-la-sección)
+- [Otras Tecnologías Cursos 👩‍🎓](#otras-tecnologías-cursos-)
+- [Libros de Programación y Tecnología 👩‍🚀](#libros-de-programación-y-tecnología-)
+- [Desarrollo Web Libros 👩‍💻 > Ir a la Sección](#desarrollo-web-libros---ir-a-la-sección)
+- [Lenguajes de Programación Libros 👨‍💻 > Ir a la Sección](#lenguajes-de-programación-libros---ir-a-la-sección)
+- [Libros de Otras Tecnologías](#libros-de-otras-tecnologías)
+- [Índice Extendido de Cursos de Animación y Diseño](#índice-extendido-de-cursos-de-animación-y-diseño)
+    - [Cursos de Animación y Diseño](#cursos-de-animación-y-diseño)
+  - [Índice Extendido de Cursos de Temáticas Variadas](#índice-extendido-de-cursos-de-temáticas-variadas)
+    - [Cursos de Diferentes Temáticas en Línea Gratis](#cursos-de-diferentes-temáticas-en-línea-gratis)
 [🔝 Regresar al Inicio](#índice) [⬆ Regresar al Índice Global](#índice-global)
 
-## Cursos de Programación y Tecnología 🚀
+## **Redes Sociales Ciberninjas**
 
-## Desarrollo Web Cursos 👩‍💻 > [Ir a la Sección](https://ciberninjas.com/cursos-programacion-web-movil/)
++ [Página Web de Ciberninjas](https://kutt.it/ciberninjas "Página Ciberninjas, entra y encuentra todo lo que necesitas para programar, desarrollar y diseñar")
++ [Comunidad de DISCORD]([https](https://discord.gg/97tKkxk) "Comunidad Discord de Ciberninjas")
++ [Comunidad de TELEGRAM](https://t.me/s/ciberninjas "Canal de Actualizaciones de Telegram")
++ [Canal de Conversación de TELEGRAM](https://t.me/s/ciberninjascomunidad)
++ [Comunidad de Facebook](https://facebook.com/groups/ciberninjas "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
++ [TWITTER](https://kutt.it/ciberninjast "Redirecciona al Twitter Oficial de Ciberninjas")
+
+**🚀 Cursos Gratuitos de Programación y Tecnología**
+
+## Cursos de Desarrollo Web 👩‍💻 > [Ir a la Sección](https://ciberninjas.com/cursos-programacion-web-movil/)
 
 + [Android](https://ciberninjas.com/cursos-android/#cursos-gratis-de-android)
     + [Dart](https://ciberninjas.com/cursos-android/#cursos-gratis-de-dart)
@@ -65,7 +78,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 [⬆ Regresar al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
 
-## Diseño Web Cursos 👨‍🎨
+## Cursos de Diseño Web 👨‍🎨
 
 * [Bootstrap](https://ciberninjas.com/cursos-bootstrap/)
 * [Dreamweaver](https://ciberninjas.com/cursos-prototipado-ux-ui/#dreamweaver)
@@ -81,43 +94,38 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 ## Lenguajes de Programación Cursos 👨‍💻 > [Ir a la Sección](https://ciberninjas.com/cursos-programacion/)
 
-+ [C, C#, C++](https://ciberninjas.com/cursos-programacion/#c-c-c)
-+ [Ensamblador](https://ciberninjas.com/cursos-programacion/#ensamblador)
-+ [Go](https://ciberninjas.com/cursos-programacion/#go)
-+ [Java](https://ciberninjas.com/cursos-programacion/#java-)
-+ [Java Frameworks](https://ciberninjas.com/cursos-programacion/#java-frameworks-)
-    + [Play](https://ciberninjas.com/cursos-programacion/#play)
-    + [PrimeFaces](https://ciberninjas.com/cursos-programacion/#primefaces)
-    + [String](https://ciberninjas.com/cursos-programacion/#string)
-    + [Struts](https://ciberninjas.com/cursos-programacion/#struts)
++ [C, C#, C++](https://ciberninjas.com/cursos-programacion/#curso-gratis-c)
++ [Ensamblador](https://ciberninjas.com/cursos-programacion/#curso-gratis-ensamblador)
++ [Go](https://ciberninjas.com/cursos-programacion/#cursos-gratis-go)
++ [Java](https://ciberninjas.com/cursos-programacion/#cursos-gratis-java)
++ [Java Frameworks](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-framework-java)
 + [Javascript](https://ciberninjas.com/cursos-programacion/#javascript)
-+ [Javascript Frameworks](https://ciberninjas.com/cursos-programacion/#javascript)
-    + Visitar Sección de [Desarrollo Web](#-desarrollo-web--ir-a-la-sección) allí podrás encontrar lo relacionado a [Angular](https://ciberninjas.com/cursos-programacion/#angular), [React](https://ciberninjas.com/cursos-programacion/#react-), [Vue](https://ciberninjas.com/cursos-programacion/#vue), NodeJS, JQuery y otros frameworks creados con Javascript.
-+ [Perl](https://ciberninjas.com/cursos-programacion/#perl)
-+ [PHP](https://ciberninjas.com/cursos-programacion/#php-)
-+ [PHP Frameworks](https://ciberninjas.com/cursos-programacion/#php-frameworks-)
-    + [CakePHP](https://ciberninjas.com/cursos-programacion/#cakephp)
-    + [CodeIgniter](https://ciberninjas.com/cursos-programacion/#codeigniter)
-    + [Laravel](https://ciberninjas.com/cursos-programacion/#laravel-)
-    + [Symfony](https://ciberninjas.com/cursos-programacion/#symfony-)
-    + [Zend](https://ciberninjas.com/cursos-programacion/#zend)
-+ [Python](https://ciberninjas.com/cursos-programacion/#python-)
-+ [Python Frameworks](https://ciberninjas.com/cursos-programacion/#python-frameworks-)
-+ [Ruby](https://ciberninjas.com/cursos-programacion/#ruby-)
-+ [Ruby Frameworks](https://ciberninjas.com/cursos-programacion/#ruby-frameworks-)
-    + [Ruby and Rails](https://ciberninjas.com/cursos-programacion/#ruby-and-rails)
+  + [Javascript Frameworks](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-programaci%C3%B3n-web
+    + [Angular](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-angular-framework), [React](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-react-framework), [Vue](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-vue-framework), NodeJS, JQuery y otros frameworks creados con Javascript.
++ [Perl](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-perl)
++ [PHP](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-php)
+  + [PHP Frameworks](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-php-frameworks)
+    + [CakePHP](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-cakephp), [CodeIgniter](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-codeigniter), [Laravel](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-laravel), [Symfony](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-symfony), [Yii](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-yii), [Zend](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-zend)
++ [Python](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-python)
+  + [Python Frameworks](https://ciberninjas.com/cursos-programacion/#python-frameworks): [Django](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-django), [Flask](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-flask)
++ [Ruby](https://ciberninjas.com/cursos-programacion/#cursos-gratis-ruby)
+  + [Ruby Frameworks](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-ruby-frameworks): [Ruby and Rails](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-ruby-and-rails-framework)
++ [Sistemas de ERP](https://ciberninjas.com/cursos-programacion/#sistemas-de-erp)
++ [Swift](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-laravel)
++ [TypeScript](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-typescript)
++ [Web scraping](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-web-scraping)
 
 [⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
 
 ## Otras Tecnologías Cursos 👩‍🎓
 
-+ [Educación Global](https://ciberninjas.com/cursos-tecnologia/#educaci%C3%B3n-global-)
++ [Aprende con Ciberninjas](https://ciberninjas.com/cursos-tecnologia/#aprende-con-ciberninjas)
++ [Academias Cursos Globales](https://ciberninjas.com/cursos-tecnologia/#academias-de-cursos-masivos-)
 + [Accesibilidad Web](https://ciberninjas.com/cursos-accesibilidad-web/)
 + [Análitica Web](https://ciberninjas.com/cursos-seo-posicionamiento/)
 + [Bases de Datos](https://ciberninjas.com/cursos-bases-datos/#cursos-gratis-de-bases-de-datos)
-    + [Big Data](https://ciberninjas.com/cursos-big-data/)
-    + [Machine Learning](https://ciberninjas.com/cursos-machine-y-deep-learning/)
     + [SQL](https://ciberninjas.com/cursos-bases-datos/#cursos-gratis-de-sql)
++ [Big Data](https://ciberninjas.com/cursos-big-data/)
 + [Blockchain](https://ciberninjas.com/cursos-blockchain-criptos/)
     + [Cadena de Bloques](https://ciberninjas.com/cursos-blockchain-criptos/#cursos-gratis-de-cadena-de-bloques-)
     + [Criptomonedas](https://ciberninjas.com/cursos-blockchain-criptos/#cursos-gratis-de-criptomonedas-)
@@ -125,87 +133,90 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
         + [Dash](https://ciberninjas.com/cursos-blockchain-criptos/#cursos-gratis-de-dash)
     + [Trading](https://ciberninjas.com/cursos-blockchain-criptos/#cursos-gratis-de-trading)
 + [Ciencias de la Computación](https://ciberninjas.com/cursos-ciencias-computacion/)
-+ [Comercio Electrónico](https://ciberninjas.com/cursos-tecnologia/#-comercio-electr%C3%B3nico)
-    + [Prestashop](https://ciberninjas.com/cursos-comercio-electronico/#prestashop)
-    + [WooCommerce](https://ciberninjas.com/cursos-comercio-electronico/#woocommerce)
++ [Comercio Electrónico](https://ciberninjas.com/cursos-comercio-electronico/)
+    + [Prestashop](https://ciberninjas.com/cursos-comercio-electronico/#cursos-gratis-de-prestashop)
+    + [WooCommerce](https://ciberninjas.com/cursos-comercio-electronico/#cursos-gratis-de-woocommerce)
 + [Ecosistema de Código Abierto](https://ciberninjas.com/cursos-linux-software-libre/)
-    + [Linux](https://ciberninjas.com/cursos-linux-software-libre/#linux-)
-    + [Ubuntu](https://ciberninjas.com/cursos-linux-software-libre/#ubuntu)
+    + [Linux](https://ciberninjas.com/cursos-linux-software-libre/#cursos-gratis-de-linux)
+    + [Ubuntu](https://ciberninjas.com/cursos-linux-software-libre/#cursos-gratis-de-ubuntu)
++ [Machine & Deep Learning](https://ciberninjas.com/cursos-machine-y-deep-learning/)
 + [Marketing Digital](https://ciberninjas.com/cursos-marketing-digital/)
 + [Metodologías de Desarrollo](https://ciberninjas.com/cursos-flujos-trabajo-workflow/)
-    + [Integración Continua](https://ciberninjas.com/cursos-flujos-trabajo-workflow/#integraci%C3%B3n-continua)
-    + [Grunt](https://ciberninjas.com/cursos-flujos-trabajo-workflow/#grunt)
+    + [Integración Continua](https://ciberninjas.com/cursos-flujos-trabajo-workflow/#cursos-gratis-de-integraci%C3%B3n-continua)
+    + [Grunt](https://ciberninjas.com/cursos-flujos-trabajo-workflow/#cursos-gratis-de-grunt)
+    + [QA Pruebas](https://ciberninjas.com/cursos-flujos-trabajo-workflow/#cursos-gratis-de-qa-pruebas)
     + [Estudiar](https://ciberninjas.com/cursos-flujos-trabajo-workflow/#estudiar-)
 + [Ofimática](https://ciberninjas.com/cursos-ofimatica/)
 + [Procesadores de Lenguaje](https://ciberninjas.com/cursos-de-procesadores-de-lenguajes/)
 + [Programación de Videojuegos](https://ciberninjas.com/cursos-videojuegos/)
 + [Programación Infantil](https://ciberninjas.com/cursos-programacion-infantil/)
-    + [App Inventor](https://ciberninjas.com/cursos-programacion-infantil/#app-inventor)
-    + [Scratch](https://ciberninjas.com/cursos-programacion-infantil/#scratch-)
+    + [App Inventor](https://ciberninjas.com/cursos-programacion-infantil/#cursos-gratis-de-app-inventor)
+    + [Scratch](https://ciberninjas.com/cursos-programacion-infantil/#cursos-gratis-de-programaci%C3%B3n-con-scratch)
 + [Redes](https://ciberninjas.com/cursos-redes/)
 + [Redes de Telefonía](https://ciberninjas.com/cursos-redes-telefonicas/)
 + [Robótica](https://ciberninjas.com/cursos-robotica/)
-    + [Arduino](https://ciberninjas.com/cursos-robotica/#arduino-)
-    + [Casas Inteligentes](https://ciberninjas.com/cursos-robotica/#casas-inteligentes-)
-    + [Inteligencia Artificial](https://ciberninjas.com/cursos-robotica/#inteligencia-artificial)
-    + [Raspberry Pi](https://ciberninjas.com/cursos-robotica/#raspberry-pi)
+    + [Arduino](https://ciberninjas.com/cursos-robotica/#cursos-gratis-de-arduino)
+    + [Casas Inteligentes](https://ciberninjas.com/cursos-robotica/#cursos-gratis-de-iot)
+    + [Inteligencia Artificial](https://ciberninjas.com/cursos-robotica/#cursos-gratis-de-inteligencia-artificial)
+    + [Raspberry Pi](https://ciberninjas.com/cursos-robotica/#cursos-gratis-de-raspberry-pi)
 + [Seguridad](https://ciberninjas.com/cursos-seguridad/)
 + [SEO y Posicionamiento](https://ciberninjas.com/cursos-seo-posicionamiento/)
 + [Servidores y Servicios Nube](https://ciberninjas.com/cursos-servidores/)
 + [Técnico de Software & Hardware](https://ciberninjas.com/cursos-tecnico-software/)
 + [Webmaster](https://ciberninjas.com/cursos-web-webmaster/)
-    + [Facebook](https://ciberninjas.com/cursos-marketing-digital/#facebook-)
-    + [Instagram](https://ciberninjas.com/cursos-marketing-digital/#instagram-)
-    + [Pinterest](https://ciberninjas.com/cursos-marketing-digital/#pinterest-)
-    + [Youtube](https://ciberninjas.com/cursos-marketing-digital/#youtube-)
+    + [Facebook](https://ciberninjas.com/cursos-marketing-digital/#cursos-gratis-de-facebook)
+    + [Instagram](https://ciberninjas.com/cursos-marketing-digital/#cursos-gratis-de-instagram)
+    + [Pinterest](https://ciberninjas.com/cursos-marketing-digital/#cursos-gratis-de-pinterest)
+    + [Youtube](https://ciberninjas.com/cursos-marketing-digital/#cursos-gratis-de-youtube)
 + [Sistemas de Gestión de Contenidos](https://ciberninjas.com/cursos-sistemas-gestion-cms/)
-    + [Blogger](https://ciberninjas.com/cursos-sistemas-gestion-cms/#blogger)
-    + [Drupal](https://ciberninjas.com/cursos-sistemas-gestion-cms/#drupal)
-    + [Joomla](https://ciberninjas.com/cursos-sistemas-gestion-cms/#joomla)
-    + [Moodle](https://ciberninjas.com/cursos-sistemas-gestion-cms/#moodle)
-    + [Wordpress](https://ciberninjas.com/cursos-sistemas-gestion-cms/#wordpress-)
+    + [Blogger](https://ciberninjas.com/cursos-sistemas-gestion-cms/#cursos-gratis-de-blogger)
+    + [Drupal](https://ciberninjas.com/cursos-sistemas-gestion-cms/#cursos-gratis-de-drupal)
+    + [Joomla](https://ciberninjas.com/cursos-sistemas-gestion-cms/#cursos-gratis-de-joomla)
+    + [Moodle](https://ciberninjas.com/cursos-sistemas-gestion-cms/#cursos-gratis-de-moodle)
+    + [Wordpress](https://ciberninjas.com/cursos-sistemas-gestion-cms/#cursos-gratis-de-wordpress)
 
 [⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
 
-## Libros de Programación y Tecnología 👩‍🚀
+**👨‍🚀 Los Mejores Libros Gratuitos de Programación y Tecnología**
 
-## Desarrollo Web Libros 👩‍💻 > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-desarrollo-web)
+## Libros de Desarrollo Web 👩‍💻 > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-desarrollo-web)
 
-+ [Android](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#android-)
-+ [Docker](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#docker-)
-+ [Coffescript](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#coffescript)
-+ [Git](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#git-)
-+ [Github](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#github-)
++ [Android](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-android)
++ [Docker](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-docker)
++ [Coffescript](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-coffescript)
++ [Git](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-git)
++ [Github](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-github)
 + [HTML / CSS](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#html--css---)
 
-## Lenguajes de Programación Libros 👨‍💻 > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programaci%C3%B3n)
+## Libros de Lenguajes de Programación 👨‍💻 > [Ir a la Sección](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programaci%C3%B3n)
 
  + [C](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c)
  + [C++](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#c-1)
 + [Emacs](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#emacs-y-lisp)
-+ [Ensamblador](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#ensamblador)
-+ [Erlang](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#erlang)
-+ [Haskell](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#haskell)
-+ [Java](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#java)
-+ [JavaScript](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-javascript)
-+ [Linux](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#linux-)
-+ [.NET](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#net-c--visual-studio)
-+ [NoSql](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#nosql)
-  + [MongoDB](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#mongodb)
-  + [Redis](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#redis)
-+ [Perl](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#perl)
-+ [PHP](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#php--)
-+ [Python](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#python-)
-  + [Django](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#django)
-  + [Web2Py](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#web2py)
-+ [R](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#r)
-+ [Ruby](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#ruby)
-  + [Ruby on Rails](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#ruby-on-rails)
-+ [Scala](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#scala)
++ [Ensamblador](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-ensamblador)
++ [Erlang](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-erlang)
++ [Haskell](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-haskell)
++ [Java](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-java)
++ [JavaScript](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-javascript)
++ [Linux](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-linux)
++ [.NET](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-net-c--visual-studio)
++ [NoSql](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-nosql)
+  + [MongoDB](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-mongodb)
+  + [Redis](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-redis)
++ [Perl](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-perl)
++ [PHP](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-php)
++ [Python](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python)
+  + [Django](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-django)
+  + [Web2Py](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-web2py)
++ [R](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-r)
++ [Ruby](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-ruby)
+  + [Ruby on Rails](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-ruby-on-rails)
++ [Scala](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-scala)
 + [Scratch](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#scratch)
-+ [SVG](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#svg)
-+ [Swift](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#swift-)
-+ [TeX & LaTeX](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#tex--latex)
++ [SVG](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-svg)
++ [Swift](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-swift)
++ [TeX & LaTeX](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-tex--latex)
++ [Programación de Videojuegos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-de-programacion-de-videojuegos)
 
 [⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
 
@@ -297,38 +308,18 @@ ___
 + [Software Educativo](https://ciberninjas.com/cursos-otras-tematicas/#software-educativo)
 
 [⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
-___
-
-### Recursos Gratuitos
-
-## Desarrollo Front-End Framework´s, Librerías
-
-+ [Desarrollo Front-End Recopilación de Librerías Útiles](/librerias-front-end.md)
-
-## Recursos de Framework´s  de JavaScript
-
-+ [Framework´s JavaScript](/recursos-frameworks-javascript.md#angularjs)
 
 ___
 
-## Introducción
+## **Introducción**
 
 Este proyecto afronta la recopilación de cursos, libros, marcadores y web´s de interés bajo licencias libres con el único condicionante de que debe estar enfocado hacía los individuos de habla hispana, ósea; estar en **español**.
 
 Estas listas son una idea surgida en Abril de 2017, derivada de una pequeña escisión del contenido primario generado en su mayoría por mí; sobre el recopilatorio de [Free Programming-Books](https://github.com/EbookFoundation/free-programming-books "Fundación de Libros Libres en Inglés"); donde por ejemplo, el apartado de Cursos en Español, ni tan siquiera existía y fue creado por mi por completo.
 
-Desde aquí, alentar y **AGRADECER** con mi más sincero **APLAUSO** a toda la Comunidad Hispana que prosigue generando tan buen contenido bajo licencias de Creative Commons como el existente aquí.
+**Un Abrazo, del [Baby Yoda Master](https://kutt.it/ciberninjas "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera") 🐱‍🏍
 
-**Un Fuerte Abrazo, del Ciberninja Mayor**: [Pablo Álvarez Corredera](https://kutt.it/ciberninjas "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera") 🐱‍🏍
-
-## Redes Sociales
-
-+ [Conoce nuestra web de Ciberninjas](https://kutt.it/ciberninjas "Página Ciberninjas, entra y encuentra todo lo que necesitas para programar, desarrollar y diseñar")
-+ Únete a Nuestra [Comunidad de Facebook](https://kutt.it/comunidad "Comunidad en Facebook de Ciberninjas") o [Instagram](https://kutt.it/instagram_cn)
-+ [Sigue las Noticias en Twitter](https://kutt.it/ciberninjast "Redirecciona al Twitter Oficial de Ciberninjas")
-+ Los Últimos Cursos publicados GRATIS en [Ciberninjas](https://kutt.it/cibercursos "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
-
-## Historia
+## **Historia**
 
 ### 2020
 
@@ -346,7 +337,7 @@ Se implementan iconos correspondientes a las diferentes temáticas y se recogen 
 
 ### 2018
 
-A fecha 12 de Diciembre de 2.018 el proyecto se amplía. Abriendo el repositorio de contenidos tecnológicos hacía otras temáticas, siempre enfocado en unificar los numerosos contenidos de aprendizaje libres y de habla hispana disponibles a través de todo internet.
+A fecha 12 de Diciembre de 2.018 el proyecto se amplía. Abriendo el repositorio de contenidos tecnológicos hacía otras temáticas, siempre enfocado en unificar los numerosos contenidos de aprendizaje libres y de habla hispana disponibles a través de Internet.
 
 ### 2017
 
@@ -362,15 +353,18 @@ ___
 
 ## Contribuir
 
-Vista la nula aportación al repositorio. La fórmula de contribución se reduce a enviarme un correo electrónico con el elemento a incluir en cuestión: [rosepac21@gmail.com](mailto:rosepac21@gmail.com).
+Por mayor comodidad, la fórmula de contribución se ha reducido a enviarme un correo electrónico con el elemento a incluir en cuestión: **[rosepac21@gmail.com](mailto:rosepac21@gmail.com)**.
 
-Solamente recordar que **los recursos**, deben contener información libre / gratuita o bajo licencia de Creative Commons, MIT u similar.
+Dicho esto, se abrió una nueva vía de participación, la [publicación dentro de la página web](https://ciberninjas.com/ciberninjas-redactores/ "Cómo publicar en el blog de programación de los Ciberninjas").
 
-El otro medio de contribución, es mediante la donación (**Porque triste es pedir, pero más triste es robar** 😹).
+**Los recursos debe ser contenido información libre bajo licencia de Creative Commons, MIT u similar**.
 
-Si deseas que esto siga vivo, puedes realizar una pequeña [donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas") y si es grande -guiño, guiño- yo tampoco me enfado.
+El otro medio de contribución, es mediante [la donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas").
+
+> **Porque triste es pedir, pero más triste es robar** 😹
+
 ___
 
 ## Autoría
 
-Este repositorio fue creado y es mantenido por **el asturiano [Pablo Álvarez Corredera**](https://ciberninjas.com/quien-soy/)** al que también podrás encontrar en las redes bajo **el nombre de perfil de CIBERNINJAS** y que, desde hace muchos años ha estado utlizando el **nickname de RoSePaC**.
+Este repositorio fue creado y es mantenido por **el asturiano [Pablo Álvarez Corredera**](https://ciberninjas.com/quien-soy/)** al que también podrás encontrar en las redes bajo **el nombre de perfil de CIBERNINJAS** y que, desde hace muchos años ha estado utlizando **el nickname de RoSePaC**.
