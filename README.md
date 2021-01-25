@@ -7,6 +7,9 @@
 ![Stars](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ___
 
+![Visitante](https://visitor-badge.glitch.me/badge?page_id=rosepac.biblioteca-espanol-gratis)
+___
+
 ## Menú del Índice
 
 + [Introducción](#introducci%C3%B3n)
