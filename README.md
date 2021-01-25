@@ -1,11 +1,11 @@
 # Ciberninjas: Biblioteca de Recursos de IT
 
-![Visitante](https://visitor-badge.glitch.me/badge?page_id=rosepac.biblioteca-espanol-gratis)
-[![Donación](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=rosepac.biblioteca-espanol-gratis)
+[![Donativo](https://img.shields.io/badge/donativo-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
 [![Discord Ciberninjas](https://img.shields.io/badge/Discord-Ciberninjas-blue.svg?style=flat-square)](https://discord.gg/97tKkxk)
 [![Twitter Ciberninjas](https://img.shields.io/badge/Twitter-Ciberninjas-blue.svg?style=flat-square)](https://twitter.com/ciberninjas)
-[![Facebook Ciberninjas](https://img.shields.io/badge/Facebook-ciberninjas-red.svg?style=flat-square)](https://facebook.com/ciberninjas)
-[![Fecha de Creación del repositorio biblioteca en español de Github](https://img.shields.io/badge/created-abril%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
+[![Facebook Ciberninjas](https://img.shields.io/badge/Facebook-Ciberninjas-red.svg?style=flat-square)](https://facebook.com/ciberninjas)
+[![Fecha de Creación del repositorio biblioteca en español de Github](https://img.shields.io/badge/Creado-abril%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
 ![Stars](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ![Forks del repositorio](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ___
@@ -13,8 +13,10 @@ ___
 🚨 Cambios, correcciones, añadidos, etc 🚨
 
 👉 [Envíame un EMILIO 💌](mailto:rosepac21@gmail.com)
+
 👉 [Un Mensaje Directo en TWITTER](https://twitter.com/ciberninjas)
-👉 Próximamente, mediante un comentario en la web (👷‍♂️)
+
+👉 Próximamente, mediante un comentarios en la web (🚧)
 
 ___
 ## Menú del Índice
@@ -363,11 +365,9 @@ ___
 
 ## Contribuir
 
-Por mayor comodidad, la fórmula de contribución se ha reducido a enviarme un correo electrónico con el elemento a incluir en cuestión: **[rosepac21@gmail.com](mailto:rosepac21@gmail.com)**.
+Por comodidad, la fórmula de contribución se ha reducido al correo electrónico: **[rosepac21@gmail.com](mailto:rosepac21@gmail.com)**. Dicho esto, pronto espero abrir la vía de participación mediante [publicaciones dentro de la propia página web](https://ciberninjas.com/ciberninjas-redactores/ "Cómo publicar en el blog de programación de los Ciberninjas").
 
-Dicho esto, se abrió una nueva vía de participación, la [publicación dentro de la página web](https://ciberninjas.com/ciberninjas-redactores/ "Cómo publicar en el blog de programación de los Ciberninjas").
-
-**Los recursos debe ser contenido información libre bajo licencia de Creative Commons, MIT u similar**.
+**Los recursos deben ser contenidos nuevos y no publicados antes en Internet y deben encontrarse bajo licencia Creative Commons, MIT, Apache o similar**.
 
 El otro medio de contribución, es mediante [la donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas").
 
@@ -377,4 +377,4 @@ ___
 
 ## Autoría
 
-Este repositorio fue creado y es mantenido por **el asturiano [Pablo Álvarez Corredera**](https://ciberninjas.com/quien-soy/)** al que también podrás encontrar en las redes bajo **el nombre de perfil de CIBERNINJAS** y que, desde hace muchos años ha estado utlizando **el nickname de RoSePaC**.
+Este repositorio fue creado y es mantenido por **el asturiano **[Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy/)**, puedes encontrarme en redes bajo **el nombre de perfil de CIBERNINJAS** y desde hace muchos años ha estado utlizando **el nickname de RoSePaC**.
