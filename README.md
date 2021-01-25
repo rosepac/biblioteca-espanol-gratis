@@ -2,8 +2,9 @@
 
 ![Visitante](https://visitor-badge.glitch.me/badge?page_id=rosepac.biblioteca-espanol-gratis)
 [![Donación](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
-[![Twitter Ciberninjas](https://img.shields.io/badge/creator-rosepac-blue.svg?style=flat-square)](https://facebook.com/cibercursos)
-[![Facebook Ciberninjas](https://img.shields.io/badge/creator-rosepac-red.svg?style=flat-square)](https://facebook.com/cibercursos)
+[![Discord Ciberninjas](https://img.shields.io/badge/Discord-Ciberninjas-blue.svg?style=flat-square)](https://discord.gg/97tKkxk)
+[![Twitter Ciberninjas](https://img.shields.io/badge/Twitter-Ciberninjas-blue.svg?style=flat-square)](https://twitter.com/ciberninjas)
+[![Facebook Ciberninjas](https://img.shields.io/badge/Facebook-ciberninjas-red.svg?style=flat-square)](https://facebook.com/ciberninjas)
 [![Fecha de Creación del repositorio biblioteca en español de Github](https://img.shields.io/badge/created-abril%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
 ![Stars](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ![Forks del repositorio](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
