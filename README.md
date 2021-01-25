@@ -1,4 +1,4 @@
-# Biblioteca de Recursos de Programación y Tecnología
+# Ciberninjas: Biblioteca de Recursos de IT
 
 ![Visitante](https://visitor-badge.glitch.me/badge?page_id=rosepac.biblioteca-espanol-gratis)
 [![Donación](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
@@ -22,7 +22,7 @@ ___
 + [Introducción](#introducci%C3%B3n)
 + [Índice Global](#índice-global)
 + [Índice Extendido](#índice-extendido)
-+ [Sígueme](#redes-sociales)
++ [Redes Sociales](#redes-sociales-ciberninjas)
 + [Contribuir](#contribuir)
 
 ## Índice Global
