@@ -10,6 +10,9 @@
 ![Forks del repositorio](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ___
 
+🚨 Cambios, correcciones, añadidos, etc 🚨 👉 [Envíame un EMILIO 💌](mailto:rosepac21@gmail.com) o mediante [Mensaje Directo en TWITTER](https://twitter.com/ciberninjas), o muy pronto, mediante comentarios en la web. Saludos 🤗
+
+___
 ## Menú del Índice
 
 + [Introducción](#introducci%C3%B3n)
@@ -27,7 +30,7 @@ ___
 + [Cursos de Otras Actividades y Profesiones 🚀](https://ciberninjas.com/cursos-otras-tematicas/)
 
 <!-- + [Páginas de Programación](/paginas-programacion.md#index) -->
-[🔝 Regresar al Inicio](#índice)
+[🔝 Regresar al Inicio](#menú-del-índice)
 ___
 
 ## Índice Extendido
@@ -47,12 +50,12 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
     - [Cursos de Animación y Diseño](#cursos-de-animación-y-diseño)
   - [Índice Extendido de Cursos de Temáticas Variadas](#índice-extendido-de-cursos-de-temáticas-variadas)
     - [Cursos de Diferentes Temáticas en Línea Gratis](#cursos-de-diferentes-temáticas-en-línea-gratis)
-[🔝 Regresar al Inicio](#índice) [⬆ Regresar al Índice Global](#índice-global)
+[🔝 Regresar al Inicio](#menú-del-índice) [⬆ Regresar al Índice Global](#índice-global)
 
 ## **Redes Sociales Ciberninjas**
 
 + [Página Web de Ciberninjas](https://kutt.it/ciberninjas "Página Ciberninjas, entra y encuentra todo lo que necesitas para programar, desarrollar y diseñar")
-+ [Comunidad de DISCORD]([https](https://discord.gg/97tKkxk) "Comunidad Discord de Ciberninjas")
++ [Comunidad de DISCORD](https://discord.gg/97tKkxk "Comunidad Discord de Ciberninjas")
 + [Comunidad de TELEGRAM](https://t.me/s/ciberninjas "Canal de Actualizaciones de Telegram")
 + [Canal de Conversación de TELEGRAM](https://t.me/s/ciberninjascomunidad)
 + [Comunidad de Facebook](https://facebook.com/groups/ciberninjas "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
@@ -79,7 +82,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Software](https://ciberninjas.com/cursos-tecnico-software/)
     + [Editores de Código](https://ciberninjas.com/cursos-editores-texto/)
 
-[⬆ Regresar al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+[⬆ Regresar al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#menú-del-índice)
 
 ## Cursos de Diseño Web 👨‍🎨
 
@@ -103,7 +106,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Java](https://ciberninjas.com/cursos-programacion/#cursos-gratis-java)
 + [Java Frameworks](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-framework-java)
 + [Javascript](https://ciberninjas.com/cursos-programacion/#javascript)
-  + [Javascript Frameworks](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-programaci%C3%B3n-web
+  + [Javascript Frameworks](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-programaci%C3%B3n-web)
     + [Angular](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-angular-framework), [React](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-react-framework), [Vue](https://ciberninjas.com/cursos-programacion-web-movil/#cursos-gratis-de-vue-framework), NodeJS, JQuery y otros frameworks creados con Javascript.
 + [Perl](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-perl)
 + [PHP](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-php)
@@ -118,7 +121,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [TypeScript](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-typescript)
 + [Web scraping](https://ciberninjas.com/cursos-programacion/#cursos-gratis-de-web-scraping)
 
-[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#menú-del-índice)
 
 ## Otras Tecnologías Cursos 👩‍🎓
 
@@ -178,7 +181,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
     + [Moodle](https://ciberninjas.com/cursos-sistemas-gestion-cms/#cursos-gratis-de-moodle)
     + [Wordpress](https://ciberninjas.com/cursos-sistemas-gestion-cms/#cursos-gratis-de-wordpress)
 
-[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#menú-del-índice)
 
 **👨‍🚀 Los Mejores Libros Gratuitos de Programación y Tecnología**
 
@@ -221,7 +224,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [TeX & LaTeX](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-tex--latex)
 + [Programación de Videojuegos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-de-programacion-de-videojuegos)
 
-[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#menú-del-índice)
 
 ## Libros de Otras Tecnologías
 
@@ -251,7 +254,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 + [Servicios en red](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#servicios-en-red)
 + [Sistemas Operativos](https://github.com/rosepac/biblioteca-espanol-gratis/blob/master/libros-programacion-gratis.md#sistemas-operativos)
 
-[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#menú-del-índice)
 
 ___
 
@@ -272,7 +275,7 @@ ___
 + [Sonido](https://ciberninjas.com/cursos-animacion-diseno/#sonido)
 + [Vídeo](https://ciberninjas.com/cursos-animacion-diseno/#v%C3%ADdeo)
 
-[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#menú-del-índice)
 
 ## Índice Extendido de Cursos de Temáticas Variadas
 
@@ -310,7 +313,7 @@ ___
 + [Servicios Sociales](https://ciberninjas.com/cursos-otras-tematicas/#servicios-sociales)
 + [Software Educativo](https://ciberninjas.com/cursos-otras-tematicas/#software-educativo)
 
-[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#índice)
+[⬆ Subir al Índice Extendido](#índice-extendido) [🔝 Regresar al Inicio](#menú-del-índice)
 
 ___
 
@@ -320,7 +323,7 @@ Este proyecto afronta la recopilación de cursos, libros, marcadores y web´s de
 
 Estas listas son una idea surgida en Abril de 2017, derivada de una pequeña escisión del contenido primario generado en su mayoría por mí; sobre el recopilatorio de [Free Programming-Books](https://github.com/EbookFoundation/free-programming-books "Fundación de Libros Libres en Inglés"); donde por ejemplo, el apartado de Cursos en Español, ni tan siquiera existía y fue creado por mi por completo.
 
-**Un Abrazo, del [Baby Yoda Master](https://kutt.it/ciberninjas "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera") 🐱‍🏍
+**Un Abrazo, del [Baby Yoda Master](https://kutt.it/ciberninjas "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera")** 🐱‍🏍
 
 ## **Historia**
 
