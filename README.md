@@ -10,13 +10,7 @@
 ![Forks del repositorio](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ___
 
-🚨 Cambios, correcciones, añadidos, etc 🚨
-
-👉 [Envíame un EMILIO 💌](mailto:rosepac21@gmail.com)
-
-👉 [Un Mensaje Directo en TWITTER](https://twitter.com/ciberninjas)
-
-👉 Próximamente, mediante un comentarios en la web (🚧)
+🚨 Cambios, correcciones, añadidos, etc 🚨 👉 [Envíame un EMILIO 💌](mailto:rosepac21@gmail.com) o 👉 [Un Mensaje Directo en TWITTER](https://twitter.com/ciberninjas)
 
 ___
 ## Menú del Índice
