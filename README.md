@@ -1,4 +1,4 @@
-# Ciberninjas: Biblioteca de Recursos de IT
+# Biblioteca de Libros en Español para Programación y Tecnología
 
 ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=rosepac.biblioteca-espanol-gratis)
 [![Donativo](https://img.shields.io/badge/donativo-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
