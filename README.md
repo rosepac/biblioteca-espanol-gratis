@@ -23,7 +23,7 @@ ___
 
 ## Índice Global
 
-+ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/ "Biblioteca de Programación y Tecnología")
++ [Biblioteca de Programación y Tecnología 📚](https://ciberninjas.com/biblioteca/ "Biblioteca de Programación y Tecnología Gratis")
 + [Bibliotecas de Novelas Clásicas GRATIS 🎒](https://ciberninjas.com/biblioteca-novela-poesia/#bibliotecas-online "Bibliotecas de Novelas Clásicas GRATIS")
 + [Cursos de Programación y Tecnología 💻](https://ciberninjas.com/cursos-tecnologia/ "Cursos de Programación y Tecnología")
 + [Cursos de Animación y Diseño Gráfico 🎨](https://ciberninjas.com/cursos-animacion-diseno/ "Cursos de Animación y Diseño Gráfico")
