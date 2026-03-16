@@ -1,7 +1,7 @@
 # Biblioteca de Libros en Español para Programación y Tecnología
 
 [![Donativo](https://img.shields.io/badge/donativo-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
-[![CIBERED X](https://img.shields.io/badge/Twitter-Ciberninjas-blue.svg?style=flat-square)](https://twitter.com/ciberedx)
+[![CIBERED X](https://img.shields.io/badge/Twitter-CIBERED-blue.svg?style=flat-square)](https://twitter.com/ciberedx)
 [![CIBERED FACEBOOK](https://img.shields.io/badge/Facebook-CIBERED-red.svg?style=flat-square)](https://facebook.com/ciberedx)
 [![Fecha de Creación del repositorio biblioteca en español de Github](https://img.shields.io/badge/Creado-abril%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
 ![Stars](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
@@ -16,8 +16,6 @@ ___
 + [Introducción](#introducci%C3%B3n)
 + [Índice Global](#índice-global)
 + [Índice Extendido](#índice-extendido)
-+ [Redes Sociales](#redes-sociales-ciberninjas)
-+ [Contribuir](#contribuir)
 
 ## Índice Global
 
@@ -60,15 +58,6 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
   - [Contribuir](#contribuir)
   - [Autoría](#autoría)
 [🔝 Regresar al Inicio](#menú-del-índice) [⬆ Regresar al Índice Global](#índice-global)
-
-## **Redes Sociales Ciberninjas**
-
-+ [Página Web de Ciberninjas](https://kutt.it/ciberninjas "Página Ciberninjas, entra y encuentra todo lo que necesitas para programar, desarrollar y diseñar")
-+ [Comunidad de DISCORD](https://discord.gg/97tKkxk "Comunidad Discord de Ciberninjas")
-+ [Comunidad de TELEGRAM](https://t.me/s/ciberninjas "Canal de Actualizaciones de Telegram")
-+ [Canal de Conversación de TELEGRAM](https://t.me/s/ciberninjascomunidad)
-+ [Comunidad de Facebook](https://facebook.com/groups/ciberninjas "Facebook en el que se publican todos los cursos de este repositorio, uno a uno")
-+ [TWITTER](https://kutt.it/ciberninjast "Redirecciona al Twitter Oficial de Ciberninjas")
 
 **🚀 Cursos Gratuitos de Programación y Tecnología**
 
@@ -136,7 +125,7 @@ A continuación enlaces por secciones a los diferentes índices extendidos exist
 
 ## Otras Tecnologías Cursos 👩‍🎓
 
-+ [Aprende con Ciberninjas](https://cibered.com/cursos-tecnologia/cursos-tecnologia/#Aprendiendo_con_Ciberninjas)
++ [Aprende con CIBERED](https://cibered.com/cursos-tecnologia/cursos-tecnologia/#Aprendiendo_con_Ciberninjas)
 + [Accesibilidad Web](https://cibered.com/cursos-tecnologia/cursos-accesibilidad-web/)
 + [Análitica Web](https://cibered.com/cursos-tecnologia/cursos-seo-posicionamiento/)
 + [Bases de Datos](https://cibered.com/cursos-tecnologia/cursos-bases-datos/#Los_Mejores_Cursos_Gratis_de_Bases_de_Datos)
@@ -341,21 +330,25 @@ Este proyecto afronta la recopilación de cursos, libros, marcadores y web´s de
 
 Estas listas son una idea surgida en Abril de 2017, derivada de una pequeña escisión del contenido primario generado en su mayoría por mí; sobre el recopilatorio de [Free Programming-Books](https://github.com/EbookFoundation/free-programming-books "Fundación de Libros Libres en Inglés"); donde por ejemplo, el apartado de Cursos en Español, ni tan siquiera existía y fue creado por mi por completo.
 
-**Un Abrazo, de [Pablo Álvarez Corredera](https://kutt.it/ciberninjas "Página Ciberninjas, creada y gestionada por Pablo Álvarez Corredera")** 🐱‍🏍
+**Un Abrazo, de Pablo Álvarez Corredera** 🐱‍🏍
 
 ## **Historia**
+
+### 2026
+
+La IA lo ha superado a todo :O Aún así, seguimos en pie, ahora nos llamamos CIBERED ;)
 
 ### 2020
 
 Se seccionan los cursos en categorías, se suprimen la mayoría de íconos y se trabaja en ir actualizando los cursos de las diferentes secciones a lo largo del año.
 
-Por lo demás, hemos estado entretenidos con la página web [CIBERNINJAS](https://cibered.com).
+Por lo demás, hemos estado entretenidos con la página web [CIBEREDE](https://cibered.com).
 
 ### 2019
 
-En Noviembre de 2019, el proyecto pasa a ser enlazado junto a la página de [Ciberninjas](https://kutt.it/ciberninjas "Página web de Recursos de Programación: Ciberninjas"). Ganando así, una mayor libertad de creación y uso por mi parte. Seguiré dejando el índice principal por temática desde aquí para las personas a las que no les guste la nueva gestión visual a través de emojis sumada dentro de la página.
+En Noviembre de 2019, el proyecto pasa a ser enlazado junto a la página de CIBERED. Ganando así, una mayor libertad de creación y uso por mi parte. Seguiré dejando el índice principal por temática desde aquí para las personas a las que no les guste la nueva gestión visual a través de emojis sumada dentro de la página.
 
-El proyecto es ampliado y cruzado con la página [Ciberninjas](https://cibered.com) en post de facilitar su mantenimiento desde un único lugar y ofreciendome así, una mayor funcionalidad. Esa misma página web seguirá estando alojada [dentro de Github](https://github.com/rosepac/ciberninjas).
+El proyecto es ampliado y cruzado con la página [CIBERED](https://cibered.com) en post de facilitar su mantenimiento desde un único lugar y ofreciendome así, una mayor funcionalidad. Esa misma página web seguirá estando alojada dentro de Github.
 
 Se implementan iconos correspondientes a las diferentes temáticas y se recogen los videotutoriales dentro de la propia página. Se implementan otros contenidos de aprendizaje e información básicos.
 
@@ -377,11 +370,11 @@ ___
 
 ## Contribuir
 
-Por comodidad, la fórmula de contribución se ha reducido al correo electrónico: **[rosepac21@gmail.com](mailto:rosepac21@gmail.com)**. Dicho esto, pronto espero abrir la vía de participación mediante [publicaciones dentro de la propia página web](https://cibered.com/ciberninjas-redactores/ "Cómo publicar en el blog de programación de los Ciberninjas").
+Por comodidad, la fórmula de contribución se ha reducido al correo electrónico: **[rosepac21@gmail.com](mailto:rosepac21@gmail.com)**.
 
 **Los recursos deben ser contenidos nuevos y no publicados antes en Internet y deben encontrarse bajo licencia Creative Commons, MIT, Apache o similar**.
 
-El otro medio de contribución, es mediante [la donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto Ciberninjas").
+El otro medio de contribución, es mediante [la donación](https://paypal.me/ciberninjas "Donativo a través de Paypal al Proyecto CIBERED").
 
 > **Porque triste es pedir, pero más triste es robar** 😹
 
@@ -389,4 +382,4 @@ ___
 
 ## Autoría
 
-Este repositorio fue creado y es mantenido por **el asturiano **[Pablo Álvarez Corredera](https://cibered.com/quien-soy/)**, puedes encontrarme en redes bajo **el nombre de perfil de CIBERNINJAS** y desde hace muchos años ha estado utlizando **el nickname de RoSePaC**.
+Este repositorio fue creado y es mantenido por **el asturiano **[Pablo Álvarez Corredera](https://cibered.com/quien-soy/)**, puedes encontrarme en redes bajo **el nombre de perfil de CIBERED** y desde hace muchos años ha estado utlizando **el nickname de RoSePaC**.
