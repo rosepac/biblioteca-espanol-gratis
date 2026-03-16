@@ -1,6 +1,5 @@
 # Biblioteca de Libros en Español para Programación y Tecnología
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=rosepac.biblioteca-espanol-gratis)
 [![Donativo](https://img.shields.io/badge/donativo-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
 [![Discord Ciberninjas](https://img.shields.io/badge/Discord-Ciberninjas-blue.svg?style=flat-square)](https://discord.gg/97tKkxk)
 [![Twitter Ciberninjas](https://img.shields.io/badge/Twitter-Ciberninjas-blue.svg?style=flat-square)](https://twitter.com/ciberninjas)
