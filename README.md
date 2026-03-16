@@ -1,9 +1,8 @@
 # Biblioteca de Libros en Español para Programación y Tecnología
 
 [![Donativo](https://img.shields.io/badge/donativo-paypal-brightgreen.svg?style=flat-square)](https://paypal.me/ciberninjas "Donación a Ciberninjas")
-[![Discord Ciberninjas](https://img.shields.io/badge/Discord-Ciberninjas-blue.svg?style=flat-square)](https://discord.gg/97tKkxk)
-[![Twitter Ciberninjas](https://img.shields.io/badge/Twitter-Ciberninjas-blue.svg?style=flat-square)](https://twitter.com/ciberninjas)
-[![Facebook Ciberninjas](https://img.shields.io/badge/Facebook-Ciberninjas-red.svg?style=flat-square)](https://facebook.com/ciberninjas)
+[![CIBERED X](https://img.shields.io/badge/Twitter-Ciberninjas-blue.svg?style=flat-square)](https://twitter.com/ciberedx)
+[![CIBERED FACEBOOK](https://img.shields.io/badge/Facebook-Ciberninjas-red.svg?style=flat-square)](https://facebook.com/ciberedx)
 [![Fecha de Creación del repositorio biblioteca en español de Github](https://img.shields.io/badge/Creado-abril%202017-orange.svg?style=flat-square)](https://github.com/rosepac/biblioteca-espanol-gratis)
 ![Stars](https://img.shields.io/github/stars/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
 ![Forks del repositorio](https://img.shields.io/github/forks/rosepac/biblioteca-espanol-gratis.svg?style=flat-square)
